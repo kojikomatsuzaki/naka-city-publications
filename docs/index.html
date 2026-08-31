@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="那珂市刊行物の章・節・項と開始ページを検索・閲覧できる目次データベースです。">
+    <title>那珂市刊行物目次データ</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <p class="eyebrow">Naka City Publications — Tables of Contents</p>
+        <h1>那珂市刊行物目次データ</h1>
+        <p class="lead">
+          『那珂市史』、旧『那珂町史』、『那珂町史の研究』、旧『瓜連町史』の
+          章・節・項と開始ページを横断して調べられます。
+        </p>
+        <div class="primary-actions" aria-label="データの利用">
+          <a class="button button--primary" href="./data/naka-city-publications.csv" download>CSVをダウンロード</a>
+          <a class="button" href="./data/naka-city-publications.json">JSONを表示</a>
+          <a class="button" href="https://github.com/kojikomatsuzaki/naka-city-publications/tree/main/data/toc">YAML正本</a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="summary-section" aria-labelledby="summary-heading">
+        <div class="section-inner">
+          <h2 id="summary-heading" class="visually-hidden">データ概要</h2>
+          <dl class="summary-grid">
+            <div class="summary-card">
+              <dt>刊行物</dt>
+              <dd id="publication-count">—</dd>
+            </div>
+            <div class="summary-card">
+              <dt>目次項目</dt>
+              <dd id="entry-count">—</dd>
+            </div>
+            <div class="summary-card">
+              <dt>要確認</dt>
+              <dd id="uncertain-count">—</dd>
+            </div>
+            <div class="summary-card">
+              <dt>データ版</dt>
+              <dd id="dataset-version">—</dd>
+            </div>
+          </dl>
+        </div>
+      </section>
+
+      <section class="search-section" aria-labelledby="search-heading">
+        <div class="section-inner">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Search</p>
+              <h2 id="search-heading">目次を探す</h2>
+            </div>
+            <p id="result-summary" class="result-summary" aria-live="polite">データを読み込んでいます。</p>
+          </div>
+
+          <form id="search-form" class="search-controls" role="search">
+            <label class="control control--wide">
+              <span>キーワード</span>
+              <input id="search-input" type="search" placeholder="例：茶道、古墳、教育" autocomplete="off">
+            </label>
+            <label class="control">
+              <span>刊行物</span>
+              <select id="publication-filter">
+                <option value="all">すべて</option>
+              </select>
+            </label>
+            <label class="control">
+              <span>巻号</span>
+              <select id="volume-filter">
+                <option value="all">すべて</option>
+              </select>
+            </label>
+            <label class="checkbox-control">
+              <input id="uncertain-filter" type="checkbox">
+              <span>判読に不確実性がある項目のみ</span>
+            </label>
+            <button id="reset-button" class="button button--quiet" type="reset">条件をリセット</button>
+          </form>
+        </div>
+      </section>
+
+      <section class="results-section" aria-labelledby="results-heading">
+        <div class="section-inner">
+          <h2 id="results-heading" class="visually-hidden">検索結果</h2>
+          <div id="results" class="publication-list" aria-busy="true"></div>
+          <p id="empty-message" class="empty-message" hidden>条件に一致する目次項目はありません。</p>
+        </div>
+      </section>
+
+      <section class="about-section" aria-labelledby="about-heading">
+        <div class="section-inner about-grid">
+          <div>
+            <p class="eyebrow">About the data</p>
+            <h2 id="about-heading">データについて</h2>
+          </div>
+          <div class="about-copy">
+            <p>
+              YAMLを正本とし、Web表示用JSONと確認・参照・印刷用CSVを同じデータから生成しています。
+              CSVとJSONは直接編集せず、YAMLのバージョン更新時に全件再生成します。
+            </p>
+            <p>
+              旧字体・異体字は可能な限り原資料の表記を保持しています。
+              OCRと画像目視でも判読に不確実性が残る箇所は「要確認」として明示しています。
+            </p>
+            <p>
+              原資料は<a href="https://www.city.naka.lg.jp/sp/edu-board/bunkazai/rekishiminzoku/page010949.html">那珂市「那珂市刊行物」</a>をご覧ください。
+            </p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="section-inner">
+        <p>データ編集：小松崎浩司（Hiroshi Komatsuzaki）</p>
+      </div>
+    </footer>
+
+    <noscript>
+      <p class="noscript-message">目次の検索・表示にはJavaScriptが必要です。CSVまたはJSONは上部のリンクから利用できます。</p>
+    </noscript>
+  </body>
+</html>
+

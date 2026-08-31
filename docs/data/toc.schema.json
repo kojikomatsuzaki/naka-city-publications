@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kojikomatsuzaki.github.io/naka-city-publications/data/toc.schema.json",
+  "title": "那珂市刊行物目次データ",
+  "description": "刊行物単位のメタデータと目次項目を表すYAML文書のスキーマ。",
+  "type": "object",
+  "required": ["publication", "entries"],
+  "additionalProperties": false,
+  "properties": {
+    "publication": {
+      "type": "object",
+      "required": ["publication_number", "title", "source_pdf_url"],
+      "additionalProperties": false,
+      "properties": {
+        "publication_number": { "type": "string", "pattern": "^(新刊|[1-9])$" },
+        "title": { "type": "string", "minLength": 1 },
+        "source_pdf_url": { "type": "string", "format": "uri" }
+      }
+    },
+    "entries": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/entry" }
+    }
+  },
+  "$defs": {
+    "nullableText": { "type": ["string", "null"] },
+    "entry": {
+      "type": "object",
+      "required": [
+        "id", "sequence", "heading_level", "volume", "chapter",
+        "section", "item", "start_page", "page_reference"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^naka-toc-(new|0[1-9])-[0-9]{4}$" },
+        "sequence": { "type": "integer", "minimum": 1 },
+        "heading_level": { "enum": ["chapter", "section", "item"] },
+        "volume": { "$ref": "#/$defs/nullableText" },
+        "chapter": { "$ref": "#/$defs/nullableText" },
+        "section": { "$ref": "#/$defs/nullableText" },
+        "item": { "$ref": "#/$defs/nullableText" },
+        "start_page": { "type": ["integer", "null"], "minimum": 1 },
+        "page_reference": {
+          "type": "object",
+          "required": ["status"],
+          "additionalProperties": false,
+          "properties": {
+            "status": { "enum": ["stated", "not_listed", "parent_only"] },
+            "parent_start_page": { "type": "integer", "minimum": 1 }
+          }
+        },
+        "verification": {
+          "type": "object",
+          "required": ["status", "fields", "note"],
+          "additionalProperties": false,
+          "properties": {
+            "status": { "enum": ["uncertain", "normalized"] },
+            "fields": {
+              "type": "array",
+              "minItems": 1,
+              "uniqueItems": true,
+              "items": {
+                "enum": ["volume", "chapter", "section", "item", "start_page"]
+              }
+            },
+            "note": { "type": "string", "minLength": 1 }
+          }
+        }
+      }
+    }
+  }
+}

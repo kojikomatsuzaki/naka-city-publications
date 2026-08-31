@@ -1,0 +1,185 @@
+publication:
+  publication_number: '7'
+  title: 那珂町史の研究
+  source_pdf_url: https://www.city.naka.lg.jp/data/doc/1745047429_doc_902_0.pdf
+entries:
+  - id: naka-toc-07-0001
+    sequence: 1
+    heading_level: item
+    volume: 第12号
+    chapter: null
+    section: null
+    item: 題字
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-07-0002
+    sequence: 2
+    heading_level: item
+    volume: 第12号
+    chapter: null
+    section: null
+    item: 序
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-07-0003
+    sequence: 3
+    heading_level: item
+    volume: 第12号
+    chapter: null
+    section: null
+    item: 那珂町周辺の古代の地名について（1）
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-07-0004
+    sequence: 4
+    heading_level: item
+    volume: 第12号
+    chapter: null
+    section: null
+    item: 中世の城館と文化財保護（2）―茨城県那珂郡那珂町について―
+    start_page: 13
+    page_reference:
+      status: stated
+  - id: naka-toc-07-0005
+    sequence: 5
+    heading_level: item
+    volume: 第12号
+    chapter: null
+    section: null
+    item: 近世における農村荒廃と家―有賀・飯田・上青柳・上河内村の事例から―
+    start_page: 38
+    page_reference:
+      status: stated
+  - id: naka-toc-07-0006
+    sequence: 6
+    heading_level: item
+    volume: 第12号
+    chapter: null
+    section: null
+    item: 明治十年茨城県布達による学校沿革誌について
+    start_page: 46
+    page_reference:
+      status: stated
+  - id: naka-toc-07-0007
+    sequence: 7
+    heading_level: item
+    volume: 第12号
+    chapter: null
+    section: null
+    item: 日華事変と那珂地方―『寺門治平日記』と「神崎村諸書類綴」から―
+    start_page: 60
+    page_reference:
+      status: stated
+  - id: naka-toc-07-0008
+    sequence: 8
+    heading_level: item
+    volume: 第12号
+    chapter: null
+    section: null
+    item: 自治体史の編さんと史料保存活用について
+    start_page: 90
+    page_reference:
+      status: stated
+  - id: naka-toc-07-0009
+    sequence: 9
+    heading_level: item
+    volume: 第12号
+    chapter: null
+    section: null
+    item: 町史編さん略日誌（一二）
+    start_page: 112
+    page_reference:
+      status: stated
+  - id: naka-toc-07-0010
+    sequence: 10
+    heading_level: item
+    volume: 第12号
+    chapter: null
+    section: null
+    item: 編集後記
+    start_page: 115
+    page_reference:
+      status: stated
+  - id: naka-toc-07-0011
+    sequence: 11
+    heading_level: item
+    volume: 第13号
+    chapter: null
+    section: null
+    item: 題字
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-07-0012
+    sequence: 12
+    heading_level: item
+    volume: 第13号
+    chapter: null
+    section: null
+    item: 序
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-07-0013
+    sequence: 13
+    heading_level: item
+    volume: 第13号
+    chapter: null
+    section: null
+    item: 那珂町周辺の古代の地名について（2）
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-07-0014
+    sequence: 14
+    heading_level: item
+    volume: 第13号
+    chapter: null
+    section: null
+    item: 村方文書の調査と整理について
+    start_page: 16
+    page_reference:
+      status: stated
+  - id: naka-toc-07-0015
+    sequence: 15
+    heading_level: item
+    volume: 第13号
+    chapter: null
+    section: null
+    item: 大東亜戦争（太平洋戦争）と那珂地方―『寺門治平日記』から―
+    start_page: 43
+    page_reference:
+      status: stated
+  - id: naka-toc-07-0016
+    sequence: 16
+    heading_level: item
+    volume: 第13号
+    chapter: null
+    section: null
+    item: 農地改革から農業改革へ
+    start_page: 101
+    page_reference:
+      status: stated
+  - id: naka-toc-07-0017
+    sequence: 17
+    heading_level: item
+    volume: 第13号
+    chapter: null
+    section: null
+    item: 町史編さん略日誌（一三）
+    start_page: 117
+    page_reference:
+      status: stated
+  - id: naka-toc-07-0018
+    sequence: 18
+    heading_level: item
+    volume: 第13号
+    chapter: null
+    section: null
+    item: 編集後記
+    start_page: 119
+    page_reference:
+      status: stated

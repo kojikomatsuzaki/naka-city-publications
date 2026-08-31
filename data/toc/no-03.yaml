@@ -1,0 +1,2856 @@
+publication:
+  publication_number: '3'
+  title: 那珂町史
+  source_pdf_url: https://www.city.naka.lg.jp/data/doc/1745047412_doc_902_0.pdf
+entries:
+  - id: naka-toc-03-0001
+    sequence: 1
+    heading_level: item
+    volume: 近代・現代編
+    chapter: null
+    section: null
+    item: 口絵
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-03-0002
+    sequence: 2
+    heading_level: item
+    volume: 近代・現代編
+    chapter: null
+    section: null
+    item: 発刊のことば
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0003
+    sequence: 3
+    heading_level: item
+    volume: 近代・現代編
+    chapter: null
+    section: null
+    item: 凡例
+    start_page: 3
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0004
+    sequence: 4
+    heading_level: chapter
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: null
+    item: null
+    start_page: 17
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0005
+    sequence: 5
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第一節　廃藩置県と新しい地方制度
+    item: null
+    start_page: 17
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0006
+    sequence: 6
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第一節　廃藩置県と新しい地方制度
+    item: 府藩県三治の体制
+    start_page: 17
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0007
+    sequence: 7
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第一節　廃藩置県と新しい地方制度
+    item: 廃藩置県
+    start_page: 19
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0008
+    sequence: 8
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第一節　廃藩置県と新しい地方制度
+    item: 壬申戸籍の実施
+    start_page: 20
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0009
+    sequence: 9
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第一節　廃藩置県と新しい地方制度
+    item: 大区・小区制の発足と明治六年区制
+    start_page: 24
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0010
+    sequence: 10
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第一節　廃藩置県と新しい地方制度
+    item: 高まる小村合併の気運
+    start_page: 29
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0011
+    sequence: 11
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第一節　廃藩置県と新しい地方制度
+    item: 明治八年の区制
+    start_page: 33
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0012
+    sequence: 12
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第一節　廃藩置県と新しい地方制度
+    item: 明治十年区制と村長制
+    start_page: 35
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0013
+    sequence: 13
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第一節　廃藩置県と新しい地方制度
+    item: 人民総代とその選挙
+    start_page: 37
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0014
+    sequence: 14
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第一節　廃藩置県と新しい地方制度
+    item: 議事所（民会）
+    start_page: 39
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0015
+    sequence: 15
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第一節　廃藩置県と新しい地方制度
+    item: 町村議事会と民費
+    start_page: 41
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0016
+    sequence: 16
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第二節　三新法下の各村の再編
+    item: null
+    start_page: 45
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0017
+    sequence: 17
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第二節　三新法下の各村の再編
+    item: 三新法の制定
+    start_page: 45
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0018
+    sequence: 18
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第二節　三新法下の各村の再編
+    item: 那珂郡役所の設置
+    start_page: 48
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0019
+    sequence: 19
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第二節　三新法下の各村の再編
+    item: 連合戸長役場
+    start_page: 49
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0020
+    sequence: 20
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第二節　三新法下の各村の再編
+    item: 連合村時の人民総代と町村会
+    start_page: 52
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0021
+    sequence: 21
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第二節　三新法下の各村の再編
+    item: 明治十七年改正連合制
+    start_page: 56
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0022
+    sequence: 22
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第三節　地租改正と那珂郡農民一揆
+    item: null
+    start_page: 61
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0023
+    sequence: 23
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第三節　地租改正と那珂郡農民一揆
+    item: 明治初期の税制改革プラン
+    start_page: 61
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0024
+    sequence: 24
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第三節　地租改正と那珂郡農民一揆
+    item: 地租改正法の内容と実施
+    start_page: 63
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0025
+    sequence: 25
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第三節　地租改正と那珂郡農民一揆
+    item: 那珂郡農民一揆の蜂起
+    start_page: 71
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0026
+    sequence: 26
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第三節　地租改正と那珂郡農民一揆
+    item: 耕宅地改租の完成
+    start_page: 75
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0027
+    sequence: 27
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第三節　地租改正と那珂郡農民一揆
+    item: 山林原野の改租
+    start_page: 79
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0028
+    sequence: 28
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第三節　地租改正と那珂郡農民一揆
+    item: 地租改正の結果
+    start_page: 80
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0029
+    sequence: 29
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第四節　草創期の小学校
+    item: null
+    start_page: 81
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0030
+    sequence: 30
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第四節　草創期の小学校
+    item: 学制発布と小学校の創立
+    start_page: 82
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0031
+    sequence: 31
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第四節　草創期の小学校
+    item: 小学校教育への努力
+    start_page: 85
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0032
+    sequence: 32
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第四節　草創期の小学校
+    item: 学区編成・教育内容
+    start_page: 87
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0033
+    sequence: 33
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第四節　草創期の小学校
+    item: 酒出小学校沿革誌・菅谷小学校沿革誌
+    start_page: 90
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0034
+    sequence: 34
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第四節　草創期の小学校
+    item: 教育令から小学校令へ
+    start_page: 95
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0035
+    sequence: 35
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第五節　維新政府の社寺政策
+    item: null
+    start_page: 98
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0036
+    sequence: 36
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第五節　維新政府の社寺政策
+    item: 神仏分離と廃仏毀釈
+    start_page: 99
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0037
+    sequence: 37
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第五節　維新政府の社寺政策
+    item: 祭政一致と大教宣布
+    start_page: 101
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0038
+    sequence: 38
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第五節　維新政府の社寺政策
+    item: 社寺領上地と寺跡復立
+    start_page: 103
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0039
+    sequence: 39
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第五節　維新政府の社寺政策
+    item: 神道国教化と国民教化政策
+    start_page: 108
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0040
+    sequence: 40
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第六節　士族解体と徴兵令
+    item: null
+    start_page: 111
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0041
+    sequence: 41
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第六節　士族解体と徴兵令
+    item: 士族の解体
+    start_page: 111
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0042
+    sequence: 42
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第六節　士族解体と徴兵令
+    item: 士族鎮台兵から徴兵へ
+    start_page: 113
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0043
+    sequence: 43
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第六節　士族解体と徴兵令
+    item: 徴兵忌避
+    start_page: 115
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0044
+    sequence: 44
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第六節　士族解体と徴兵令
+    item: 西南戦争と徴兵鎮台兵
+    start_page: 119
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0045
+    sequence: 45
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第七節　自由民権運動
+    item: null
+    start_page: 119
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0046
+    sequence: 46
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第七節　自由民権運動
+    item: 県内の民権結社の活動
+    start_page: 119
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0047
+    sequence: 47
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第七節　自由民権運動
+    item: 土木費の地方負担と県会の分裂
+    start_page: 123
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0048
+    sequence: 48
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第七節　自由民権運動
+    item: 松方デフレ下の政情と民権活動
+    start_page: 126
+    page_reference:
+      status: stated
+    verification:
+      status: uncertain
+      fields:
+        - start_page
+      note: 開始ページはOCR及び画像目視で判読に不確実性あり
+  - id: naka-toc-03-0049
+    sequence: 49
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第七節　自由民権運動
+    item: 民権結社集宣会の活動
+    start_page: 128
+    page_reference:
+      status: stated
+    verification:
+      status: uncertain
+      fields:
+        - start_page
+      note: 開始ページはOCR及び画像目視で判読に不確実性あり
+  - id: naka-toc-03-0050
+    sequence: 50
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第八節　交通・通信の変遷
+    item: null
+    start_page: 130
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0051
+    sequence: 51
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第八節　交通・通信の変遷
+    item: 那珂地方の街道
+    start_page: 130
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0052
+    sequence: 52
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第八節　交通・通信の変遷
+    item: 人力車と陸運会社
+    start_page: 133
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0053
+    sequence: 53
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第八節　交通・通信の変遷
+    item: 渡し場と久慈川の渡船場
+    start_page: 137
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0054
+    sequence: 54
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第八節　交通・通信の変遷
+    item: 久慈川新橋架設
+    start_page: 141
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0055
+    sequence: 55
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第八節　交通・通信の変遷
+    item: 郵便制度の発足
+    start_page: 145
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0056
+    sequence: 56
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第九節　諸産業の動向
+    item: null
+    start_page: 150
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0057
+    sequence: 57
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第九節　諸産業の動向
+    item: 農業生産力の位置
+    start_page: 150
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0058
+    sequence: 58
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第九節　諸産業の動向
+    item: 製茶業の盛況
+    start_page: 152
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0059
+    sequence: 59
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第九節　諸産業の動向
+    item: 活発な養蚕
+    start_page: 156
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0060
+    sequence: 60
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第九節　諸産業の動向
+    item: 酒造業の再編成とその経営
+    start_page: 159
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0061
+    sequence: 61
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第九節　諸産業の動向
+    item: 商品経済のひろがり
+    start_page: 162
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0062
+    sequence: 62
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第九節　諸産業の動向
+    item: 金融と地主制
+    start_page: 163
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0063
+    sequence: 63
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第一〇節　治安体制の整備
+    item: null
+    start_page: 170
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0064
+    sequence: 64
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第一〇節　治安体制の整備
+    item: 新しい警察制度の発足
+    start_page: 172
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0065
+    sequence: 65
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第一〇節　治安体制の整備
+    item: 菅谷警察分署の誕生
+    start_page: 175
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0066
+    sequence: 66
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第一〇節　治安体制の整備
+    item: 巡査駐在所等
+    start_page: 179
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0067
+    sequence: 67
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第一章　近代国家への歩みと那珂地方
+    section: 第一〇節　治安体制の整備
+    item: 消防組制度
+    start_page: 184
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0068
+    sequence: 68
+    heading_level: chapter
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: null
+    item: null
+    start_page: 187
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0069
+    sequence: 69
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第一節　地方行政制度の成立
+    item: null
+    start_page: 187
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0070
+    sequence: 70
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第一節　地方行政制度の成立
+    item: 府県制、郡制の公布
+    start_page: 187
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0071
+    sequence: 71
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第一節　地方行政制度の成立
+    item: 那珂郡役所新築問題で紛争
+    start_page: 190
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0072
+    sequence: 72
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第一節　地方行政制度の成立
+    item: 選挙制度の改革
+    start_page: 194
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0073
+    sequence: 73
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第二節　地方自治権の拡大
+    item: null
+    start_page: 201
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0074
+    sequence: 74
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第二節　地方自治権の拡大
+    item: 市制・町村制の公布
+    start_page: 201
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0075
+    sequence: 75
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第二節　地方自治権の拡大
+    item: 規模合理化の必要性と政府の企画
+    start_page: 203
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0076
+    sequence: 76
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第二節　地方自治権の拡大
+    item: 市制・町村制による大合併
+    start_page: 207
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0077
+    sequence: 77
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第二節　地方自治権の拡大
+    item: 村政の実態と変遷
+    start_page: 218
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0078
+    sequence: 78
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第三節　日清・日露戦争と那珂地方
+    item: null
+    start_page: 220
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0079
+    sequence: 79
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第三節　日清・日露戦争と那珂地方
+    item: 日清戦争と民衆動員
+    start_page: 220
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0080
+    sequence: 80
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第三節　日清・日露戦争と那珂地方
+    item: 日露戦争と国民動員
+    start_page: 223
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0081
+    sequence: 81
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第三節　日清・日露戦争と那珂地方
+    item: 戦時下の国民生活
+    start_page: 227
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0082
+    sequence: 82
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第三節　日清・日露戦争と那珂地方
+    item: 日露講和と国民の動き
+    start_page: 233
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0083
+    sequence: 83
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第四節　交通・通信の近代化
+    item: null
+    start_page: 235
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0084
+    sequence: 84
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第四節　交通・通信の近代化
+    item: 太田鉄道開通
+    start_page: 235
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0085
+    sequence: 85
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第四節　交通・通信の近代化
+    item: 通信の発達
+    start_page: 245
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0086
+    sequence: 86
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第五節　諸産業の進展
+    item: null
+    start_page: 249
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0087
+    sequence: 87
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第五節　諸産業の進展
+    item: 近代農業への過渡期
+    start_page: 249
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0088
+    sequence: 88
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第五節　諸産業の進展
+    item: 養蚕と製糸
+    start_page: 256
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0089
+    sequence: 89
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第五節　諸産業の進展
+    item: 葉たばこ栽培の拡大
+    start_page: 257
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0090
+    sequence: 90
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第五節　諸産業の進展
+    item: 製茶の低迷
+    start_page: 259
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0091
+    sequence: 91
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第五節　諸産業の進展
+    item: 減少する酒造業
+    start_page: 261
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0092
+    sequence: 92
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第五節　諸産業の進展
+    item: 請負業・出稼ぎ
+    start_page: 262
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0093
+    sequence: 93
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第五節　諸産業の進展
+    item: 商業など諸営業の進展と肥料商の台頭
+    start_page: 263
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0094
+    sequence: 94
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第五節　諸産業の進展
+    item: 諸会社の設立と挫折
+    start_page: 266
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0095
+    sequence: 95
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第五節　諸産業の進展
+    item: 農業の指導奨励と農会
+    start_page: 267
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0096
+    sequence: 96
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第五節　諸産業の進展
+    item: 購買販売信用組合の設立
+    start_page: 271
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0097
+    sequence: 97
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第五節　諸産業の進展
+    item: 資産家の金融
+    start_page: 273
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0098
+    sequence: 98
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第五節　諸産業の進展
+    item: 地主制と小作地の増加
+    start_page: 275
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0099
+    sequence: 99
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第五節　諸産業の進展
+    item: 農村の窮乏と市町村是の制定
+    start_page: 278
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0100
+    sequence: 100
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第六節　国民教育の確立
+    item: null
+    start_page: 282
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0101
+    sequence: 101
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第六節　国民教育の確立
+    item: 小学校令・町村制実施と小学校
+    start_page: 282
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0102
+    sequence: 102
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第六節　国民教育の確立
+    item: 国家的な学校行事
+    start_page: 285
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0103
+    sequence: 103
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第六節　国民教育の確立
+    item: 那珂第一高等小学校と組合立高等小学校
+    start_page: 287
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0104
+    sequence: 104
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第六節　国民教育の確立
+    item: 菅谷村・五台村・芳野村組合立農学校
+    start_page: 289
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0105
+    sequence: 105
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第六節　国民教育の確立
+    item: 夜学会・実業補習学校と戊申青年会
+    start_page: 292
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0106
+    sequence: 106
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第六節　国民教育の確立
+    item: 学校の郷土誌編さん
+    start_page: 297
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0107
+    sequence: 107
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第七節　民間武術の発達
+    item: null
+    start_page: 303
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0108
+    sequence: 108
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第七節　民間武術の発達
+    item: 民間武術の概要
+    start_page: 303
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0109
+    sequence: 109
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第七節　民間武術の発達
+    item: 新編為我流柔術と那珂地方
+    start_page: 304
+    page_reference:
+      status: stated
+    verification:
+      status: uncertain
+      fields:
+        - start_page
+      note: 開始ページはOCR及び画像目視で判読に不確実性あり
+  - id: naka-toc-03-0110
+    sequence: 110
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第七節　民間武術の発達
+    item: 無比流杖術
+    start_page: 306
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0111
+    sequence: 111
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第七節　民間武術の発達
+    item: 三和無敵流
+    start_page: 308
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0112
+    sequence: 112
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第七節　民間武術の発達
+    item: 武徳会設立による武道の普及
+    start_page: 309
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0113
+    sequence: 113
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第八節　治安施設と消防の発達
+    item: null
+    start_page: 313
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0114
+    sequence: 114
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第八節　治安施設と消防の発達
+    item: 警察分署・派出所・駐在所の動向
+    start_page: 313
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0115
+    sequence: 115
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第八節　治安施設と消防の発達
+    item: 那珂地方消防組の発達
+    start_page: 314
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0116
+    sequence: 116
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第九節　医療の近代化と流行病対策
+    item: null
+    start_page: 318
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0117
+    sequence: 117
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第九節　医療の近代化と流行病対策
+    item: 医師と医療
+    start_page: 318
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0118
+    sequence: 118
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第九節　医療の近代化と流行病対策
+    item: 急性伝染病の流行と対策
+    start_page: 321
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0119
+    sequence: 119
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第一〇節　明治期の自然災害と対策
+    item: null
+    start_page: 325
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0120
+    sequence: 120
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第一〇節　明治期の自然災害と対策
+    item: 久慈川・那珂川の洪水と干ばつ・冷害
+    start_page: 325
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0121
+    sequence: 121
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第二章　地方自治制度の確立
+    section: 第一〇節　明治期の自然災害と対策
+    item: 久慈川河口開削工事
+    start_page: 332
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0122
+    sequence: 122
+    heading_level: chapter
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: null
+    item: null
+    start_page: 335
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0123
+    sequence: 123
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第一節　第一次世界大戦と那珂地方
+    item: null
+    start_page: 335
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0124
+    sequence: 124
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第一節　第一次世界大戦と那珂地方
+    item: 第一次世界大戦とシベリア出兵
+    start_page: 335
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0125
+    sequence: 125
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第一節　第一次世界大戦と那珂地方
+    item: 地方改良運動と木崎村
+    start_page: 336
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0126
+    sequence: 126
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第一節　第一次世界大戦と那珂地方
+    item: 大戦景気の影響
+    start_page: 338
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0127
+    sequence: 127
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第二節　地方制度の変化
+    item: null
+    start_page: 341
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0128
+    sequence: 128
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第二節　地方制度の変化
+    item: 郡制の廃止
+    start_page: 341
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0129
+    sequence: 129
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第二節　地方制度の変化
+    item: 郡農会の変化
+    start_page: 343
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0130
+    sequence: 130
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第二節　地方制度の変化
+    item: 合併後の各村状況
+    start_page: 343
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0131
+    sequence: 131
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第三節　大正デモクラシーと農村
+    item: null
+    start_page: 350
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0132
+    sequence: 132
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第三節　大正デモクラシーと農村
+    item: 菅谷村の政争
+    start_page: 350
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0133
+    sequence: 133
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第三節　大正デモクラシーと農村
+    item: 普通選挙運動の展開
+    start_page: 357
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0134
+    sequence: 134
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第四節　陸上交通機関の発展
+    item: null
+    start_page: 360
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0135
+    sequence: 135
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第四節　陸上交通機関の発展
+    item: 乗合馬車
+    start_page: 360
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0136
+    sequence: 136
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第四節　陸上交通機関の発展
+    item: 大郡線と水戸鉄道
+    start_page: 361
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0137
+    sequence: 137
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第四節　陸上交通機関の発展
+    item: 乗合自動車の登場
+    start_page: 365
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0138
+    sequence: 138
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第五節　産業の推移と農村問題
+    item: null
+    start_page: 371
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0139
+    sequence: 139
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第五節　産業の推移と農村問題
+    item: 「農業・農村問題」の発生と那珂地方
+    start_page: 371
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0140
+    sequence: 140
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第五節　産業の推移と農村問題
+    item: 農業の推移
+    start_page: 372
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0141
+    sequence: 141
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第五節　産業の推移と農村問題
+    item: 主要穀物の生産
+    start_page: 374
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0142
+    sequence: 142
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第五節　産業の推移と農村問題
+    item: 養蚕の実績
+    start_page: 376
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0143
+    sequence: 143
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第五節　産業の推移と農村問題
+    item: 葉たばこ栽培の普及
+    start_page: 378
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0144
+    sequence: 144
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第五節　産業の推移と農村問題
+    item: 農家戸数と規模
+    start_page: 380
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0145
+    sequence: 145
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第五節　産業の推移と農村問題
+    item: 金肥の多用と肥料商の台頭
+    start_page: 382
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0146
+    sequence: 146
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第五節　産業の推移と農村問題
+    item: 農会と産業組合
+    start_page: 384
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0147
+    sequence: 147
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第五節　産業の推移と農村問題
+    item: 小作組合の設立
+    start_page: 386
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0148
+    sequence: 148
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第五節　産業の推移と農村問題
+    item: 地主・小作関係の推移
+    start_page: 388
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0149
+    sequence: 149
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第五節　産業の推移と農村問題
+    item: 灌漑干拓の一例
+    start_page: 393
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0150
+    sequence: 150
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第五節　産業の推移と農村問題
+    item: 額田の建具屋
+    start_page: 394
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0151
+    sequence: 151
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第五節　産業の推移と農村問題
+    item: 茨城製粉株式会社
+    start_page: 396
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0152
+    sequence: 152
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第五節　産業の推移と農村問題
+    item: 賃金と物価の上昇
+    start_page: 397
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0153
+    sequence: 153
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第五節　産業の推移と農村問題
+    item: 急激な人口の流失
+    start_page: 397
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0154
+    sequence: 154
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第五節　産業の推移と農村問題
+    item: 大正期の繁栄をめぐって
+    start_page: 399
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0155
+    sequence: 155
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第六節　大正期の教育
+    item: null
+    start_page: 404
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0156
+    sequence: 156
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第六節　大正期の教育
+    item: 根本正の活躍と義務教育の延長
+    start_page: 404
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0157
+    sequence: 157
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第六節　大正期の教育
+    item: 菅谷小学校の自由教育と教育改善案
+    start_page: 411
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0158
+    sequence: 158
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第六節　大正期の教育
+    item: 青年訓練所
+    start_page: 414
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0159
+    sequence: 159
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第六節　大正期の教育
+    item: 学校少年団と青年会の活動
+    start_page: 420
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0160
+    sequence: 160
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第七節　文化の発達
+    item: null
+    start_page: 425
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0161
+    sequence: 161
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第七節　文化の発達
+    item: 俳諧の普及
+    start_page: 425
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0162
+    sequence: 162
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第七節　文化の発達
+    item: 芸能神楽の振興
+    start_page: 427
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0163
+    sequence: 163
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第七節　文化の発達
+    item: 那珂地方の画人たち
+    start_page: 431
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0164
+    sequence: 164
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第八節　水車から内燃機関・電力へ
+    item: null
+    start_page: 438
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0165
+    sequence: 165
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第八節　水車から内燃機関・電力へ
+    item: 動力としての水車
+    start_page: 438
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0166
+    sequence: 166
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第八節　水車から内燃機関・電力へ
+    item: 電灯の普及
+    start_page: 446
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0167
+    sequence: 167
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第九節　消防・治安と未成年者の飲酒禁止法
+    item: null
+    start_page: 453
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0168
+    sequence: 168
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第九節　消防・治安と未成年者の飲酒禁止法
+    item: 消防組の設置
+    start_page: 453
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0169
+    sequence: 169
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第九節　消防・治安と未成年者の飲酒禁止法
+    item: 菅谷警察署と駐在所
+    start_page: 461
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0170
+    sequence: 170
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第九節　消防・治安と未成年者の飲酒禁止法
+    item: 未成年者の飲酒禁止法
+    start_page: 463
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0171
+    sequence: 171
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第一〇節　大正期の自然災害と対策
+    item: null
+    start_page: 467
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0172
+    sequence: 172
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第一〇節　大正期の自然災害と対策
+    item: 久慈川洪水とその影響
+    start_page: 467
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0173
+    sequence: 173
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第三章　大正デモクラシーの時代
+    section: 第一〇節　大正期の自然災害と対策
+    item: 干ばつ防止と岩崎・小場江堰
+    start_page: 470
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0174
+    sequence: 174
+    heading_level: chapter
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: null
+    item: null
+    start_page: 481
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0175
+    sequence: 175
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第一節　昭和恐慌期の那珂地方
+    item: null
+    start_page: 481
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0176
+    sequence: 176
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第一節　昭和恐慌期の那珂地方
+    item: 不況必至の昭和初期
+    start_page: 481
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0177
+    sequence: 177
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第一節　昭和恐慌期の那珂地方
+    item: 戦前の那珂地方の階層構造
+    start_page: 490
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0178
+    sequence: 178
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第一節　昭和恐慌期の那珂地方
+    item: 小都会的にぎわい
+    start_page: 493
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0179
+    sequence: 179
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第一節　昭和恐慌期の那珂地方
+    item: 中村製糸所と養蚕業の終焉
+    start_page: 496
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0180
+    sequence: 180
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第一節　昭和恐慌期の那珂地方
+    item: 千代橋・幸久橋の架橋
+    start_page: 498
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0181
+    sequence: 181
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第一節　昭和恐慌期の那珂地方
+    item: 時局匡救道路
+    start_page: 500
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0182
+    sequence: 182
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第一節　昭和恐慌期の那珂地方
+    item: 水郡線全線開通
+    start_page: 503
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0183
+    sequence: 183
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第一節　昭和恐慌期の那珂地方
+    item: 乗合バス会社の統合
+    start_page: 505
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0184
+    sequence: 184
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第一節　昭和恐慌期の那珂地方
+    item: 郵便局増設と電話の普及
+    start_page: 507
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0185
+    sequence: 185
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第二節　日中戦争から太平洋戦争へ
+    item: null
+    start_page: 512
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0186
+    sequence: 186
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第二節　日中戦争から太平洋戦争へ
+    item: 軍需産業主導下の景気回復
+    start_page: 512
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0187
+    sequence: 187
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第二節　日中戦争から太平洋戦争へ
+    item: 満蒙開拓
+    start_page: 514
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0188
+    sequence: 188
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第二節　日中戦争から太平洋戦争へ
+    item: 後藤圀彦・信彦兄弟と愛郷会
+    start_page: 515
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0189
+    sequence: 189
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第二節　日中戦争から太平洋戦争へ
+    item: 日中戦争と村々の対応
+    start_page: 522
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0190
+    sequence: 190
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第三節　戦時体制下の那珂地方
+    item: null
+    start_page: 534
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0191
+    sequence: 191
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第三節　戦時体制下の那珂地方
+    item: 『神崎村報』の創刊と銃後の守り
+    start_page: 534
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0192
+    sequence: 192
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第三節　戦時体制下の那珂地方
+    item: 那珂地方事務所の設置と菅谷村の町制施行
+    start_page: 542
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0193
+    sequence: 193
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第三節　戦時体制下の那珂地方
+    item: 日米開戦と菅谷監視哨
+    start_page: 547
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0194
+    sequence: 194
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第三節　戦時体制下の那珂地方
+    item: 水戸北飛行場の建設
+    start_page: 550
+    page_reference:
+      status: stated
+    verification:
+      status: uncertain
+      fields:
+        - start_page
+      note: 開始ページはOCR及び画像目視で判読に不確実性あり
+  - id: naka-toc-03-0195
+    sequence: 195
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第三節　戦時体制下の那珂地方
+    item: 物資不足・価格統制と動員令
+    start_page: 556
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0196
+    sequence: 196
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第三節　戦時体制下の那珂地方
+    item: 食糧増産と甘藷の増産
+    start_page: 560
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0197
+    sequence: 197
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第三節　戦時体制下の那珂地方
+    item: 食糧増産と有ケ池江下耕地整理事業
+    start_page: 563
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0198
+    sequence: 198
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第三節　戦時体制下の那珂地方
+    item: 農会から農業会へ
+    start_page: 564
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0199
+    sequence: 199
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第三節　戦時体制下の那珂地方
+    item: 軍需経済下の諸産業
+    start_page: 565
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0200
+    sequence: 200
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第三節　戦時体制下の那珂地方
+    item: 戦前型産業社会の破綻
+    start_page: 566
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0201
+    sequence: 201
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第三節　戦時体制下の那珂地方
+    item: 昭和十一・二年の大洪水
+    start_page: 569
+    page_reference:
+      status: stated
+    verification:
+      status: uncertain
+      fields:
+        - start_page
+      note: 開始ページはOCR及び画像目視で判読に不確実性あり
+  - id: naka-toc-03-0202
+    sequence: 202
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第三節　戦時体制下の那珂地方
+    item: 皇国民教育と国民学校
+    start_page: 573
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0203
+    sequence: 203
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第三節　戦時体制下の那珂地方
+    item: 青年学校の設立
+    start_page: 574
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0204
+    sequence: 204
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第三節　戦時体制下の那珂地方
+    item: 阿弥陀寺・上宮寺への学童集団疎開
+    start_page: 583
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0205
+    sequence: 205
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 近代／第四章　昭和恐慌から戦争へ
+    section: 第三節　戦時体制下の那珂地方
+    item: 空襲警報下の那珂地方
+    start_page: 595
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0206
+    sequence: 206
+    heading_level: chapter
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: null
+    item: null
+    start_page: 607
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0207
+    sequence: 207
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第一節　太平洋戦争の終焉
+    item: null
+    start_page: 607
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0208
+    sequence: 208
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第一節　太平洋戦争の終焉
+    item: ポツダム宣言の受諾
+    start_page: 607
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0209
+    sequence: 209
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第一節　太平洋戦争の終焉
+    item: 内地部隊の復員と海外引揚げ者
+    start_page: 610
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0210
+    sequence: 210
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第一節　太平洋戦争の終焉
+    item: 遺族会の設立
+    start_page: 613
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0211
+    sequence: 211
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第二節　戦後の混乱と民主化
+    item: null
+    start_page: 617
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0212
+    sequence: 212
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第二節　戦後の混乱と民主化
+    item: アメリカ軍の進駐
+    start_page: 617
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0213
+    sequence: 213
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第二節　戦後の混乱と民主化
+    item: 人口の急増と食糧難と悪性インフレ
+    start_page: 620
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0214
+    sequence: 214
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第二節　戦後の混乱と民主化
+    item: 経済統制の解除
+    start_page: 623
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0215
+    sequence: 215
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第二節　戦後の混乱と民主化
+    item: 終戦直後の産業状況
+    start_page: 623
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0216
+    sequence: 216
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第二節　戦後の混乱と民主化
+    item: 那珂中部用水事業
+    start_page: 624
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0217
+    sequence: 217
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第二節　戦後の混乱と民主化
+    item: 選挙法の改正と新町村長の誕生
+    start_page: 625
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0218
+    sequence: 218
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第二節　戦後の混乱と民主化
+    item: 那珂地方の供出と新制中学校の創立
+    start_page: 628
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0219
+    sequence: 219
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第三節　農地改革と農村の変貌
+    item: null
+    start_page: 635
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0220
+    sequence: 220
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第三節　農地改革と農村の変貌
+    item: 農地改革までの過程
+    start_page: 635
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0221
+    sequence: 221
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第三節　農地改革と農村の変貌
+    item: 改革の主役農地委員会
+    start_page: 636
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0222
+    sequence: 222
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第三節　農地改革と農村の変貌
+    item: 農業会と農民組合
+    start_page: 639
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0223
+    sequence: 223
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第三節　農地改革と農村の変貌
+    item: 農地の買収と売渡し
+    start_page: 641
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0224
+    sequence: 224
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第三節　農地改革と農村の変貌
+    item: 未墾地の解放
+    start_page: 646
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0225
+    sequence: 225
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第三節　農地改革と農村の変貌
+    item: 開拓による入植と増反
+    start_page: 650
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0226
+    sequence: 226
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第四節　戦後の復興と独立
+    item: null
+    start_page: 655
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0227
+    sequence: 227
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第四節　戦後の復興と独立
+    item: 講和条約の締結と菅谷町の記念行事
+    start_page: 655
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0228
+    sequence: 228
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第四節　戦後の復興と独立
+    item: 地方自治法の制定と那珂地方事務所
+    start_page: 658
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0229
+    sequence: 229
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第四節　戦後の復興と独立
+    item: 農地改革後の農業改革
+    start_page: 661
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0230
+    sequence: 230
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第四節　戦後の復興と独立
+    item: 新農村建設運動と那珂地方
+    start_page: 662
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0231
+    sequence: 231
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第五節　町村合併と那珂町の誕生
+    item: null
+    start_page: 668
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0232
+    sequence: 232
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第五節　町村合併と那珂町の誕生
+    item: 県の合併試案と旧町村の対応
+    start_page: 668
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0233
+    sequence: 233
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第五節　町村合併と那珂町の誕生
+    item: 木崎・芳野・戸多村の動向
+    start_page: 674
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0234
+    sequence: 234
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第五節　町村合併と那珂町の誕生
+    item: 町村合併の議決と旧町村の解散
+    start_page: 677
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0235
+    sequence: 235
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第五節　町村合併と那珂町の誕生
+    item: 那珂町の発足
+    start_page: 683
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0236
+    sequence: 236
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第一章　戦後混乱からの脱却
+    section: 第五節　町村合併と那珂町の誕生
+    item: 鹿島地区の瓜連町編入
+    start_page: 688
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0237
+    sequence: 237
+    heading_level: chapter
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: null
+    item: null
+    start_page: 699
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0238
+    sequence: 238
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第一節　行財政の発展と福祉の増進
+    item: null
+    start_page: 699
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0239
+    sequence: 239
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第一節　行財政の発展と福祉の増進
+    item: 行政機構の拡充と議員の定数減
+    start_page: 699
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0240
+    sequence: 240
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第一節　行財政の発展と福祉の増進
+    item: 完納運動と財政の充実
+    start_page: 705
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0241
+    sequence: 241
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第一節　行財政の発展と福祉の増進
+    item: 児童福祉・老人福祉
+    start_page: 709
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0242
+    sequence: 242
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第一節　行財政の発展と福祉の増進
+    item: 那珂町の赤痢と上下水道の普及
+    start_page: 711
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0243
+    sequence: 243
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第一節　行財政の発展と福祉の増進
+    item: 国民健康保険と芳野診療所
+    start_page: 723
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0244
+    sequence: 244
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第二節　交通・通信の変化と発展
+    item: null
+    start_page: 731
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0245
+    sequence: 245
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第二節　交通・通信の変化と発展
+    item: 道路交通網の整備
+    start_page: 731
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0246
+    sequence: 246
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第二節　交通・通信の変化と発展
+    item: 自家用車の普及
+    start_page: 735
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0247
+    sequence: 247
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第二節　交通・通信の変化と発展
+    item: 水郡線の合理化
+    start_page: 739
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0248
+    sequence: 248
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第二節　交通・通信の変化と発展
+    item: 有線放送から公社電話の時代へ
+    start_page: 742
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0249
+    sequence: 249
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第二節　交通・通信の変化と発展
+    item: 郵便業務の合理化
+    start_page: 745
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0250
+    sequence: 250
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第三節　産業経済の発展
+    item: null
+    start_page: 749
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0251
+    sequence: 251
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第三節　産業経済の発展
+    item: 食糧増産から適地適産へ
+    start_page: 749
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0252
+    sequence: 252
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第三節　産業経済の発展
+    item: 農協の合併
+    start_page: 752
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0253
+    sequence: 253
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第三節　産業経済の発展
+    item: 減反政策と総合農政
+    start_page: 752
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0254
+    sequence: 254
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第三節　産業経済の発展
+    item: 農業基本法施行一〇年以後の農畜産業
+    start_page: 753
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0255
+    sequence: 255
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第三節　産業経済の発展
+    item: 第二次・第三次産業時代へ
+    start_page: 755
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0256
+    sequence: 256
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第三節　産業経済の発展
+    item: 商工業の伸展
+    start_page: 763
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0257
+    sequence: 257
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第三節　産業経済の発展
+    item: 農業の危機と今後の課題
+    start_page: 769
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0258
+    sequence: 258
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第四節　教育と文化
+    item: null
+    start_page: 775
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0259
+    sequence: 259
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第四節　教育と文化
+    item: 皇民教育の否定と進駐軍の学校視察
+    start_page: 775
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0260
+    sequence: 260
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第四節　教育と文化
+    item: 教育基本法と六・三制
+    start_page: 777
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0261
+    sequence: 261
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第四節　教育と文化
+    item: PTAと教育委員会
+    start_page: 782
+    page_reference:
+      status: stated
+    verification:
+      status: uncertain
+      fields:
+        - item
+        - start_page
+      note: 表題及び開始ページはOCR及び画像目視で判読に不確実性あり
+  - id: naka-toc-03-0262
+    sequence: 262
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第四節　教育と文化
+    item: 木崎小学校の統合および菅谷小学校の移転新築
+    start_page: 785
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0263
+    sequence: 263
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第四節　教育と文化
+    item: 中学校の統合
+    start_page: 790
+    page_reference:
+      status: stated
+    verification:
+      status: uncertain
+      fields:
+        - start_page
+      note: 開始ページはOCR及び画像目視で判読に不確実性あり
+  - id: naka-toc-03-0264
+    sequence: 264
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第四節　教育と文化
+    item: 県立水戸農業高等学校・那珂高等学校の誘致
+    start_page: 795
+    page_reference:
+      status: stated
+    verification:
+      status: uncertain
+      fields:
+        - start_page
+      note: 開始ページはOCR及び画像目視で判読に不確実性あり
+  - id: naka-toc-03-0265
+    sequence: 265
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第四節　教育と文化
+    item: 新聞・ラジオの普及
+    start_page: 803
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0266
+    sequence: 266
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第四節　教育と文化
+    item: テレビ時代の到来
+    start_page: 806
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0267
+    sequence: 267
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第四節　教育と文化
+    item: 那珂町の文化財
+    start_page: 809
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0268
+    sequence: 268
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第五節　新しい警察消防制度と自然災害への克服
+    item: null
+    start_page: 815
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0269
+    sequence: 269
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第五節　新しい警察消防制度と自然災害への克服
+    item: 自治体警察の誕生
+    start_page: 815
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0270
+    sequence: 270
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第五節　新しい警察消防制度と自然災害への克服
+    item: 警防団から消防団へ
+    start_page: 820
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0271
+    sequence: 271
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第五節　新しい警察消防制度と自然災害への克服
+    item: 常設消防署の誕生
+    start_page: 824
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0272
+    sequence: 272
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第五節　新しい警察消防制度と自然災害への克服
+    item: 戦後の自然災害と被害
+    start_page: 826
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0273
+    sequence: 273
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第五節　新しい警察消防制度と自然災害への克服
+    item: 久慈川・那珂川の改修計画と工事
+    start_page: 831
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0274
+    sequence: 274
+    heading_level: section
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第六節　将来の那珂町
+    item: null
+    start_page: 835
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0275
+    sequence: 275
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第六節　将来の那珂町
+    item: 生活環境の整備
+    start_page: 835
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0276
+    sequence: 276
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第六節　将来の那珂町
+    item: 那珂町総合計画
+    start_page: 839
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0277
+    sequence: 277
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第六節　将来の那珂町
+    item: 個別計画等の作成
+    start_page: 843
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0278
+    sequence: 278
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第六節　将来の那珂町
+    item: 商業環境の整備と農業文化の継承
+    start_page: 845
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0279
+    sequence: 279
+    heading_level: item
+    volume: 近代・現代編
+    chapter: 現代／第二章　高度経済成長と那珂町
+    section: 第六節　将来の那珂町
+    item: 環境の保全
+    start_page: 845
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0280
+    sequence: 280
+    heading_level: item
+    volume: 近代・現代編
+    chapter: null
+    section: null
+    item: 那珂町史略年表
+    start_page: 849
+    page_reference:
+      status: stated
+  - id: naka-toc-03-0281
+    sequence: 281
+    heading_level: item
+    volume: 近代・現代編
+    chapter: null
+    section: null
+    item: あとがき
+    start_page: 855
+    page_reference:
+      status: stated

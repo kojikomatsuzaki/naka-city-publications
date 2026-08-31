@@ -1,0 +1,935 @@
+publication:
+  publication_number: '4'
+  title: 那珂町の考古学
+  source_pdf_url: https://www.city.naka.lg.jp/data/doc/1745047416_doc_902_0.pdf
+entries:
+  - id: naka-toc-04-0001
+    sequence: 1
+    heading_level: item
+    volume: null
+    chapter: null
+    section: null
+    item: 序
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0002
+    sequence: 2
+    heading_level: item
+    volume: null
+    chapter: null
+    section: null
+    item: 凡例
+    start_page: 3
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0003
+    sequence: 3
+    heading_level: item
+    volume: null
+    chapter: null
+    section: null
+    item: はじめに
+    start_page: 9
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0004
+    sequence: 4
+    heading_level: chapter
+    volume: null
+    chapter: 先土器時代
+    section: null
+    item: null
+    start_page: 13
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0005
+    sequence: 5
+    heading_level: item
+    volume: null
+    chapter: 先土器時代
+    section: null
+    item: 新地遺跡
+    start_page: 14
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0006
+    sequence: 6
+    heading_level: item
+    volume: null
+    chapter: 先土器時代
+    section: null
+    item: 額田大宮遺跡
+    start_page: 23
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0007
+    sequence: 7
+    heading_level: item
+    volume: null
+    chapter: 先土器時代
+    section: null
+    item: 畑中遺跡、北坪遺跡
+    start_page: 24
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0008
+    sequence: 8
+    heading_level: item
+    volume: null
+    chapter: 先土器時代
+    section: null
+    item: 森戸遺跡
+    start_page: 24
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0009
+    sequence: 9
+    heading_level: item
+    volume: null
+    chapter: 先土器時代
+    section: null
+    item: 発生期の土器
+    start_page: 30
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0010
+    sequence: 10
+    heading_level: item
+    volume: null
+    chapter: 先土器時代
+    section: null
+    item: 豊喰遺跡
+    start_page: 31
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0011
+    sequence: 11
+    heading_level: chapter
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: null
+    start_page: 37
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0012
+    sequence: 12
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 井草式
+    start_page: 39
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0013
+    sequence: 13
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 夏島式
+    start_page: 39
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0014
+    sequence: 14
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 稲荷台式
+    start_page: 40
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0015
+    sequence: 15
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 花輪台Ⅰ
+    start_page: 42
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0016
+    sequence: 16
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 花輪台Ⅱ
+    start_page: 43
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0017
+    sequence: 17
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 稲荷原
+    start_page: 47
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0018
+    sequence: 18
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 初期沈線文
+    start_page: 49
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0019
+    sequence: 19
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 三戸
+    start_page: 50
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0020
+    sequence: 20
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 日計型押型文
+    start_page: 55
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0021
+    sequence: 21
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 田戸下層
+    start_page: 56
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0022
+    sequence: 22
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 田戸上層
+    start_page: 60
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0023
+    sequence: 23
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 子母口
+    start_page: 61
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0024
+    sequence: 24
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 槻木下層
+    start_page: 62
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0025
+    sequence: 25
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 野島
+    start_page: 63
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0026
+    sequence: 26
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 鵜ヶ島台
+    start_page: 64
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0027
+    sequence: 27
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 茅山下層
+    start_page: 65
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0028
+    sequence: 28
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 茅山上層
+    start_page: 65
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0029
+    sequence: 29
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 常世2式
+    start_page: 66
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0030
+    sequence: 30
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 遠下
+    start_page: 67
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0031
+    sequence: 31
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 花積下層
+    start_page: 68
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0032
+    sequence: 32
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 関山
+    start_page: 70
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0033
+    sequence: 33
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 黒浜
+    start_page: 72
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0034
+    sequence: 34
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 諸磯
+    start_page: 74
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0035
+    sequence: 35
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 浮島
+    start_page: 75
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0036
+    sequence: 36
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 興津
+    start_page: 77
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0037
+    sequence: 37
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 十三菩提
+    start_page: 84
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0038
+    sequence: 38
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 下小野
+    start_page: 85
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0039
+    sequence: 39
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 五領ヶ台
+    start_page: 88
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0040
+    sequence: 40
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 阿玉台
+    start_page: 89
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0041
+    sequence: 41
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 大木
+    start_page: 92
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0042
+    sequence: 42
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 加曾利E
+    start_page: 93
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0043
+    sequence: 43
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 称名寺
+    start_page: 95
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0044
+    sequence: 44
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 堀之内
+    start_page: 96
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0045
+    sequence: 45
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 加曾利B
+    start_page: 99
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0046
+    sequence: 46
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 安行式（後期）
+    start_page: 102
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0047
+    sequence: 47
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 安行式（晩期）
+    start_page: 104
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0048
+    sequence: 48
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 大洞
+    start_page: 106
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0049
+    sequence: 49
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 土偶
+    start_page: 111
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0050
+    sequence: 50
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 縄文時代の石器
+    start_page: 115
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0051
+    sequence: 51
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 石匙
+    start_page: 117
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0052
+    sequence: 52
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 石皿
+    start_page: 117
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0053
+    sequence: 53
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 石錘
+    start_page: 117
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0054
+    sequence: 54
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 石鏃
+    start_page: 119
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0055
+    sequence: 55
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 打製石斧
+    start_page: 121
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0056
+    sequence: 56
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: スタンプ形石器
+    start_page: 124
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0057
+    sequence: 57
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 石棒・石剣
+    start_page: 126
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0058
+    sequence: 58
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 装身具
+    start_page: 128
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0059
+    sequence: 59
+    heading_level: item
+    volume: null
+    chapter: 縄文時代
+    section: null
+    item: 異形石器
+    start_page: 129
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0060
+    sequence: 60
+    heading_level: chapter
+    volume: null
+    chapter: 弥生時代
+    section: null
+    item: null
+    start_page: 130
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0061
+    sequence: 61
+    heading_level: item
+    volume: null
+    chapter: 弥生時代
+    section: null
+    item: 初期弥生式土器
+    start_page: 131
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0062
+    sequence: 62
+    heading_level: item
+    volume: null
+    chapter: 弥生時代
+    section: null
+    item: 海後遺跡の土器
+    start_page: 132
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0063
+    sequence: 63
+    heading_level: item
+    volume: null
+    chapter: 弥生時代
+    section: null
+    item: 野沢式土器
+    start_page: 134
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0064
+    sequence: 64
+    heading_level: item
+    volume: null
+    chapter: 弥生時代
+    section: null
+    item: 足洗式土器
+    start_page: 137
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0065
+    sequence: 65
+    heading_level: item
+    volume: null
+    chapter: 弥生時代
+    section: null
+    item: 東中根式土器
+    start_page: 140
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0066
+    sequence: 66
+    heading_level: item
+    volume: null
+    chapter: 弥生時代
+    section: null
+    item: 松原式土器
+    start_page: 145
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0067
+    sequence: 67
+    heading_level: item
+    volume: null
+    chapter: 弥生時代
+    section: null
+    item: 天王山式土器
+    start_page: 153
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0068
+    sequence: 68
+    heading_level: item
+    volume: null
+    chapter: 弥生時代
+    section: null
+    item: 十王台式土器
+    start_page: 154
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0069
+    sequence: 69
+    heading_level: item
+    volume: null
+    chapter: 弥生時代
+    section: null
+    item: 紡錘車
+    start_page: 159
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0070
+    sequence: 70
+    heading_level: item
+    volume: null
+    chapter: 弥生時代
+    section: null
+    item: 弥生時代の石器
+    start_page: 163
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0071
+    sequence: 71
+    heading_level: item
+    volume: null
+    chapter: 弥生時代
+    section: null
+    item: 鉄斧
+    start_page: 166
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0072
+    sequence: 72
+    heading_level: chapter
+    volume: null
+    chapter: 古墳時代
+    section: null
+    item: null
+    start_page: 167
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0073
+    sequence: 73
+    heading_level: item
+    volume: null
+    chapter: 古墳時代
+    section: null
+    item: 額田式土器
+    start_page: 168
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0074
+    sequence: 74
+    heading_level: item
+    volume: null
+    chapter: 古墳時代
+    section: null
+    item: 五領式
+    start_page: 170
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0075
+    sequence: 75
+    heading_level: item
+    volume: null
+    chapter: 古墳時代
+    section: null
+    item: 和泉式
+    start_page: 170
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0076
+    sequence: 76
+    heading_level: item
+    volume: null
+    chapter: 古墳時代
+    section: null
+    item: 鬼高式
+    start_page: 170
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0077
+    sequence: 77
+    heading_level: item
+    volume: null
+    chapter: 古墳時代
+    section: null
+    item: 絵画のある土器
+    start_page: 174
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0078
+    sequence: 78
+    heading_level: item
+    volume: null
+    chapter: 古墳時代
+    section: null
+    item: 前方後円墳
+    start_page: 175
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0079
+    sequence: 79
+    heading_level: item
+    volume: null
+    chapter: 古墳時代
+    section: null
+    item: 横穴式石室
+    start_page: 176
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0080
+    sequence: 80
+    heading_level: item
+    volume: null
+    chapter: 古墳時代
+    section: null
+    item: 埴輪
+    start_page: 177
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0081
+    sequence: 81
+    heading_level: item
+    volume: null
+    chapter: 古墳時代
+    section: null
+    item: 鉄器
+    start_page: 179
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0082
+    sequence: 82
+    heading_level: item
+    volume: null
+    chapter: 古墳時代
+    section: null
+    item: 装身具・石製模造品
+    start_page: 182
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0083
+    sequence: 83
+    heading_level: chapter
+    volume: null
+    chapter: 奈良・平安時代
+    section: null
+    item: null
+    start_page: 184
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0084
+    sequence: 84
+    heading_level: item
+    volume: null
+    chapter: 奈良・平安時代
+    section: null
+    item: 泉前
+    start_page: 185
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0085
+    sequence: 85
+    heading_level: item
+    volume: null
+    chapter: 奈良・平安時代
+    section: null
+    item: 国分
+    start_page: 185
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0086
+    sequence: 86
+    heading_level: item
+    volume: null
+    chapter: 奈良・平安時代
+    section: null
+    item: 墨書
+    start_page: 186
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0087
+    sequence: 87
+    heading_level: item
+    volume: null
+    chapter: 奈良・平安時代
+    section: null
+    item: 緑釉
+    start_page: 188
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0088
+    sequence: 88
+    heading_level: item
+    volume: null
+    chapter: 奈良・平安時代
+    section: null
+    item: 砥石と鏡
+    start_page: 190
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0089
+    sequence: 89
+    heading_level: chapter
+    volume: null
+    chapter: 鎌倉・室町時代
+    section: null
+    item: null
+    start_page: 191
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0090
+    sequence: 90
+    heading_level: item
+    volume: null
+    chapter: 鎌倉・室町時代
+    section: null
+    item: 瀬戸瓶子・瀬戸水注
+    start_page: 192
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0091
+    sequence: 91
+    heading_level: item
+    volume: null
+    chapter: 鎌倉・室町時代
+    section: null
+    item: 中世陶器
+    start_page: 194
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0092
+    sequence: 92
+    heading_level: item
+    volume: null
+    chapter: 鎌倉・室町時代
+    section: null
+    item: 密教法具と鰐口
+    start_page: 196
+    page_reference:
+      status: stated
+  - id: naka-toc-04-0093
+    sequence: 93
+    heading_level: item
+    volume: null
+    chapter: null
+    section: null
+    item: あとがき
+    start_page: 204
+    page_reference:
+      status: stated

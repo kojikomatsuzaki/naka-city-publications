@@ -1,0 +1,28 @@
+schema_version: 1.0.0
+dataset_version: 0.1.0
+title: 那珂市刊行物目次データ
+description: >-
+  那珂市公式サイトで公開されている『那珂市史』、旧『那珂町史』、
+  『那珂町史の研究』、旧『瓜連町史』の表題紙・目次PDFをもとに、
+  章・節・項と開始ページを構造化したデータセット。
+language: ja
+source_page_url: https://www.city.naka.lg.jp/sp/edu-board/bunkazai/rekishiminzoku/page010949.html
+repository_url: https://github.com/kojikomatsuzaki/naka-city-publications
+website_url: https://kojikomatsuzaki.github.io/naka-city-publications/
+editor:
+  name: 小松崎浩司
+  name_en: Hiroshi Komatsuzaki
+canonical_source:
+  format: YAML
+  path: data/toc/
+derived_data:
+  - format: CSV
+    path: docs/data/naka-city-publications.csv
+    purpose: 確認・参照・印刷
+  - format: JSON
+    path: docs/data/naka-city-publications.json
+    purpose: 機械利用・Web表示
+license:
+  status: undecided
+  note: 公開前にデータとプログラムのライセンスをそれぞれ確定する。
+

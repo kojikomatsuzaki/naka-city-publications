@@ -1,0 +1,408 @@
+publication:
+  publication_number: '5'
+  title: 那珂町史の研究
+  source_pdf_url: https://www.city.naka.lg.jp/data/doc/1745047420_doc_902_0.pdf
+entries:
+  - id: naka-toc-05-0001
+    sequence: 1
+    heading_level: item
+    volume: 第1号
+    chapter: null
+    section: null
+    item: 題字
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-05-0002
+    sequence: 2
+    heading_level: item
+    volume: 第1号
+    chapter: null
+    section: null
+    item: 序文
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-05-0003
+    sequence: 3
+    heading_level: item
+    volume: 第1号
+    chapter: null
+    section: null
+    item: 茨城の考古学研究と那珂町の埋蔵遺跡
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0004
+    sequence: 4
+    heading_level: item
+    volume: 第1号
+    chapter: null
+    section: null
+    item: 原好誼の『占春亭日誌』から
+    start_page: 17
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0005
+    sequence: 5
+    heading_level: item
+    volume: 第1号
+    chapter: null
+    section: null
+    item: 吉田松陰と水戸及び下江戸
+    start_page: 29
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0006
+    sequence: 6
+    heading_level: item
+    volume: 第1号
+    chapter: null
+    section: null
+    item: 南酒出城の侍達
+    start_page: 45
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0007
+    sequence: 7
+    heading_level: item
+    volume: 第1号
+    chapter: null
+    section: null
+    item: 戸村家重代の太刀とさっぺい祭
+    start_page: 53
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0008
+    sequence: 8
+    heading_level: item
+    volume: 第1号
+    chapter: null
+    section: null
+    item: 那珂町における小学校の創設まで
+    start_page: 57
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0009
+    sequence: 9
+    heading_level: item
+    volume: 第1号
+    chapter: null
+    section: null
+    item: 秋田へ移った戸村氏の最後
+    start_page: 69
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0010
+    sequence: 10
+    heading_level: item
+    volume: 第1号
+    chapter: null
+    section: null
+    item: 地藏尊とお地藏さん
+    start_page: 92
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0011
+    sequence: 11
+    heading_level: item
+    volume: 第1号
+    chapter: null
+    section: null
+    item: 町史編さん略日誌
+    start_page: 98
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0012
+    sequence: 12
+    heading_level: item
+    volume: 第1号
+    chapter: null
+    section: null
+    item: 町史編さん委員会組織
+    start_page: 102
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0013
+    sequence: 13
+    heading_level: item
+    volume: 第1号
+    chapter: null
+    section: null
+    item: 編集後記
+    start_page: 103
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0014
+    sequence: 14
+    heading_level: item
+    volume: 第2号
+    chapter: null
+    section: null
+    item: 題字
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-05-0015
+    sequence: 15
+    heading_level: item
+    volume: 第2号
+    chapter: null
+    section: null
+    item: 序文
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-05-0016
+    sequence: 16
+    heading_level: item
+    volume: 第2号
+    chapter: null
+    section: null
+    item: 那珂町の自然（その一）
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0017
+    sequence: 17
+    heading_level: item
+    volume: 第2号
+    chapter: null
+    section: null
+    item: 了証蓮如法尼の墓と比久尼街道―附　白石館址の研究について―
+    start_page: 10
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0018
+    sequence: 18
+    heading_level: item
+    volume: 第2号
+    chapter: null
+    section: null
+    item: 飯田寄居舘主掛札氏について
+    start_page: 15
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0019
+    sequence: 19
+    heading_level: item
+    volume: 第2号
+    chapter: null
+    section: null
+    item: 奥郡の原始眞宗
+    start_page: 26
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0020
+    sequence: 20
+    heading_level: item
+    volume: 第2号
+    chapter: null
+    section: null
+    item: 地方の山伏―那珂町の場合―
+    start_page: 42
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0021
+    sequence: 21
+    heading_level: item
+    volume: 第2号
+    chapter: null
+    section: null
+    item: 街道と旅―那珂町域内の街道を中心として―
+    start_page: 59
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0022
+    sequence: 22
+    heading_level: item
+    volume: 第2号
+    chapter: null
+    section: null
+    item: 旧額田村向山所在の常福寺について
+    start_page: 74
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0023
+    sequence: 23
+    heading_level: item
+    volume: 第2号
+    chapter: null
+    section: null
+    item: 豐喰の天満神社について
+    start_page: 85
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0024
+    sequence: 24
+    heading_level: item
+    volume: 第2号
+    chapter: null
+    section: null
+    item: 明治二十二年調査の五臺村地誌―茨城縣の皇國地誌編さんに関連して―
+    start_page: 86
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0025
+    sequence: 25
+    heading_level: item
+    volume: 第3号
+    chapter: null
+    section: null
+    item: 題字
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-05-0026
+    sequence: 26
+    heading_level: item
+    volume: 第3号
+    chapter: null
+    section: null
+    item: 序文
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-05-0027
+    sequence: 27
+    heading_level: item
+    volume: 第3号
+    chapter: null
+    section: null
+    item: 那珂町の自然（その二）
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0028
+    sequence: 28
+    heading_level: item
+    volume: 第3号
+    chapter: null
+    section: null
+    item: 親鸞聖人と妻惠信尼の手紙
+    start_page: 19
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0029
+    sequence: 29
+    heading_level: item
+    volume: 第3号
+    chapter: null
+    section: null
+    item: 戸崎山蓮光寺についての研究
+    start_page: 26
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0030
+    sequence: 30
+    heading_level: item
+    volume: 第3号
+    chapter: null
+    section: null
+    item: 金光寺跡を偲んで
+    start_page: 29
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0031
+    sequence: 31
+    heading_level: item
+    volume: 第3号
+    chapter: null
+    section: null
+    item: 水戸藩の税制について（その一）
+    start_page: 37
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0032
+    sequence: 32
+    heading_level: item
+    volume: 第3号
+    chapter: null
+    section: null
+    item: 明治初期における地方制度の沿革
+    start_page: 64
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0033
+    sequence: 33
+    heading_level: item
+    volume: 第3号
+    chapter: null
+    section: null
+    item: 明治時代の教科書に現われた立身出世について
+    start_page: 85
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0034
+    sequence: 34
+    heading_level: item
+    volume: 第3号
+    chapter: null
+    section: null
+    item: 那珂町における茶業の変貌
+    start_page: 95
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0035
+    sequence: 35
+    heading_level: item
+    volume: 第3号
+    chapter: null
+    section: null
+    item: 随想
+    start_page: 106
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0036
+    sequence: 36
+    heading_level: item
+    volume: 第3号
+    chapter: null
+    section: null
+    item: 町史編さんの感想
+    start_page: null
+    page_reference:
+      status: parent_only
+      parent_start_page: 106
+  - id: naka-toc-05-0037
+    sequence: 37
+    heading_level: item
+    volume: 第3号
+    chapter: null
+    section: null
+    item: 里ごころ
+    start_page: null
+    page_reference:
+      status: parent_only
+      parent_start_page: 106
+  - id: naka-toc-05-0038
+    sequence: 38
+    heading_level: item
+    volume: 第3号
+    chapter: null
+    section: null
+    item: 町史編さんに期待する
+    start_page: null
+    page_reference:
+      status: parent_only
+      parent_start_page: 106
+  - id: naka-toc-05-0039
+    sequence: 39
+    heading_level: item
+    volume: 第3号
+    chapter: null
+    section: null
+    item: 町史編さん略日誌（二）
+    start_page: 110
+    page_reference:
+      status: stated
+  - id: naka-toc-05-0040
+    sequence: 40
+    heading_level: item
+    volume: 第3号
+    chapter: null
+    section: null
+    item: 編集後記
+    start_page: 113
+    page_reference:
+      status: stated

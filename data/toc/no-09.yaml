@@ -1,0 +1,575 @@
+publication:
+  publication_number: '9'
+  title: 瓜連町史
+  source_pdf_url: https://www.city.naka.lg.jp/data/doc/1745047437_doc_902_0.pdf
+entries:
+  - id: naka-toc-09-0001
+    sequence: 1
+    heading_level: item
+    volume: 史料編
+    chapter: null
+    section: null
+    item: はじめに
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-09-0002
+    sequence: 2
+    heading_level: item
+    volume: 史料編
+    chapter: null
+    section: null
+    item: 発刊に寄せて
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-09-0003
+    sequence: 3
+    heading_level: chapter
+    volume: 史料編
+    chapter: 古代
+    section: null
+    item: null
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0004
+    sequence: 4
+    heading_level: section
+    volume: 史料編
+    chapter: 古代
+    section: 奈良平安時代の瓜連地方
+    item: null
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0005
+    sequence: 5
+    heading_level: item
+    volume: 史料編
+    chapter: 古代
+    section: 奈良平安時代の瓜連地方
+    item: 一、常陸國風土記
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0006
+    sequence: 6
+    heading_level: item
+    volume: 史料編
+    chapter: 古代
+    section: 奈良平安時代の瓜連地方
+    item: 二、倭名類聚抄（倭名抄）
+    start_page: 2
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0007
+    sequence: 7
+    heading_level: item
+    volume: 史料編
+    chapter: 古代
+    section: 奈良平安時代の瓜連地方
+    item: 三、鹿の子C遺跡出土戸籍斷簡
+    start_page: 3
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0008
+    sequence: 8
+    heading_level: item
+    volume: 史料編
+    chapter: 古代
+    section: 奈良平安時代の瓜連地方
+    item: 四、延喜式
+    start_page: 4
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0009
+    sequence: 9
+    heading_level: item
+    volume: 史料編
+    chapter: 古代
+    section: 奈良平安時代の瓜連地方
+    item: 五、萬葉集
+    start_page: 5
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0010
+    sequence: 10
+    heading_level: section
+    volume: 史料編
+    chapter: 古代
+    section: 倭文の織物と靜（倭文）神社
+    item: null
+    start_page: 5
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0011
+    sequence: 11
+    heading_level: item
+    volume: 史料編
+    chapter: 古代
+    section: 倭文の織物と靜（倭文）神社
+    item: 一、日本書紀
+    start_page: 5
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0012
+    sequence: 12
+    heading_level: item
+    volume: 史料編
+    chapter: 古代
+    section: 倭文の織物と靜（倭文）神社
+    item: 二、延喜式
+    start_page: 6
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0013
+    sequence: 13
+    heading_level: chapter
+    volume: 史料編
+    chapter: 中世
+    section: null
+    item: null
+    start_page: 7
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0014
+    sequence: 14
+    heading_level: section
+    volume: 史料編
+    chapter: 中世
+    section: 源賴朝と金砂合戰
+    item: null
+    start_page: 7
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0015
+    sequence: 15
+    heading_level: item
+    volume: 史料編
+    chapter: 中世
+    section: 源賴朝と金砂合戰
+    item: 一、吾妻鏡
+    start_page: 7
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0016
+    sequence: 16
+    heading_level: section
+    volume: 史料編
+    chapter: 中世
+    section: 鎌倉幕府と瓜連地方
+    item: null
+    start_page: 9
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0017
+    sequence: 17
+    heading_level: item
+    volume: 史料編
+    chapter: 中世
+    section: 鎌倉幕府と瓜連地方
+    item: 一、関東下知状
+    start_page: 9
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0018
+    sequence: 18
+    heading_level: item
+    volume: 史料編
+    chapter: 中世
+    section: 鎌倉幕府と瓜連地方
+    item: 二、飯野八幡宮文書（飯野文書）
+    start_page: 11
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0019
+    sequence: 19
+    heading_level: item
+    volume: 史料編
+    chapter: 中世
+    section: 鎌倉幕府と瓜連地方
+    item: 三、関城釋史
+    start_page: 14
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0020
+    sequence: 20
+    heading_level: section
+    volume: 史料編
+    chapter: 中世
+    section: 室町時代の文化動向と佐竹の亂
+    item: null
+    start_page: 17
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0021
+    sequence: 21
+    heading_level: item
+    volume: 史料編
+    chapter: 中世
+    section: 室町時代の文化動向と佐竹の亂
+    item: 一、竹隠軒妙誉書状写・領地違乱書付写
+    start_page: 17
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0022
+    sequence: 22
+    heading_level: item
+    volume: 史料編
+    chapter: 中世
+    section: 室町時代の文化動向と佐竹の亂
+    item: 二、日本書紀巻三私鈔并人王百代具名記
+    start_page: 22
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0023
+    sequence: 23
+    heading_level: item
+    volume: 史料編
+    chapter: 中世
+    section: 室町時代の文化動向と佐竹の亂
+    item: 三、弘願寺蔵「金剛般若波羅密経」版木奥付識語
+    start_page: 24
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0024
+    sequence: 24
+    heading_level: section
+    volume: 史料編
+    chapter: 中世
+    section: 中世の寺院と信仰
+    item: null
+    start_page: 24
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0025
+    sequence: 25
+    heading_level: item
+    volume: 史料編
+    chapter: 中世
+    section: 中世の寺院と信仰
+    item: 一、了譽聖冏譲状・同書状
+    start_page: 24
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0026
+    sequence: 26
+    heading_level: item
+    volume: 史料編
+    chapter: 中世
+    section: 中世の寺院と信仰
+    item: 二、法然上人像寄進銘　他
+    start_page: 25
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0027
+    sequence: 27
+    heading_level: chapter
+    volume: 史料編
+    chapter: 近世
+    section: null
+    item: null
+    start_page: 28
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0028
+    sequence: 28
+    heading_level: section
+    volume: 史料編
+    chapter: 近世
+    section: 天保改革と瓜連地方
+    item: null
+    start_page: 28
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0029
+    sequence: 29
+    heading_level: item
+    volume: 史料編
+    chapter: 近世
+    section: 天保改革と瓜連地方
+    item: 一、中岡村寅御配符留帳
+    start_page: 28
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0030
+    sequence: 30
+    heading_level: item
+    volume: 史料編
+    chapter: 近世
+    section: 天保改革と瓜連地方
+    item: 二、御政正并回復秘録
+    start_page: 57
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0031
+    sequence: 31
+    heading_level: chapter
+    volume: 史料編
+    chapter: 近代
+    section: null
+    item: null
+    start_page: 94
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0032
+    sequence: 32
+    heading_level: section
+    volume: 史料編
+    chapter: 近代
+    section: 明治維新と瓜連地方
+    item: null
+    start_page: 94
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0033
+    sequence: 33
+    heading_level: item
+    volume: 史料編
+    chapter: 近代
+    section: 明治維新と瓜連地方
+    item: 一、那珂郡暴動録
+    start_page: 94
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0034
+    sequence: 34
+    heading_level: item
+    volume: 史料編
+    chapter: 近代
+    section: 明治維新と瓜連地方
+    item: 二、地誌材料稿
+    start_page: 117
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0035
+    sequence: 35
+    heading_level: section
+    volume: 史料編
+    chapter: 近代
+    section: 大正・昭和初期の瓜連地方
+    item: null
+    start_page: 128
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0036
+    sequence: 36
+    heading_level: item
+    volume: 史料編
+    chapter: 近代
+    section: 大正・昭和初期の瓜連地方
+    item: 一、村治意見
+    start_page: 128
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0037
+    sequence: 37
+    heading_level: item
+    volume: 史料編
+    chapter: 近代
+    section: 大正・昭和初期の瓜連地方
+    item: 二、暴風雨災害ニ関スル書類（大正六年十月一日）
+    start_page: 137
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0038
+    sequence: 38
+    heading_level: item
+    volume: 史料編
+    chapter: 近代
+    section: 大正・昭和初期の瓜連地方
+    item: 三、農会廃止運動
+    start_page: 150
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0039
+    sequence: 39
+    heading_level: item
+    volume: 史料編
+    chapter: 近代
+    section: 大正・昭和初期の瓜連地方
+    item: 四、農山漁村経済更生模範実行町村計画書（昭和八年度）
+    start_page: 154
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0040
+    sequence: 40
+    heading_level: item
+    volume: 史料編
+    chapter: 近代
+    section: 大正・昭和初期の瓜連地方
+    item: 五、瓜連尋常・高等小学校要覧（昭和七年十月十八日）
+    start_page: 158
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0041
+    sequence: 41
+    heading_level: item
+    volume: 史料編
+    chapter: 近代
+    section: 大正・昭和初期の瓜連地方
+    item: 六、瓜連村から瓜連町へ
+    start_page: 162
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0042
+    sequence: 42
+    heading_level: chapter
+    volume: 史料編
+    chapter: 現代
+    section: null
+    item: null
+    start_page: 177
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0043
+    sequence: 43
+    heading_level: section
+    volume: 史料編
+    chapter: 現代
+    section: 戦後の瓜連町
+    item: null
+    start_page: 177
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0044
+    sequence: 44
+    heading_level: item
+    volume: 史料編
+    chapter: 現代
+    section: 戦後の瓜連町
+    item: 一、連合国軍進駐ニ伴フ関係書（指令書）
+    start_page: 177
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0045
+    sequence: 45
+    heading_level: item
+    volume: 史料編
+    chapter: 現代
+    section: 戦後の瓜連町
+    item: 二、町村合併と各町村の動向
+    start_page: 185
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0046
+    sequence: 46
+    heading_level: item
+    volume: 史料編
+    chapter: 現代
+    section: 戦後の瓜連町
+    item: 三、静農政連20年誌（抄）
+    start_page: 192
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0047
+    sequence: 47
+    heading_level: item
+    volume: 史料編
+    chapter: 現代
+    section: 戦後の瓜連町
+    item: 四、大宮葉烟草専売所管内葉烟草栽培法等調査書（抄）
+    start_page: 200
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0048
+    sequence: 48
+    heading_level: item
+    volume: 史料編
+    chapter: 現代
+    section: 戦後の瓜連町
+    item: 五、学校沿革誌　静村立静小学校
+    start_page: 202
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0049
+    sequence: 49
+    heading_level: chapter
+    volume: 史料編
+    chapter: 神社と寺院
+    section: null
+    item: null
+    start_page: 223
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0050
+    sequence: 50
+    heading_level: section
+    volume: 史料編
+    chapter: 神社と寺院
+    section: 神社
+    item: null
+    start_page: 223
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0051
+    sequence: 51
+    heading_level: item
+    volume: 史料編
+    chapter: 神社と寺院
+    section: 神社
+    item: 一、静大神宮誌（抄）
+    start_page: 223
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0052
+    sequence: 52
+    heading_level: item
+    volume: 史料編
+    chapter: 神社と寺院
+    section: 神社
+    item: 二、磯出祭礼資料（『那珂湊市史料』より抄出）
+    start_page: 231
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0053
+    sequence: 53
+    heading_level: item
+    volume: 史料編
+    chapter: 神社と寺院
+    section: 神社
+    item: 三、栗田寛講述　静神社について
+    start_page: 241
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0054
+    sequence: 54
+    heading_level: item
+    volume: 史料編
+    chapter: 神社と寺院
+    section: 神社
+    item: 四、水戸歳時記
+    start_page: 245
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0055
+    sequence: 55
+    heading_level: section
+    volume: 史料編
+    chapter: 神社と寺院
+    section: 寺院
+    item: null
+    start_page: 256
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0056
+    sequence: 56
+    heading_level: item
+    volume: 史料編
+    chapter: 神社と寺院
+    section: 寺院
+    item: 一、瓜連常福寺関係
+    start_page: 256
+    page_reference:
+      status: stated
+  - id: naka-toc-09-0057
+    sequence: 57
+    heading_level: item
+    volume: 史料編
+    chapter: null
+    section: null
+    item: おわりに
+    start_page: 271
+    page_reference:
+      status: stated

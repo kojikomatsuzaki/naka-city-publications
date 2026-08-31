@@ -1,0 +1,5165 @@
+publication:
+  publication_number: '8'
+  title: 瓜連町史
+  source_pdf_url: https://www.city.naka.lg.jp/data/doc/1745047433_doc_902_0.pdf
+entries:
+  - id: naka-toc-08-0001
+    sequence: 1
+    heading_level: item
+    volume: null
+    chapter: null
+    section: null
+    item: 発刊にあたって
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-08-0002
+    sequence: 2
+    heading_level: item
+    volume: null
+    chapter: null
+    section: null
+    item: 発刊によせて
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-08-0003
+    sequence: 3
+    heading_level: chapter
+    volume: null
+    chapter: 第一章　自然環境
+    section: null
+    item: null
+    start_page: 3
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0004
+    sequence: 4
+    heading_level: section
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第一節　位置と面積
+    item: null
+    start_page: 3
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0005
+    sequence: 5
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第一節　位置と面積
+    item: 一、　位置
+    start_page: 3
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0006
+    sequence: 6
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第一節　位置と面積
+    item: 自然と歴史の調和した町
+    start_page: 3
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0007
+    sequence: 7
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第一節　位置と面積
+    item: 緑の住居都市（ベッドタウン）
+    start_page: 5
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0008
+    sequence: 8
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第一節　位置と面積
+    item: 二、　面積と人口
+    start_page: 7
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0009
+    sequence: 9
+    heading_level: section
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: null
+    start_page: 8
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0010
+    sequence: 10
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 一、　地形
+    start_page: 8
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0011
+    sequence: 11
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 地形区分
+    start_page: 8
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0012
+    sequence: 12
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 瓜連丘陵の地形
+    start_page: 8
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0013
+    sequence: 13
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 台地の地形
+    start_page: 12
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0014
+    sequence: 14
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 沖積低地の地形
+    start_page: 12
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0015
+    sequence: 15
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 二、　地質
+    start_page: 14
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0016
+    sequence: 16
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 地質のあらまし
+    start_page: 14
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0017
+    sequence: 17
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 瓜連町の基盤地質
+    start_page: 14
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0018
+    sequence: 18
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 荒屋層
+    start_page: 14
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0019
+    sequence: 19
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 瓜連層
+    start_page: 15
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0020
+    sequence: 20
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 瓜連丘陵の堆積物
+    start_page: 17
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0021
+    sequence: 21
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 古徳礫層
+    start_page: 18
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0022
+    sequence: 22
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 新町礫層
+    start_page: 18
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0023
+    sequence: 23
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 引田層
+    start_page: 19
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0024
+    sequence: 24
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 台地の堆積物
+    start_page: 21
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0025
+    sequence: 25
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 見和層
+    start_page: 21
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0026
+    sequence: 26
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 額田段丘礫層
+    start_page: 22
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0027
+    sequence: 27
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 関東ローム層
+    start_page: 24
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0028
+    sequence: 28
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 沖積地の堆積物
+    start_page: 24
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0029
+    sequence: 29
+    heading_level: section
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第三節　気候
+    item: null
+    start_page: 27
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0030
+    sequence: 30
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第三節　気候
+    item: 一、　瓜連の気候
+    start_page: 27
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0031
+    sequence: 31
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第三節　気候
+    item: 気候区分
+    start_page: 27
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0032
+    sequence: 32
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第三節　気候
+    item: 二、　瓜連の気象特性
+    start_page: 27
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0033
+    sequence: 33
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第三節　気候
+    item: 気温
+    start_page: 28
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0034
+    sequence: 34
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第三節　気候
+    item: 降水量
+    start_page: 29
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0035
+    sequence: 35
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第三節　気候
+    item: 風・雷雨
+    start_page: 30
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0036
+    sequence: 36
+    heading_level: section
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: null
+    start_page: 35
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0037
+    sequence: 37
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: 一、　瓜連の植物
+    start_page: 35
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0038
+    sequence: 38
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: （1）　植生の概要
+    start_page: 35
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0039
+    sequence: 39
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: 台地斜面
+    start_page: 35
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0040
+    sequence: 40
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: 丘陵地
+    start_page: 36
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0041
+    sequence: 41
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: 静神社境内
+    start_page: 38
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0042
+    sequence: 42
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: 古徳溜池
+    start_page: 39
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0043
+    sequence: 43
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: （2）　分布上注目すべき植物
+    start_page: 42
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0044
+    sequence: 44
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: 二、　瓜連の動物
+    start_page: 49
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0045
+    sequence: 45
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: 三、　瓜連の鳥類
+    start_page: 53
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0046
+    sequence: 46
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: （1）　市街地・農耕地
+    start_page: 53
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0047
+    sequence: 47
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: （2）　古徳沼とその周辺
+    start_page: 54
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0048
+    sequence: 48
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: オオハクチョウ
+    start_page: 54
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0049
+    sequence: 49
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: ガン・カモ類
+    start_page: 59
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0050
+    sequence: 50
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: 水鳥
+    start_page: 60
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0051
+    sequence: 51
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: 水辺の鳥
+    start_page: 61
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0052
+    sequence: 52
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: 山の鳥
+    start_page: 61
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0053
+    sequence: 53
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: （3）　久慈川と河川敷
+    start_page: 62
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0054
+    sequence: 54
+    heading_level: item
+    volume: null
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: （4）　鳥類目録について
+    start_page: 63
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0055
+    sequence: 55
+    heading_level: chapter
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: null
+    item: null
+    start_page: 69
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0056
+    sequence: 56
+    heading_level: section
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第一節　原始・古代の概観
+    item: null
+    start_page: 69
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0057
+    sequence: 57
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第一節　原始・古代の概観
+    item: 一、　先土器時代の人々の生活
+    start_page: 70
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0058
+    sequence: 58
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第一節　原始・古代の概観
+    item: 二、　縄文時代の人々の生活
+    start_page: 74
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0059
+    sequence: 59
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第一節　原始・古代の概観
+    item: 大塚遺跡出土の縄文式土器
+    start_page: 80
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0060
+    sequence: 60
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第一節　原始・古代の概観
+    item: 縄文時代人の集落のあり方
+    start_page: 81
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0061
+    sequence: 61
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第一節　原始・古代の概観
+    item: 縄文時代人の日常生活と遺物
+    start_page: 85
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0062
+    sequence: 62
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第一節　原始・古代の概観
+    item: 縄文人の原始信仰
+    start_page: 90
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0063
+    sequence: 63
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第一節　原始・古代の概観
+    item: 三、　瓜連地方の弥生式文化の形成
+    start_page: 93
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0064
+    sequence: 64
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第一節　原始・古代の概観
+    item: 瓜連町出土の弥生式土器
+    start_page: 95
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0065
+    sequence: 65
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第一節　原始・古代の概観
+    item: 瓜連町周辺の弥生式土器
+    start_page: 98
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0066
+    sequence: 66
+    heading_level: section
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第二節　奈良・平安時代の瓜連地方
+    item: null
+    start_page: 105
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0067
+    sequence: 67
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第二節　奈良・平安時代の瓜連地方
+    item: 一、　大化改新前の瓜連地方
+    start_page: 105
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0068
+    sequence: 68
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第二節　奈良・平安時代の瓜連地方
+    item: 久自の国
+    start_page: 105
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0069
+    sequence: 69
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第二節　奈良・平安時代の瓜連地方
+    item: 久自の国造
+    start_page: 107
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0070
+    sequence: 70
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第二節　奈良・平安時代の瓜連地方
+    item: 二、　常陸と郡の成立・瓜連地方
+    start_page: 110
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0071
+    sequence: 71
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第二節　奈良・平安時代の瓜連地方
+    item: 大化改新と常陸国
+    start_page: 110
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0072
+    sequence: 72
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第二節　奈良・平安時代の瓜連地方
+    item: 常陸十一郡の成立
+    start_page: 112
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0073
+    sequence: 73
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第二節　奈良・平安時代の瓜連地方
+    item: 郡と里
+    start_page: 115
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0074
+    sequence: 74
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第二節　奈良・平安時代の瓜連地方
+    item: 三、　久慈郡
+    start_page: 116
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0075
+    sequence: 75
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第二節　奈良・平安時代の瓜連地方
+    item: 郡の由来
+    start_page: 118
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0076
+    sequence: 76
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第二節　奈良・平安時代の瓜連地方
+    item: 大里・薬谷遺跡
+    start_page: 119
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0077
+    sequence: 77
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第二節　奈良・平安時代の瓜連地方
+    item: 久慈郡の郷里
+    start_page: 122
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0078
+    sequence: 78
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第二節　奈良・平安時代の瓜連地方
+    item: 瓜連地方の郷
+    start_page: 124
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0079
+    sequence: 79
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第二節　奈良・平安時代の瓜連地方
+    item: 四、　七・八世紀の遺構
+    start_page: 127
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0080
+    sequence: 80
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第二節　奈良・平安時代の瓜連地方
+    item: 方頭大刀の発見
+    start_page: 128
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0081
+    sequence: 81
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第二節　奈良・平安時代の瓜連地方
+    item: 七・八世紀の住居
+    start_page: 131
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0082
+    sequence: 82
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第二節　奈良・平安時代の瓜連地方
+    item: 大塚遺跡出土の布目瓦
+    start_page: 136
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0083
+    sequence: 83
+    heading_level: section
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第三節　倭文の織物と静（倭文）神社
+    item: null
+    start_page: 143
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0084
+    sequence: 84
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第三節　倭文の織物と静（倭文）神社
+    item: 一、　倭文の布と倭文部
+    start_page: 143
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0085
+    sequence: 85
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第三節　倭文の織物と静（倭文）神社
+    item: 倭文の織物とは
+    start_page: 143
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0086
+    sequence: 86
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第三節　倭文の織物と静（倭文）神社
+    item: 倭文の用途
+    start_page: 146
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0087
+    sequence: 87
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第三節　倭文の織物と静（倭文）神社
+    item: 常陸国並びに諸国に見られる倭文部
+    start_page: 150
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0088
+    sequence: 88
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第三節　倭文の織物と静（倭文）神社
+    item: 二、　延喜式内社静神社
+    start_page: 154
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0089
+    sequence: 89
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第三節　倭文の織物と静（倭文）神社
+    item: 静神社祭神考
+    start_page: 154
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0090
+    sequence: 90
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第三節　倭文の織物と静（倭文）神社
+    item: 倭文神建葉槌命の性格の両面
+    start_page: 157
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0091
+    sequence: 91
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第三節　倭文の織物と静（倭文）神社
+    item: 諸国に存在する倭文（静）神社
+    start_page: 160
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0092
+    sequence: 92
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第三節　倭文の織物と静（倭文）神社
+    item: 式内社静神社とその盛衰
+    start_page: 164
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0093
+    sequence: 93
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第三節　倭文の織物と静（倭文）神社
+    item: 神階と静神社
+    start_page: 165
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0094
+    sequence: 94
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第三節　倭文の織物と静（倭文）神社
+    item: 常陸二の宮
+    start_page: 167
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0095
+    sequence: 95
+    heading_level: section
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: null
+    start_page: 169
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0096
+    sequence: 96
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: 一、　弥生文化から古墳文化へ
+    start_page: 169
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0097
+    sequence: 97
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: 二、　瓜連町の古墳
+    start_page: 173
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0098
+    sequence: 98
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: 鹿島台古墳群
+    start_page: 173
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0099
+    sequence: 99
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: 鹿島台古墳の発掘
+    start_page: 173
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0100
+    sequence: 100
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: 大塚古墳
+    start_page: 176
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0101
+    sequence: 101
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: 十林寺古墳群
+    start_page: 176
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0102
+    sequence: 102
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: 十林寺古墳の発掘調査
+    start_page: 177
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0103
+    sequence: 103
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: 十林寺古墳出土の埴輪
+    start_page: 181
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0104
+    sequence: 104
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: 新宿・上宿古墳群
+    start_page: 182
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0105
+    sequence: 105
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: 新宿古墳
+    start_page: 184
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0106
+    sequence: 106
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: 石室の発掘
+    start_page: 186
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0107
+    sequence: 107
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: 新宿古墳の遺物
+    start_page: 188
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0108
+    sequence: 108
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: その他の遺物
+    start_page: 193
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0109
+    sequence: 109
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: 最西端の古墳
+    start_page: 193
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0110
+    sequence: 110
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: 権現塚古墳
+    start_page: 195
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0111
+    sequence: 111
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: 埴輪類
+    start_page: 200
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0112
+    sequence: 112
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: 三、　町周辺の古墳
+    start_page: 206
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0113
+    sequence: 113
+    heading_level: item
+    volume: null
+    chapter: 第二章　原始・古代の瓜連地方
+    section: 第四節　瓜連地方の古墳文化
+    item: 四、　古墳時代の人々のくらし
+    start_page: 208
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0114
+    sequence: 114
+    heading_level: chapter
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: null
+    item: null
+    start_page: 227
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0115
+    sequence: 115
+    heading_level: section
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第一節　源頼朝と金砂合戦
+    item: null
+    start_page: 227
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0116
+    sequence: 116
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第一節　源頼朝と金砂合戦
+    item: 佐竹氏の台頭
+    start_page: 227
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0117
+    sequence: 117
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第一節　源頼朝と金砂合戦
+    item: 源頼朝の平氏討伐と佐竹氏
+    start_page: 230
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0118
+    sequence: 118
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第一節　源頼朝と金砂合戦
+    item: 金砂合戦
+    start_page: 231
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0119
+    sequence: 119
+    heading_level: section
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第二節　鎌倉幕府と瓜連地方
+    item: null
+    start_page: 236
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0120
+    sequence: 120
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第二節　鎌倉幕府と瓜連地方
+    item: 金砂合戦後の奥七郡
+    start_page: 236
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0121
+    sequence: 121
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第二節　鎌倉幕府と瓜連地方
+    item: 二階堂加志村氏
+    start_page: 241
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0122
+    sequence: 122
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第二節　鎌倉幕府と瓜連地方
+    item: 二階堂加志村氏の館跡
+    start_page: 243
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0123
+    sequence: 123
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第二節　鎌倉幕府と瓜連地方
+    item: 瓜連沙汰人
+    start_page: 246
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0124
+    sequence: 124
+    heading_level: section
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第三節　南北朝期の瓜連
+    item: null
+    start_page: 250
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0125
+    sequence: 125
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第三節　南北朝期の瓜連
+    item: 一、　瓜連合戦と楠木正家
+    start_page: 250
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0126
+    sequence: 126
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第三節　南北朝期の瓜連
+    item: 楠木正家常陸に来る
+    start_page: 250
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0127
+    sequence: 127
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第三節　南北朝期の瓜連
+    item: 瓜連落城後の楠木正家
+    start_page: 255
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0128
+    sequence: 128
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第三節　南北朝期の瓜連
+    item: 二、　瓜連城と瓜連合戦の意味
+    start_page: 258
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0129
+    sequence: 129
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第三節　南北朝期の瓜連
+    item: 瓜連城の構え
+    start_page: 258
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0130
+    sequence: 130
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第三節　南北朝期の瓜連
+    item: 瓜連城の意義
+    start_page: 259
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0131
+    sequence: 131
+    heading_level: section
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第四節　室町期の文化動向と佐竹の乱
+    item: null
+    start_page: 262
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0132
+    sequence: 132
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第四節　室町期の文化動向と佐竹の乱
+    item: 一、　常福寺の了誉聖冏
+    start_page: 262
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0133
+    sequence: 133
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第四節　室町期の文化動向と佐竹の乱
+    item: 二、　弘願寺
+    start_page: 264
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0134
+    sequence: 134
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第四節　室町期の文化動向と佐竹の乱
+    item: 三、　佐竹の乱と瓜連
+    start_page: 265
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0135
+    sequence: 135
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第四節　室町期の文化動向と佐竹の乱
+    item: 山入氏の一揆
+    start_page: 265
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0136
+    sequence: 136
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第四節　室町期の文化動向と佐竹の乱
+    item: 明応の和解
+    start_page: 267
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0137
+    sequence: 137
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第四節　室町期の文化動向と佐竹の乱
+    item: 四、　「古徳永正記」
+    start_page: 269
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0138
+    sequence: 138
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第四節　室町期の文化動向と佐竹の乱
+    item: 伝本甲類と乙類と
+    start_page: 269
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0139
+    sequence: 139
+    heading_level: section
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第五節　戦国期以後の瓜連地方
+    item: null
+    start_page: 273
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0140
+    sequence: 140
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第五節　戦国期以後の瓜連地方
+    item: 佐竹氏と江戸氏の盟約
+    start_page: 273
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0141
+    sequence: 141
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第五節　戦国期以後の瓜連地方
+    item: 豊臣秀吉の天下統一と佐竹氏
+    start_page: 274
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0142
+    sequence: 142
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第五節　戦国期以後の瓜連地方
+    item: 佐竹氏配下配置替
+    start_page: 276
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0143
+    sequence: 143
+    heading_level: section
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: null
+    start_page: 278
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0144
+    sequence: 144
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 一、浄土宗と常福寺
+    start_page: 278
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0145
+    sequence: 145
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: （1）　浄土宗の開祖法然上人とその法統
+    start_page: 278
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0146
+    sequence: 146
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 法然房源空とその法統
+    start_page: 278
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0147
+    sequence: 147
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: （2）　常陸国への浄土宗の発展と常福寺の創立
+    start_page: 281
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0148
+    sequence: 148
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 浄土宗の流れ
+    start_page: 281
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0149
+    sequence: 149
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 常福寺開祖成阿了実
+    start_page: 282
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0150
+    sequence: 150
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: （3）　了誉聖冏の活躍
+    start_page: 285
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0151
+    sequence: 151
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 了誉聖冏の修行時代
+    start_page: 285
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0152
+    sequence: 152
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 了誉聖冏の教線拡大
+    start_page: 288
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0153
+    sequence: 153
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 了誉聖冏の著作
+    start_page: 293
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0154
+    sequence: 154
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: （4）　常福寺の展開
+    start_page: 297
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0155
+    sequence: 155
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 室町・戦国時代の常福寺
+    start_page: 297
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0156
+    sequence: 156
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 江戸時代初期の常福寺
+    start_page: 300
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0157
+    sequence: 157
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: （5）　常福寺の文化財
+    start_page: 305
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0158
+    sequence: 158
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 二、　時宗と旧西福寺
+    start_page: 306
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0159
+    sequence: 159
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: （1）　時宗の常陸国への展開
+    start_page: 306
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0160
+    sequence: 160
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 一遍智真
+    start_page: 306
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0161
+    sequence: 161
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 他阿弥陀仏呑海
+    start_page: 308
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0162
+    sequence: 162
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: （2）　西福寺と諸信仰
+    start_page: 310
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0163
+    sequence: 163
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 西福寺の開祖
+    start_page: 310
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0164
+    sequence: 164
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 五輪塔と板碑
+    start_page: 313
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0165
+    sequence: 165
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: （3）　その後の時宗と西福寺
+    start_page: 315
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0166
+    sequence: 166
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 時宗と佐竹氏
+    start_page: 316
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0167
+    sequence: 167
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 三、　臨済宗と弘願寺
+    start_page: 318
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0168
+    sequence: 168
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: （1）　臨済宗の常陸国への展開
+    start_page: 318
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0169
+    sequence: 169
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 臨済宗
+    start_page: 318
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0170
+    sequence: 170
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: （2）　弘願寺の創立と展開
+    start_page: 320
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0171
+    sequence: 171
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 大拙祖能
+    start_page: 321
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0172
+    sequence: 172
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 弘願寺の歴代住職とその活動
+    start_page: 323
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0173
+    sequence: 173
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: （3）　その他の禅宗寺院
+    start_page: 329
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0174
+    sequence: 174
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: 四、　真言宗
+    start_page: 331
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0175
+    sequence: 175
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: （1）　真言宗佐久山方の展開と宥尊
+    start_page: 331
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0176
+    sequence: 176
+    heading_level: item
+    volume: null
+    chapter: 第三章　中世の瓜連地方
+    section: 第六節　中世の寺院と信仰
+    item: （2）　瓜連町域の真言宗寺院
+    start_page: 335
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0177
+    sequence: 177
+    heading_level: chapter
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: null
+    item: null
+    start_page: 341
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0178
+    sequence: 178
+    heading_level: section
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: null
+    start_page: 341
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0179
+    sequence: 179
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 一、　水戸藩の創始と村々
+    start_page: 341
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0180
+    sequence: 180
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 備前検地と常福寺領帳
+    start_page: 341
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0181
+    sequence: 181
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 武田信吉の支配
+    start_page: 344
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0182
+    sequence: 182
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 徳川頼宣の支配と常福寺領検地水帳
+    start_page: 348
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0183
+    sequence: 183
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 御三家水戸藩の創始
+    start_page: 349
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0184
+    sequence: 184
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 二、　寛永の検地
+    start_page: 350
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0185
+    sequence: 185
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 検地の実施
+    start_page: 350
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0186
+    sequence: 186
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 丈量と石盛
+    start_page: 351
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0187
+    sequence: 187
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 磯崎村の検地帳
+    start_page: 352
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0188
+    sequence: 188
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 三、　治水事業
+    start_page: 356
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0189
+    sequence: 189
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 水戸藩の治水事業と永田父子
+    start_page: 356
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0190
+    sequence: 190
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 岩崎江堰の創設
+    start_page: 358
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0191
+    sequence: 191
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 藩政時代の江堰管理
+    start_page: 360
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0192
+    sequence: 192
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 古徳溜池
+    start_page: 364
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0193
+    sequence: 193
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 静溜池
+    start_page: 368
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0194
+    sequence: 194
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 中里溜池
+    start_page: 369
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0195
+    sequence: 195
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 四、　江戸前期の宗教政策
+    start_page: 369
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0196
+    sequence: 196
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 切支丹禁制
+    start_page: 369
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0197
+    sequence: 197
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 光圀の寺社改革
+    start_page: 374
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0198
+    sequence: 198
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 静神社の神仏分離
+    start_page: 380
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0199
+    sequence: 199
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 静神宮銅印と三十六歌仙絵図
+    start_page: 387
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0200
+    sequence: 200
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 常福寺水戸家の菩提所となる
+    start_page: 388
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0201
+    sequence: 201
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 常福寺へ常紫衣の綸旨下賜
+    start_page: 390
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0202
+    sequence: 202
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第一節　水戸藩の創始と瓜連地方
+    item: 向山浄鑑院
+    start_page: 393
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0203
+    sequence: 203
+    heading_level: section
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: null
+    start_page: 401
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0204
+    sequence: 204
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 一、　村の組織
+    start_page: 401
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0205
+    sequence: 205
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 村のしくみ
+    start_page: 401
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0206
+    sequence: 206
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 庄屋と組頭
+    start_page: 402
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0207
+    sequence: 207
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 十人組
+    start_page: 404
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0208
+    sequence: 208
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 山横目
+    start_page: 405
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0209
+    sequence: 209
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 郡奉行
+    start_page: 406
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0210
+    sequence: 210
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 二、　農民の負担（農民と税制）
+    start_page: 407
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0211
+    sequence: 211
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 水戸藩の税制
+    start_page: 407
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0212
+    sequence: 212
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 年貢割付状
+    start_page: 407
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0213
+    sequence: 213
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 年貢小割付帳
+    start_page: 412
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0214
+    sequence: 214
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 三雑穀制と雑税
+    start_page: 413
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0215
+    sequence: 215
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 年貢皆済目録
+    start_page: 414
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0216
+    sequence: 216
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 静村の皆済目録
+    start_page: 415
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0217
+    sequence: 217
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 三、　近世の村々と農民の生活
+    start_page: 417
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0218
+    sequence: 218
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 瓜連村
+    start_page: 417
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0219
+    sequence: 219
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 下大賀村
+    start_page: 420
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0220
+    sequence: 220
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 静村
+    start_page: 420
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0221
+    sequence: 221
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 古徳村
+    start_page: 425
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0222
+    sequence: 222
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 中里村
+    start_page: 426
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0223
+    sequence: 223
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 鹿島村
+    start_page: 426
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0224
+    sequence: 224
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 農村社会
+    start_page: 430
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0225
+    sequence: 225
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 衣
+    start_page: 432
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0226
+    sequence: 226
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 食
+    start_page: 433
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0227
+    sequence: 227
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 住宅
+    start_page: 436
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0228
+    sequence: 228
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 治安維持
+    start_page: 438
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0229
+    sequence: 229
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 褒賞
+    start_page: 443
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0230
+    sequence: 230
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 献金郷士
+    start_page: 447
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0231
+    sequence: 231
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 四、　鋳銭座一揆
+    start_page: 448
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0232
+    sequence: 232
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 水戸藩に鋳銭座の許可下りる
+    start_page: 448
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0233
+    sequence: 233
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 小沢九郎兵衛の鋳銭計画
+    start_page: 449
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0234
+    sequence: 234
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 太田村木崎に鋳銭座設立
+    start_page: 451
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0235
+    sequence: 235
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 農民の鋳銭反対
+    start_page: 456
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0236
+    sequence: 236
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 農民静神社の神輿を奪取する
+    start_page: 458
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0237
+    sequence: 237
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 神輿鋳銭座に着御
+    start_page: 460
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0238
+    sequence: 238
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 鋳銭座焼失
+    start_page: 460
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0239
+    sequence: 239
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 静神社の社家方逼塞
+    start_page: 461
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0240
+    sequence: 240
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 静・古徳両村役人入獄
+    start_page: 461
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0241
+    sequence: 241
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 鋳銭座の再建及び閉鎖
+    start_page: 462
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0242
+    sequence: 242
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 五、　天明の大飢饉
+    start_page: 464
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0243
+    sequence: 243
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 天明三年浅間山の大噴火と飢饉
+    start_page: 465
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0244
+    sequence: 244
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 天明六、七年ごろ
+    start_page: 469
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0245
+    sequence: 245
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 五穀成就の御祈祷
+    start_page: 472
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0246
+    sequence: 246
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 凶荒に対する政策
+    start_page: 473
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0247
+    sequence: 247
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 六、　交通の発達
+    start_page: 474
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0248
+    sequence: 248
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 水戸藩の幹線街道
+    start_page: 474
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0249
+    sequence: 249
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 南郷街道
+    start_page: 476
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0250
+    sequence: 250
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 瓜連地方の道路
+    start_page: 478
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0251
+    sequence: 251
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 久慈川の舟運
+    start_page: 481
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0252
+    sequence: 252
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 那珂川の舟運
+    start_page: 482
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0253
+    sequence: 253
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 旅日記
+    start_page: 484
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0254
+    sequence: 254
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 七、　村の変容
+    start_page: 485
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0255
+    sequence: 255
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 貨幣経済の流入
+    start_page: 485
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0256
+    sequence: 256
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 貧富調査
+    start_page: 488
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0257
+    sequence: 257
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 人口の減少
+    start_page: 489
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0258
+    sequence: 258
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 農民の負担の増大
+    start_page: 492
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0259
+    sequence: 259
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 土地兼併
+    start_page: 493
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0260
+    sequence: 260
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 農村の荒廃
+    start_page: 495
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0261
+    sequence: 261
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第二節　農村の発展と変容
+    item: 百姓一揆
+    start_page: 498
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0262
+    sequence: 262
+    heading_level: section
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: null
+    start_page: 506
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0263
+    sequence: 263
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 一、　天保の飢饉
+    start_page: 506
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0264
+    sequence: 264
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 天保四年の凶作
+    start_page: 506
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0265
+    sequence: 265
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 天保七年の飢饉
+    start_page: 512
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0266
+    sequence: 266
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 天保九年の凶作と飢饉の終息
+    start_page: 517
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0267
+    sequence: 267
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 二、　天保の改革
+    start_page: 520
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0268
+    sequence: 268
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 斉昭の藩主就任と藩政改革
+    start_page: 520
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0269
+    sequence: 269
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 斉昭の巡村と瓜連地方
+    start_page: 521
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0270
+    sequence: 270
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 斉昭の肖像画
+    start_page: 527
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0271
+    sequence: 271
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 三、　天保の検地
+    start_page: 530
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0272
+    sequence: 272
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 検地に至る経過
+    start_page: 530
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0273
+    sequence: 273
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 検地の実施
+    start_page: 531
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0274
+    sequence: 274
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 位付・石盛と一間六尺五寸制
+    start_page: 533
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0275
+    sequence: 275
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 下大賀村の検地帳
+    start_page: 534
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0276
+    sequence: 276
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 四、　税制の改革
+    start_page: 538
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0277
+    sequence: 277
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 定免制と取箇の制度化
+    start_page: 538
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0278
+    sequence: 278
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 畑年貢の引き上げと屋敷引き
+    start_page: 541
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0279
+    sequence: 279
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 三雑穀の廃止と雑税の整理
+    start_page: 541
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0280
+    sequence: 280
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 鹿島村の大割付帳
+    start_page: 542
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0281
+    sequence: 281
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 静村の皆済目録
+    start_page: 546
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0282
+    sequence: 282
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 五、　天保の寺社改革
+    start_page: 548
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0283
+    sequence: 283
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 梵鐘・仏具類の没収
+    start_page: 548
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0284
+    sequence: 284
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 僧侶・寺院の整理
+    start_page: 551
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0285
+    sequence: 285
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 葬祭等の刷新
+    start_page: 551
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0286
+    sequence: 286
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 静神社の火災と再建
+    start_page: 558
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0287
+    sequence: 287
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 神葬祭と氏子制度
+    start_page: 559
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0288
+    sequence: 288
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第三節　天保の改革と瓜連地方
+    item: 常福寺と斉昭
+    start_page: 562
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0289
+    sequence: 289
+    heading_level: section
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: null
+    start_page: 572
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0290
+    sequence: 290
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 一、　幕末の藩状と瓜連地方
+    start_page: 572
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0291
+    sequence: 291
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 幕末の水戸藩
+    start_page: 572
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0292
+    sequence: 292
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 甲辰の国難
+    start_page: 573
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0293
+    sequence: 293
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: アメリカの来航と斉昭幕政関与
+    start_page: 575
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0294
+    sequence: 294
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 安政の改革
+    start_page: 577
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0295
+    sequence: 295
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 無勅許調印
+    start_page: 579
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0296
+    sequence: 296
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 二、　安政の大獄
+    start_page: 583
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0297
+    sequence: 297
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 雪冤運動
+    start_page: 583
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0298
+    sequence: 298
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 勅諚返納問題
+    start_page: 589
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0299
+    sequence: 299
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 三、　桜田事変
+    start_page: 591
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0300
+    sequence: 300
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 大老襲撃
+    start_page: 591
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0301
+    sequence: 301
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 斉昭の薨去
+    start_page: 594
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0302
+    sequence: 302
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 東禅寺事変
+    start_page: 595
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0303
+    sequence: 303
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 坂下門外の変
+    start_page: 595
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0304
+    sequence: 304
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 文久の改革
+    start_page: 596
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0305
+    sequence: 305
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 攘夷決行
+    start_page: 598
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0306
+    sequence: 306
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 八月十八日の政変
+    start_page: 598
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0307
+    sequence: 307
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 筑波山の挙兵
+    start_page: 599
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0308
+    sequence: 308
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 天狗長征
+    start_page: 602
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0309
+    sequence: 309
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 水戸城の攻防
+    start_page: 604
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0310
+    sequence: 310
+    heading_level: item
+    volume: null
+    chapter: 第四章　近世の瓜連地方
+    section: 第四節　幕末の争乱と瓜連地方
+    item: 大政奉還
+    start_page: 605
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0311
+    sequence: 311
+    heading_level: chapter
+    volume: null
+    chapter: 第五章　近代
+    section: null
+    item: null
+    start_page: 609
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0312
+    sequence: 312
+    heading_level: section
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: null
+    start_page: 609
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0313
+    sequence: 313
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 一、　廃藩置県と瓜連地方
+    start_page: 609
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0314
+    sequence: 314
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 明治維新
+    start_page: 609
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0315
+    sequence: 315
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 廃藩置県と茨城県
+    start_page: 610
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0316
+    sequence: 316
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 二、　大・小区制と三長制
+    start_page: 611
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0317
+    sequence: 317
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 大・小区制の実施まで
+    start_page: 611
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0318
+    sequence: 318
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 大・小区制の実施
+    start_page: 613
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0319
+    sequence: 319
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 明治六年の大・小区制
+    start_page: 615
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0320
+    sequence: 320
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 三長の役割
+    start_page: 619
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0321
+    sequence: 321
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 御用留について
+    start_page: 619
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0322
+    sequence: 322
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 明治八年の改正大・小区制
+    start_page: 621
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0323
+    sequence: 323
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 地方三新法まで
+    start_page: 623
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0324
+    sequence: 324
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 三、　地租改正と瓜連地方
+    start_page: 624
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0325
+    sequence: 325
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 壬申地券の交付
+    start_page: 624
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0326
+    sequence: 326
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 地租改正条例
+    start_page: 625
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0327
+    sequence: 327
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 地主総代の設置
+    start_page: 630
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0328
+    sequence: 328
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 地租改正のもたらしたもの
+    start_page: 632
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0329
+    sequence: 329
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 地租改正反対一揆
+    start_page: 634
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0330
+    sequence: 330
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 一揆の背景
+    start_page: 634
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0331
+    sequence: 331
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 一揆の経過と瓜連
+    start_page: 634
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0332
+    sequence: 332
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 四、　三新法の制定と地方自治
+    start_page: 641
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0333
+    sequence: 333
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 三新法の内容
+    start_page: 642
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0334
+    sequence: 334
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 郡長と戸長
+    start_page: 643
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0335
+    sequence: 335
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 公共施設の整備
+    start_page: 647
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0336
+    sequence: 336
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 百年前の瓜連と地誌材料稿
+    start_page: 648
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0337
+    sequence: 337
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 地誌材料稿について
+    start_page: 649
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0338
+    sequence: 338
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 五、　小学校の創設と教育の伸展
+    start_page: 652
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0339
+    sequence: 339
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 寺小屋教育
+    start_page: 652
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0340
+    sequence: 340
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 学制公布
+    start_page: 660
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0341
+    sequence: 341
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 瓜連地方の学区と小学校の開設
+    start_page: 661
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0342
+    sequence: 342
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 小学校の組織と教科
+    start_page: 665
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0343
+    sequence: 343
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 小学校の管理運営
+    start_page: 666
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0344
+    sequence: 344
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 小学校令の制定
+    start_page: 670
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0345
+    sequence: 345
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第一節　明治維新と瓜連地方
+    item: 小学校令の改革
+    start_page: 671
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0346
+    sequence: 346
+    heading_level: section
+    volume: null
+    chapter: 第五章　近代
+    section: 第二節　町村制の施行と瓜連地方
+    item: null
+    start_page: 677
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0347
+    sequence: 347
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第二節　町村制の施行と瓜連地方
+    item: 一、　町村の合併
+    start_page: 677
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0348
+    sequence: 348
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第二節　町村制の施行と瓜連地方
+    item: 町村合併の経過と変遷
+    start_page: 677
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0349
+    sequence: 349
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第二節　町村制の施行と瓜連地方
+    item: 二、　町村議会と郡制
+    start_page: 683
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0350
+    sequence: 350
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第二節　町村制の施行と瓜連地方
+    item: 町村会議員と村財政
+    start_page: 683
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0351
+    sequence: 351
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第二節　町村制の施行と瓜連地方
+    item: 郡制と郡会議員の選出
+    start_page: 695
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0352
+    sequence: 352
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第二節　町村制の施行と瓜連地方
+    item: 郡是町村是について
+    start_page: 700
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0353
+    sequence: 353
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第二節　町村制の施行と瓜連地方
+    item: 那珂郡役所新築問題と経過
+    start_page: 702
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0354
+    sequence: 354
+    heading_level: section
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: null
+    start_page: 711
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0355
+    sequence: 355
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 一、　大正デモクラシーの道
+    start_page: 711
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0356
+    sequence: 356
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 大正二年の選挙
+    start_page: 711
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0357
+    sequence: 357
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 大正時代の災害
+    start_page: 714
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0358
+    sequence: 358
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 町制の施行
+    start_page: 720
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0359
+    sequence: 359
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 二、　大正・昭和初期の農業生産
+    start_page: 729
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0360
+    sequence: 360
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 土地所有構造
+    start_page: 729
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0361
+    sequence: 361
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 農業生産
+    start_page: 733
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0362
+    sequence: 362
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 特用農産物と農家副業
+    start_page: 734
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0363
+    sequence: 363
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 地方改良事業と農民の組織化
+    start_page: 740
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0364
+    sequence: 364
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 農会廃止運動と経済更生運動
+    start_page: 744
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0365
+    sequence: 365
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 産業組合
+    start_page: 752
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0366
+    sequence: 366
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 静村国保組合と診療所の誕生
+    start_page: 759
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0367
+    sequence: 367
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 岩崎江堰の変遷
+    start_page: 760
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0368
+    sequence: 368
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 久慈川の水害
+    start_page: 764
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0369
+    sequence: 369
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 三、　鉄道の開通と商工業・金融の発達
+    start_page: 765
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0370
+    sequence: 370
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 鉄道の開通
+    start_page: 765
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0371
+    sequence: 371
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 交通の発達
+    start_page: 769
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0372
+    sequence: 372
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 諸産業の動き
+    start_page: 770
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0373
+    sequence: 373
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 金融業の発達
+    start_page: 771
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0374
+    sequence: 374
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 四、　大正・昭和初期の教育
+    start_page: 773
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0375
+    sequence: 375
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 小学校教育の実際
+    start_page: 773
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0376
+    sequence: 376
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 新教育思想の流入
+    start_page: 774
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0377
+    sequence: 377
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第三節　大正・昭和初期の瓜連地方
+    item: 青年の教育
+    start_page: 775
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0378
+    sequence: 378
+    heading_level: section
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: null
+    start_page: 781
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0379
+    sequence: 379
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 一、　昭和恐慌のなかで
+    start_page: 781
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0380
+    sequence: 380
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 昭和恐慌
+    start_page: 781
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0381
+    sequence: 381
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 塙坂改修工事
+    start_page: 782
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0382
+    sequence: 382
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 税の滞納
+    start_page: 784
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0383
+    sequence: 383
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 怪文書
+    start_page: 785
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0384
+    sequence: 384
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 愛郷会瓜連支部
+    start_page: 786
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0385
+    sequence: 385
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 時局救済事業
+    start_page: 789
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0386
+    sequence: 386
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 救済事業の構造
+    start_page: 791
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0387
+    sequence: 387
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 二、　戦時体制
+    start_page: 792
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0388
+    sequence: 388
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 国家総動員体制
+    start_page: 792
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0389
+    sequence: 389
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 町内会
+    start_page: 793
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0390
+    sequence: 390
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 食糧増産
+    start_page: 795
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0391
+    sequence: 391
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 共同炊事
+    start_page: 797
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0392
+    sequence: 392
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 供出
+    start_page: 798
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0393
+    sequence: 393
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 出征と様々な供出
+    start_page: 799
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0394
+    sequence: 394
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 戦没者と町葬
+    start_page: 801
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0395
+    sequence: 395
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 三、戦時下の教育
+    start_page: 802
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0396
+    sequence: 396
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 国民学校の発足
+    start_page: 802
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0397
+    sequence: 397
+    heading_level: item
+    volume: null
+    chapter: 第五章　近代
+    section: 第四節　満州事変から太平洋戦争へ
+    item: 総動員の中の教育
+    start_page: 804
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0398
+    sequence: 398
+    heading_level: chapter
+    volume: null
+    chapter: 第六章　現代
+    section: null
+    item: null
+    start_page: 809
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0399
+    sequence: 399
+    heading_level: section
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: null
+    start_page: 809
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0400
+    sequence: 400
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 一、　戦後の混乱と町村行財政
+    start_page: 809
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0401
+    sequence: 401
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 戦後の混乱と米軍進駐
+    start_page: 809
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0402
+    sequence: 402
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 町村長の公選と財政
+    start_page: 813
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0403
+    sequence: 403
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 二、　農地改革の進行と農民運動
+    start_page: 818
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0404
+    sequence: 404
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 農地改革の実施過程の意図と状況
+    start_page: 818
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0405
+    sequence: 405
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 地主の抵抗と農民運動
+    start_page: 821
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0406
+    sequence: 406
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 農地委員会の成立
+    start_page: 830
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0407
+    sequence: 407
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 改革の実績
+    start_page: 832
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0408
+    sequence: 408
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 改革の終結と動静
+    start_page: 838
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0409
+    sequence: 409
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 三、　未墾地解放と農業協同組合の設立
+    start_page: 842
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0410
+    sequence: 410
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 未墾地解放
+    start_page: 842
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0411
+    sequence: 411
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 古徳・中里開拓組合
+    start_page: 845
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0412
+    sequence: 412
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 那珂中部揚水と岩崎江堰土地改良区
+    start_page: 851
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0413
+    sequence: 413
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 農業協同組合の設立
+    start_page: 857
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0414
+    sequence: 414
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 四、　田園文化連盟
+    start_page: 862
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0415
+    sequence: 415
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 田園文化連盟の成立
+    start_page: 862
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0416
+    sequence: 416
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 演劇部会
+    start_page: 865
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0417
+    sequence: 417
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第一節　戦後の瓜連町
+    item: 俳句部会
+    start_page: 870
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0418
+    sequence: 418
+    heading_level: section
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: null
+    start_page: 874
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0419
+    sequence: 419
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 一、　合併と各町村の動向
+    start_page: 874
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0420
+    sequence: 420
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 町村合併の推移
+    start_page: 874
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0421
+    sequence: 421
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 各町村の動向
+    start_page: 880
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0422
+    sequence: 422
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 二、　新瓜連町の発足と新町政の展開
+    start_page: 883
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0423
+    sequence: 423
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 新瓜連町の誕生
+    start_page: 883
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0424
+    sequence: 424
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 新町政の展開
+    start_page: 886
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0425
+    sequence: 425
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 公報・桜城の発行と町章の制定
+    start_page: 891
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0426
+    sequence: 426
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 三、　高度成長期の経済構造の変化
+    start_page: 895
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0427
+    sequence: 427
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 就業構造の変化と町内の諸産業
+    start_page: 895
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0428
+    sequence: 428
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 工業・商業の動き
+    start_page: 897
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0429
+    sequence: 429
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 商工会
+    start_page: 898
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0430
+    sequence: 430
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 農業生産構造の変化
+    start_page: 900
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0431
+    sequence: 431
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 農業生産の動き
+    start_page: 902
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0432
+    sequence: 432
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 減反政策の進行
+    start_page: 906
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0433
+    sequence: 433
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 田園都市の建設
+    start_page: 907
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0434
+    sequence: 434
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 農協の合併
+    start_page: 909
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0435
+    sequence: 435
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 町の産業振興計画
+    start_page: 912
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0436
+    sequence: 436
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 四、　瓜連町の観光
+    start_page: 913
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0437
+    sequence: 437
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 静峰公園の誕生
+    start_page: 913
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0438
+    sequence: 438
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第二節　町村合併と新瓜連町の誕生
+    item: 古徳沼の白鳥
+    start_page: 915
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0439
+    sequence: 439
+    heading_level: section
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: null
+    start_page: 918
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0440
+    sequence: 440
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: 一、　戦後の教育変遷
+    start_page: 918
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0441
+    sequence: 441
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: 学校教育の改変
+    start_page: 918
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0442
+    sequence: 442
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: 教育基本法の成立
+    start_page: 919
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0443
+    sequence: 443
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: 教員組合の発足
+    start_page: 922
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0444
+    sequence: 444
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: 教育委員会の設置
+    start_page: 923
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0445
+    sequence: 445
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: PTAの結成
+    start_page: 925
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0446
+    sequence: 446
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: 学校給食
+    start_page: 925
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0447
+    sequence: 447
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: 戦後の社会教育
+    start_page: 926
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0448
+    sequence: 448
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: 社会教育の設備
+    start_page: 927
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0449
+    sequence: 449
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: 二、　小中学校・幼稚園
+    start_page: 927
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0450
+    sequence: 450
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: （1）　静小学校
+    start_page: 927
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0451
+    sequence: 451
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: （2）　瓜連小学校
+    start_page: 928
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0452
+    sequence: 452
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: （3）　瓜連中学校
+    start_page: 928
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0453
+    sequence: 453
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: （4）　茨城済生幼稚園
+    start_page: 929
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0454
+    sequence: 454
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: （5）　ナザレ幼稚園
+    start_page: 929
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0455
+    sequence: 455
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: 三、　文化財の保護保存
+    start_page: 930
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0456
+    sequence: 456
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: 四、　福祉社会の発達
+    start_page: 930
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0457
+    sequence: 457
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: 福祉社会
+    start_page: 930
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0458
+    sequence: 458
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: 福祉行政と民生委員制度
+    start_page: 931
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0459
+    sequence: 459
+    heading_level: item
+    volume: null
+    chapter: 第六章　現代
+    section: 第三節　教育と福祉
+    item: 瓜連町社会福祉協議会
+    start_page: 932
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0460
+    sequence: 460
+    heading_level: chapter
+    volume: null
+    chapter: 第七章　民俗
+    section: null
+    item: null
+    start_page: 939
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0461
+    sequence: 461
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: null
+    item: 概説
+    start_page: 939
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0462
+    sequence: 462
+    heading_level: section
+    volume: null
+    chapter: 第七章　民俗
+    section: 第一節　瓜連町の年中行事と信仰
+    item: null
+    start_page: 940
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0463
+    sequence: 463
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第一節　瓜連町の年中行事と信仰
+    item: 一月
+    start_page: 940
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0464
+    sequence: 464
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第一節　瓜連町の年中行事と信仰
+    item: 二月
+    start_page: 944
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0465
+    sequence: 465
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第一節　瓜連町の年中行事と信仰
+    item: 三月
+    start_page: 945
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0466
+    sequence: 466
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第一節　瓜連町の年中行事と信仰
+    item: 四月
+    start_page: 946
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0467
+    sequence: 467
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第一節　瓜連町の年中行事と信仰
+    item: 五月
+    start_page: 947
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0468
+    sequence: 468
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第一節　瓜連町の年中行事と信仰
+    item: 六月
+    start_page: 947
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0469
+    sequence: 469
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第一節　瓜連町の年中行事と信仰
+    item: 七月
+    start_page: 949
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0470
+    sequence: 470
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第一節　瓜連町の年中行事と信仰
+    item: 八月
+    start_page: 951
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0471
+    sequence: 471
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第一節　瓜連町の年中行事と信仰
+    item: 九月
+    start_page: 952
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0472
+    sequence: 472
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第一節　瓜連町の年中行事と信仰
+    item: 十月
+    start_page: 953
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0473
+    sequence: 473
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第一節　瓜連町の年中行事と信仰
+    item: 十一月
+    start_page: 953
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0474
+    sequence: 474
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第一節　瓜連町の年中行事と信仰
+    item: 十二月
+    start_page: 954
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0475
+    sequence: 475
+    heading_level: section
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: null
+    start_page: 956
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0476
+    sequence: 476
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 一、　自然の伝説
+    start_page: 956
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0477
+    sequence: 477
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 山の伝説
+    start_page: 956
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0478
+    sequence: 478
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 木の伝説
+    start_page: 957
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0479
+    sequence: 479
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 祠と池の伝説
+    start_page: 957
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0480
+    sequence: 480
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 狐の伝説
+    start_page: 958
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0481
+    sequence: 481
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 二、　歴史の伝説
+    start_page: 959
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0482
+    sequence: 482
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 武家屋敷の伝説
+    start_page: 959
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0483
+    sequence: 483
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 坂の伝説
+    start_page: 959
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0484
+    sequence: 484
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 瀬と河原と淵の伝説
+    start_page: 960
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0485
+    sequence: 485
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 街道の伝説
+    start_page: 960
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0486
+    sequence: 486
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: トバ（鳥羽）長者屋敷と権現塚
+    start_page: 961
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0487
+    sequence: 487
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 善角坊の伝説
+    start_page: 961
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0488
+    sequence: 488
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 大堀
+    start_page: 962
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0489
+    sequence: 489
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 三、　信仰の伝説
+    start_page: 962
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0490
+    sequence: 490
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 大黒天伝説
+    start_page: 962
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0491
+    sequence: 491
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 地蔵伝説
+    start_page: 963
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0492
+    sequence: 492
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 観音伝説
+    start_page: 963
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0493
+    sequence: 493
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: お堂の伝説
+    start_page: 964
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0494
+    sequence: 494
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 乳母神伝説
+    start_page: 964
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0495
+    sequence: 495
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第二節　伝説
+    item: 塔の伝説
+    start_page: 965
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0496
+    sequence: 496
+    heading_level: section
+    volume: null
+    chapter: 第七章　民俗
+    section: 第三節　方言
+    item: null
+    start_page: 966
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0497
+    sequence: 497
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第三節　方言
+    item: 一、　古代方言の一斑
+    start_page: 966
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0498
+    sequence: 498
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第三節　方言
+    item: 二、　現在の方言の大要
+    start_page: 967
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0499
+    sequence: 499
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第三節　方言
+    item: 三、　変格活用動詞の一段活用化
+    start_page: 974
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0500
+    sequence: 500
+    heading_level: item
+    volume: null
+    chapter: 第七章　民俗
+    section: 第三節　方言
+    item: 四、　助詞・助動詞について
+    start_page: 975
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0501
+    sequence: 501
+    heading_level: chapter
+    volume: null
+    chapter: 第八章　神社と寺院
+    section: null
+    item: null
+    start_page: 981
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0502
+    sequence: 502
+    heading_level: section
+    volume: null
+    chapter: 第八章　神社と寺院
+    section: 第一節　神社
+    item: null
+    start_page: 981
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0503
+    sequence: 503
+    heading_level: item
+    volume: null
+    chapter: 第八章　神社と寺院
+    section: 第一節　神社
+    item: （1）　瓜連の素鵞神社
+    start_page: 982
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0504
+    sequence: 504
+    heading_level: item
+    volume: null
+    chapter: 第八章　神社と寺院
+    section: 第一節　神社
+    item: （2）　静の静神社
+    start_page: 983
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0505
+    sequence: 505
+    heading_level: item
+    volume: null
+    chapter: 第八章　神社と寺院
+    section: 第一節　神社
+    item: （3）　静の桂木稲荷神社
+    start_page: 984
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0506
+    sequence: 506
+    heading_level: item
+    volume: null
+    chapter: 第八章　神社と寺院
+    section: 第一節　神社
+    item: （4）　静の北城稲荷神社
+    start_page: 985
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0507
+    sequence: 507
+    heading_level: item
+    volume: null
+    chapter: 第八章　神社と寺院
+    section: 第一節　神社
+    item: （5）　下大賀の瀧神社
+    start_page: 986
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0508
+    sequence: 508
+    heading_level: item
+    volume: null
+    chapter: 第八章　神社と寺院
+    section: 第一節　神社
+    item: （6）　中里の箱根神社
+    start_page: 987
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0509
+    sequence: 509
+    heading_level: item
+    volume: null
+    chapter: 第八章　神社と寺院
+    section: 第一節　神社
+    item: （7）　古徳の富士神社
+    start_page: 987
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0510
+    sequence: 510
+    heading_level: item
+    volume: null
+    chapter: 第八章　神社と寺院
+    section: 第一節　神社
+    item: （8）　鹿島の鹿島神社
+    start_page: 988
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0511
+    sequence: 511
+    heading_level: section
+    volume: null
+    chapter: 第八章　神社と寺院
+    section: 第二節　寺院
+    item: null
+    start_page: 989
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0512
+    sequence: 512
+    heading_level: item
+    volume: null
+    chapter: 第八章　神社と寺院
+    section: 第二節　寺院
+    item: （1）　常福寺（浄土宗）
+    start_page: 989
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0513
+    sequence: 513
+    heading_level: item
+    volume: null
+    chapter: 第八章　神社と寺院
+    section: 第二節　寺院
+    item: （2）　弘願寺（臨済宗円覚寺派）
+    start_page: 995
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0514
+    sequence: 514
+    heading_level: item
+    volume: null
+    chapter: 第八章　神社と寺院
+    section: 第二節　寺院
+    item: （3）　廃寺
+    start_page: 998
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0515
+    sequence: 515
+    heading_level: item
+    volume: null
+    chapter: 第八章　神社と寺院
+    section: 第二節　寺院
+    item: 瓜連町年表
+    start_page: 1007
+    page_reference:
+      status: stated
+  - id: naka-toc-08-0516
+    sequence: 516
+    heading_level: item
+    volume: null
+    chapter: 第八章　神社と寺院
+    section: 第二節　寺院
+    item: あとがき
+    start_page: null
+    page_reference:
+      status: not_listed

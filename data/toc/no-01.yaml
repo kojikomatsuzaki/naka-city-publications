@@ -1,0 +1,2645 @@
+publication:
+  publication_number: '1'
+  title: 那珂町史
+  source_pdf_url: https://www.city.naka.lg.jp/data/doc/1745047405_doc_902_0.pdf
+entries:
+  - id: naka-toc-01-0001
+    sequence: 1
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: null
+    section: null
+    item: 口絵
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-01-0002
+    sequence: 2
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: null
+    section: null
+    item: 発刊のことば
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0003
+    sequence: 3
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: null
+    section: null
+    item: 凡例
+    start_page: 3
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0004
+    sequence: 4
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: null
+    section: null
+    item: 総論　那珂町の原始・古代の特色
+    start_page: 15
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0005
+    sequence: 5
+    heading_level: chapter
+    volume: 自然環境・原始古代編
+    chapter: 第一章　自然環境
+    section: null
+    item: null
+    start_page: 39
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0006
+    sequence: 6
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第一章　自然環境
+    section: 第一節　那珂町の地理的位置
+    item: null
+    start_page: 39
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0007
+    sequence: 7
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: null
+    start_page: 49
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0008
+    sequence: 8
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 地形
+    start_page: 49
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0009
+    sequence: 9
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 地質
+    start_page: 54
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0010
+    sequence: 10
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第一章　自然環境
+    section: 第二節　地形と地質
+    item: 化石
+    start_page: 82
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0011
+    sequence: 11
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第一章　自然環境
+    section: 第三節　気候
+    item: null
+    start_page: 93
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0012
+    sequence: 12
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第一章　自然環境
+    section: 第三節　気候
+    item: 那珂町の気候
+    start_page: 95
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0013
+    sequence: 13
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第一章　自然環境
+    section: 第三節　気候
+    item: 気象の特性
+    start_page: 102
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0014
+    sequence: 14
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第一章　自然環境
+    section: 第三節　気候
+    item: 那珂町の天気俚言
+    start_page: 110
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0015
+    sequence: 15
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: null
+    start_page: 112
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0016
+    sequence: 16
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: 概説
+    start_page: 112
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0017
+    sequence: 17
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: 植物
+    start_page: 118
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0018
+    sequence: 18
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: 動物
+    start_page: 119
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0019
+    sequence: 19
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: 天然記念物
+    start_page: 119
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0020
+    sequence: 20
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第一章　自然環境
+    section: 第四節　植物と動物
+    item: 県の自然観察施設
+    start_page: 132
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0021
+    sequence: 21
+    heading_level: chapter
+    volume: 自然環境・原始古代編
+    chapter: 第二章　那珂台地のあけぼの
+    section: null
+    item: null
+    start_page: 139
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0022
+    sequence: 22
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第二章　那珂台地のあけぼの
+    section: 第一節　原始・古代の舞台
+    item: null
+    start_page: 143
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0023
+    sequence: 23
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第二章　那珂台地のあけぼの
+    section: 第二節　額田大宮遺跡と細石刃文化
+    item: null
+    start_page: 152
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0024
+    sequence: 24
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第二章　那珂台地のあけぼの
+    section: 第三節　那珂町の遺跡
+    item: null
+    start_page: 164
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0025
+    sequence: 25
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第二章　那珂台地のあけぼの
+    section: 第三節　那珂町の遺跡
+    item: 1　岸桂寺遺跡
+    start_page: 164
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0026
+    sequence: 26
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第二章　那珂台地のあけぼの
+    section: 第三節　那珂町の遺跡
+    item: 2　伊達遺跡
+    start_page: 166
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0027
+    sequence: 27
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第二章　那珂台地のあけぼの
+    section: 第三節　那珂町の遺跡
+    item: 3　新地遺跡
+    start_page: 166
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0028
+    sequence: 28
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第二章　那珂台地のあけぼの
+    section: 第三節　那珂町の遺跡
+    item: 4　額田大宮遺跡
+    start_page: 170
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0029
+    sequence: 29
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第二章　那珂台地のあけぼの
+    section: 第三節　那珂町の遺跡
+    item: 5　森戸遺跡
+    start_page: 173
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0030
+    sequence: 30
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第二章　那珂台地のあけぼの
+    section: 第三節　那珂町の遺跡
+    item: 6　富士山遺跡
+    start_page: 173
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0031
+    sequence: 31
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第二章　那珂台地のあけぼの
+    section: 第三節　那珂町の遺跡
+    item: 7　北坪遺跡
+    start_page: 173
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0032
+    sequence: 32
+    heading_level: chapter
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: null
+    item: null
+    start_page: 175
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0033
+    sequence: 33
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第一節　縄文時代土器の展開
+    item: null
+    start_page: 175
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0034
+    sequence: 34
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第一節　縄文時代土器の展開
+    item: 土器の起源論争
+    start_page: 175
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0035
+    sequence: 35
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第一節　縄文時代土器の展開
+    item: 草創期・早期
+    start_page: 178
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0036
+    sequence: 36
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第一節　縄文時代土器の展開
+    item: 縄文前期
+    start_page: 187
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0037
+    sequence: 37
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第一節　縄文時代土器の展開
+    item: 縄文中期
+    start_page: 191
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0038
+    sequence: 38
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第一節　縄文時代土器の展開
+    item: 縄文後期
+    start_page: 193
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0039
+    sequence: 39
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第一節　縄文時代土器の展開
+    item: 縄文晩期
+    start_page: 195
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0040
+    sequence: 40
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第二節　縄文時代の住居と集落
+    item: null
+    start_page: 198
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0041
+    sequence: 41
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第三節　日常生活の諸相
+    item: null
+    start_page: 201
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0042
+    sequence: 42
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第三節　日常生活の諸相
+    item: 家族総出の労働
+    start_page: 203
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0043
+    sequence: 43
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第三節　日常生活の諸相
+    item: 変化に富む日常生活
+    start_page: 206
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0044
+    sequence: 44
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第四節　呪術と禁忌
+    item: null
+    start_page: 213
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0045
+    sequence: 45
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: null
+    start_page: 220
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0046
+    sequence: 46
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 遺跡の分布
+    start_page: 220
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0047
+    sequence: 47
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 遺跡の立地
+    start_page: 223
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0048
+    sequence: 48
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 1　外宿遺跡
+    start_page: 229
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0049
+    sequence: 49
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 2　籠内遺跡
+    start_page: 230
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0050
+    sequence: 50
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 3・4　六人堂遺跡
+    start_page: 256
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0051
+    sequence: 51
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 5　白鳥遺跡
+    start_page: 256
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0052
+    sequence: 52
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 6　沢頭A遺跡
+    start_page: 258
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0053
+    sequence: 53
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 7　沢頭B遺跡
+    start_page: 258
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0054
+    sequence: 54
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 8　矢場遺跡
+    start_page: 259
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0055
+    sequence: 55
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 9　貯山遺跡
+    start_page: 259
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0056
+    sequence: 56
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 10　坂下遺跡
+    start_page: 263
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0057
+    sequence: 57
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 11　柄目遺跡
+    start_page: 264
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0058
+    sequence: 58
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 12　中田遺跡
+    start_page: 264
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0059
+    sequence: 59
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 13　横宿遺跡
+    start_page: 265
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0060
+    sequence: 60
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 14　森戸遺跡
+    start_page: 265
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0061
+    sequence: 61
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 15　西塙遺跡
+    start_page: 276
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0062
+    sequence: 62
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 16　額田大宮遺跡
+    start_page: 276
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0063
+    sequence: 63
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 17　伊達遺跡
+    start_page: 278
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0064
+    sequence: 64
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 18　永井遺跡
+    start_page: 278
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0065
+    sequence: 65
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 19　畑中遺跡
+    start_page: 283
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0066
+    sequence: 66
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 20　天神小屋遺跡
+    start_page: 283
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0067
+    sequence: 67
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 21　富士山遺跡
+    start_page: 283
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0068
+    sequence: 68
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 22　東の前遺跡
+    start_page: 284
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0069
+    sequence: 69
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 23　石井戸遺跡
+    start_page: 294
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0070
+    sequence: 70
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 24　山王原遺跡
+    start_page: 294
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0071
+    sequence: 71
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 25　台坪遺跡
+    start_page: 294
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0072
+    sequence: 72
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 26　松原遺跡
+    start_page: 295
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0073
+    sequence: 73
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 27　門部遺跡
+    start_page: 297
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0074
+    sequence: 74
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 28　北坪遺跡
+    start_page: 297
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0075
+    sequence: 75
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 29　台遺跡
+    start_page: 299
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0076
+    sequence: 76
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 30　谷津向遺跡
+    start_page: 299
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0077
+    sequence: 77
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 31　京塚遺跡
+    start_page: 302
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0078
+    sequence: 78
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 32　一ッケ遺跡
+    start_page: 302
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0079
+    sequence: 79
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 33　天神山遺跡
+    start_page: 303
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0080
+    sequence: 80
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 34　中台・津田遺跡
+    start_page: 303
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0081
+    sequence: 81
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 35　中台遺跡
+    start_page: 310
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0082
+    sequence: 82
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 36　中台東遺跡
+    start_page: 310
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0083
+    sequence: 83
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 37・38　東木倉遺跡
+    start_page: 314
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0084
+    sequence: 84
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 39　西木倉遺跡
+    start_page: 314
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0085
+    sequence: 85
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 40　清水原遺跡
+    start_page: 317
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0086
+    sequence: 86
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 41　下新地遺跡
+    start_page: 318
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0087
+    sequence: 87
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 42　仲坪遺跡
+    start_page: 319
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0088
+    sequence: 88
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 43　台久保遺跡
+    start_page: 319
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0089
+    sequence: 89
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 44　棒遺跡
+    start_page: 320
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0090
+    sequence: 90
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 45　小屋の内遺跡
+    start_page: 320
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0091
+    sequence: 91
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 46　根本遺跡
+    start_page: 320
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0092
+    sequence: 92
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 47　福ヶ平遺跡
+    start_page: 331
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0093
+    sequence: 93
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 48　八幡遺跡
+    start_page: 331
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0094
+    sequence: 94
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 49　下坪遺跡
+    start_page: 332
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0095
+    sequence: 95
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 50　イカチ遺跡
+    start_page: 333
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0096
+    sequence: 96
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第三章　久慈川、那珂川流域の縄文文化
+    section: 第五節　那珂町の遺跡
+    item: 51　高森遺跡
+    start_page: 335
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0097
+    sequence: 97
+    heading_level: chapter
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: null
+    item: null
+    start_page: 337
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0098
+    sequence: 98
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第一節　海後遺跡と初期弥生文化
+    item: null
+    start_page: 337
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0099
+    sequence: 99
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第二節　土器の変遷
+    item: null
+    start_page: 341
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0100
+    sequence: 100
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第三節　集落と人口
+    item: null
+    start_page: 349
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0101
+    sequence: 101
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第四節　十王台土器圏の形成とその性格
+    item: null
+    start_page: 361
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0102
+    sequence: 102
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第五節　弥生時代の技術
+    item: null
+    start_page: 373
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0103
+    sequence: 103
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第六節　水稲農耕の軌跡
+    item: null
+    start_page: 377
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0104
+    sequence: 104
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: null
+    start_page: 385
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0105
+    sequence: 105
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 1　海後遺跡A地点
+    start_page: 390
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0106
+    sequence: 106
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 2　海後遺跡B地点
+    start_page: 398
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0107
+    sequence: 107
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 3　永井遺跡
+    start_page: 400
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0108
+    sequence: 108
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 4　新地後遺跡
+    start_page: 401
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0109
+    sequence: 109
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 5　伊達遺跡
+    start_page: 401
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0110
+    sequence: 110
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 6　額田大宮遺跡
+    start_page: 405
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0111
+    sequence: 111
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 7　西塙遺跡
+    start_page: 406
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0112
+    sequence: 112
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 8　森戸遺跡
+    start_page: 407
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0113
+    sequence: 113
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 9　畑中遺跡
+    start_page: 415
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0114
+    sequence: 114
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 10　富士山遺跡
+    start_page: 417
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0115
+    sequence: 115
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 11　岡瀬沢遺跡
+    start_page: 418
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0116
+    sequence: 116
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 12　東の前遺跡
+    start_page: 419
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0117
+    sequence: 117
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 13　南酒出崎遺跡
+    start_page: 419
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0118
+    sequence: 118
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 14　石井戸遺跡
+    start_page: 421
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0119
+    sequence: 119
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 15　山王原遺跡
+    start_page: 424
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0120
+    sequence: 120
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 16　松原遺跡
+    start_page: 425
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0121
+    sequence: 121
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 17　門部遺跡
+    start_page: 425
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0122
+    sequence: 122
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 18　立花遺跡
+    start_page: 431
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0123
+    sequence: 123
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 19　鹿島遺跡
+    start_page: 431
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0124
+    sequence: 124
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 20　新堀遺跡
+    start_page: 432
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0125
+    sequence: 125
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 21　福ヶ平遺跡
+    start_page: 433
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0126
+    sequence: 126
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 22　京塚遺跡
+    start_page: 433
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0127
+    sequence: 127
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 23　一ッケ遺跡
+    start_page: 433
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0128
+    sequence: 128
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 24　中台東遺跡
+    start_page: 433
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0129
+    sequence: 129
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第四章　弥生文化の成立と展開
+    section: 第七節　那珂町の遺跡
+    item: 25　東木倉遺跡
+    start_page: 443
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0130
+    sequence: 130
+    heading_level: chapter
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: null
+    item: null
+    start_page: 445
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0131
+    sequence: 131
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第一節　弥生時代から古墳時代へ
+    item: null
+    start_page: 445
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0132
+    sequence: 132
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第一節　弥生時代から古墳時代へ
+    item: 土師器の登場
+    start_page: 445
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0133
+    sequence: 133
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第一節　弥生時代から古墳時代へ
+    item: 土師器の展開
+    start_page: 450
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0134
+    sequence: 134
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第二節　古墳文化の展開と巨大古墳の登場
+    item: null
+    start_page: 464
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0135
+    sequence: 135
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第二節　古墳文化の展開と巨大古墳の登場
+    item: 初期古墳文化の成立
+    start_page: 464
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0136
+    sequence: 136
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第二節　古墳文化の展開と巨大古墳の登場
+    item: 那珂町古墳文化の特色
+    start_page: 471
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0137
+    sequence: 137
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第三節　家父長層の成長と民衆の生活
+    item: null
+    start_page: 479
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0138
+    sequence: 138
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第三節　家父長層の成長と民衆の生活
+    item: 生産技術の発展
+    start_page: 479
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0139
+    sequence: 139
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第三節　家父長層の成長と民衆の生活
+    item: 農民生活の諸相
+    start_page: 488
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0140
+    sequence: 140
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第三節　家父長層の成長と民衆の生活
+    item: 生活と文化
+    start_page: 498
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0141
+    sequence: 141
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第四節　国造制の成立と古墳時代の終焉
+    item: null
+    start_page: 518
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0142
+    sequence: 142
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第四節　国造制の成立と古墳時代の終焉
+    item: 国造制成立の前夜
+    start_page: 518
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0143
+    sequence: 143
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第四節　国造制の成立と古墳時代の終焉
+    item: 国造制の成立と古墳文化
+    start_page: 522
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0144
+    sequence: 144
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: null
+    start_page: 527
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0145
+    sequence: 145
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 1　海後古墳群
+    start_page: 536
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0146
+    sequence: 146
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 2　本米崎古墳群
+    start_page: 536
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0147
+    sequence: 147
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 3　向山古墳群
+    start_page: 537
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0148
+    sequence: 148
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 4　新地古墳群
+    start_page: 537
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0149
+    sequence: 149
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 5　伊達古墳群
+    start_page: 538
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0150
+    sequence: 150
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 6　京塚古墳群
+    start_page: 538
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0151
+    sequence: 151
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 7　愛宕山古墳群
+    start_page: 538
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0152
+    sequence: 152
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 8　畑中古墳群
+    start_page: 540
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0153
+    sequence: 153
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 9　笹野古墳群
+    start_page: 540
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0154
+    sequence: 154
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 10　天神小屋古墳群
+    start_page: 540
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0155
+    sequence: 155
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 11　天神小屋横穴墓群
+    start_page: 542
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0156
+    sequence: 156
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 12　新宿古墳群
+    start_page: 542
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0157
+    sequence: 157
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 13　ひょうたん塚古墳群
+    start_page: 543
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0158
+    sequence: 158
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 14　北酒出横穴墓群
+    start_page: 545
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0159
+    sequence: 159
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 15　おはぐろ塚古墳群
+    start_page: 545
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0160
+    sequence: 160
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 16　鈴照塚古墳
+    start_page: 545
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0161
+    sequence: 161
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 17　西組古墳
+    start_page: 547
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0162
+    sequence: 162
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 18　鹿島古墳群
+    start_page: 547
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0163
+    sequence: 163
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 19　白河内古墳群
+    start_page: 547
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0164
+    sequence: 164
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 20　リュウガイ古墳群
+    start_page: 548
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0165
+    sequence: 165
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 21　権現山横穴墓群
+    start_page: 548
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0166
+    sequence: 166
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 22　白河内横穴墓群
+    start_page: 549
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0167
+    sequence: 167
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 23　西木倉古墳群
+    start_page: 549
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0168
+    sequence: 168
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 24　鳥獣センター内横穴墓群
+    start_page: 550
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0169
+    sequence: 169
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第五節　那珂町の古墳・横穴墓群
+    item: 25　戸古墳群
+    start_page: 550
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0170
+    sequence: 170
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: null
+    start_page: 551
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0171
+    sequence: 171
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 1　海後仲田遺跡
+    start_page: 560
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0172
+    sequence: 172
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 2　海後内遺跡
+    start_page: 561
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0173
+    sequence: 173
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 3　古門場遺跡
+    start_page: 563
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0174
+    sequence: 174
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 4　久保前遺跡
+    start_page: 563
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0175
+    sequence: 175
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 5　籠内遺跡
+    start_page: 563
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0176
+    sequence: 176
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 6　永井遺跡
+    start_page: 565
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0177
+    sequence: 177
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 7　岸桂寺遺跡
+    start_page: 566
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0178
+    sequence: 178
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 8　伊達遺跡
+    start_page: 566
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0179
+    sequence: 179
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 9　仙翁内遺跡
+    start_page: 578
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0180
+    sequence: 180
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 10　額田大宮遺跡
+    start_page: 578
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0181
+    sequence: 181
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 11　額田西塙遺跡
+    start_page: 584
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0182
+    sequence: 182
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 12　杉本後遺跡
+    start_page: 586
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0183
+    sequence: 183
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 13　森戸遺跡
+    start_page: 587
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0184
+    sequence: 184
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 14　畑中遺跡
+    start_page: 590
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0185
+    sequence: 185
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 15　東の前遺跡
+    start_page: 605
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0186
+    sequence: 186
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 16　笹野遺跡
+    start_page: 612
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0187
+    sequence: 187
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 17　富士山遺跡
+    start_page: 612
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0188
+    sequence: 188
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 18　塚下遺跡
+    start_page: 612
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0189
+    sequence: 189
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 19　坂下遺跡
+    start_page: 619
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0190
+    sequence: 190
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 20　新洞遺跡
+    start_page: 620
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0191
+    sequence: 191
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 21　沢頭遺跡
+    start_page: 620
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0192
+    sequence: 192
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 22　白鳥谷津遺跡
+    start_page: 620
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0193
+    sequence: 193
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 23　蔵本遺跡
+    start_page: 621
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0194
+    sequence: 194
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 24　石井戸遺跡
+    start_page: 626
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0195
+    sequence: 195
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 25　山王原遺跡
+    start_page: 628
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0196
+    sequence: 196
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 26　台坪遺跡
+    start_page: 630
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0197
+    sequence: 197
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 27　松原遺跡
+    start_page: 631
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0198
+    sequence: 198
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 28　門部遺跡
+    start_page: 637
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0199
+    sequence: 199
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 29　小屋場遺跡
+    start_page: 638
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0200
+    sequence: 200
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 30　立花遺跡
+    start_page: 639
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0201
+    sequence: 201
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 31　谷津向遺跡
+    start_page: 639
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0202
+    sequence: 202
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 32　榎戸遺跡
+    start_page: 640
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0203
+    sequence: 203
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 33　鹿島中丸遺跡
+    start_page: 640
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0204
+    sequence: 204
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 34　戸崎井尻遺跡
+    start_page: 641
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0205
+    sequence: 205
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 35　戸崎木戸遺跡
+    start_page: 641
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0206
+    sequence: 206
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 36　京塚遺跡
+    start_page: 642
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0207
+    sequence: 207
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 37　一ッケ遺跡
+    start_page: 642
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0208
+    sequence: 208
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 38　津田遺跡
+    start_page: 642
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0209
+    sequence: 209
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 39　中台東遺跡
+    start_page: 642
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0210
+    sequence: 210
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 40　中台下宿遺跡
+    start_page: 643
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0211
+    sequence: 211
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 41　稲荷前遺跡
+    start_page: 645
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0212
+    sequence: 212
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 42　西木倉前原遺跡
+    start_page: 646
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0213
+    sequence: 213
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 43　西木倉塙遺跡
+    start_page: 646
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0214
+    sequence: 214
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 44　豊喰遺跡
+    start_page: 646
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0215
+    sequence: 215
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 45　清水原遺跡
+    start_page: 647
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0216
+    sequence: 216
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 46　棒遺跡
+    start_page: 647
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0217
+    sequence: 217
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 47　林業試験場周辺遺跡
+    start_page: 647
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0218
+    sequence: 218
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 48　富士遺跡
+    start_page: 647
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0219
+    sequence: 219
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 49　小屋の内遺跡
+    start_page: 648
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0220
+    sequence: 220
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 50　国神遺跡
+    start_page: 648
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0221
+    sequence: 221
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 51　福ヶ平遺跡
+    start_page: 648
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0222
+    sequence: 222
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 52　八幡遺跡
+    start_page: 648
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0223
+    sequence: 223
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 53　内屋敷遺跡
+    start_page: 649
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0224
+    sequence: 224
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 54　下江戸遺跡
+    start_page: 649
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0225
+    sequence: 225
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 55　高森遺跡
+    start_page: 649
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0226
+    sequence: 226
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 56　柄目遺跡
+    start_page: 650
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0227
+    sequence: 227
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第五章　古墳時代の那珂町
+    section: 第六節　那珂町の遺跡
+    item: 57　中田遺跡
+    start_page: 650
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0228
+    sequence: 228
+    heading_level: chapter
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: null
+    item: null
+    start_page: 651
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0229
+    sequence: 229
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第一節　律令制の成立と那珂町
+    item: null
+    start_page: 651
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0230
+    sequence: 230
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第二節　『常陸国風土記』・『万葉集』と那珂町
+    item: null
+    start_page: 672
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0231
+    sequence: 231
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第三節　蝦夷征討と農民の負担
+    item: null
+    start_page: 690
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0232
+    sequence: 232
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第四節　『和名抄』にみる那珂町の郷
+    item: null
+    start_page: 715
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0233
+    sequence: 233
+    heading_level: section
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: null
+    start_page: 735
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0234
+    sequence: 234
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 住居と集落
+    start_page: 736
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0235
+    sequence: 235
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: さまざまな生業
+    start_page: 742
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0236
+    sequence: 236
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 文字の使用
+    start_page: 745
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0237
+    sequence: 237
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 那珂町の遺跡
+    start_page: 749
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0238
+    sequence: 238
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 1　中台遺跡
+    start_page: 758
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0239
+    sequence: 239
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 2　清水原遺跡
+    start_page: 759
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0240
+    sequence: 240
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 3　西木倉前原遺跡
+    start_page: 760
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0241
+    sequence: 241
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 4　中台下宿遺跡
+    start_page: 760
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0242
+    sequence: 242
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 5　林業試験場内遺跡
+    start_page: 760
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0243
+    sequence: 243
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 6　富士遺跡
+    start_page: 761
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0244
+    sequence: 244
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 7　東木倉遺跡
+    start_page: 761
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0245
+    sequence: 245
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 8　小屋の内遺跡
+    start_page: 761
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0246
+    sequence: 246
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 9　国神遺跡
+    start_page: 762
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0247
+    sequence: 247
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 10　福ヶ平遺跡
+    start_page: 763
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0248
+    sequence: 248
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 11　棒遺跡
+    start_page: 763
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0249
+    sequence: 249
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 12　高森遺跡
+    start_page: 763
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0250
+    sequence: 250
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 13　下江戸遺跡
+    start_page: 765
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0251
+    sequence: 251
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 14　内屋敷遺跡
+    start_page: 766
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0252
+    sequence: 252
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 15　八幡遺跡
+    start_page: 766
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0253
+    sequence: 253
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 16　小屋場遺跡
+    start_page: 766
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0254
+    sequence: 254
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 17　榎戸遺跡
+    start_page: 767
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0255
+    sequence: 255
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 18　片庭遺跡
+    start_page: 767
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0256
+    sequence: 256
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 19　柄目遺跡
+    start_page: 767
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0257
+    sequence: 257
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 20　中田遺跡
+    start_page: 768
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0258
+    sequence: 258
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 21　笹野遺跡
+    start_page: 768
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0259
+    sequence: 259
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 22　富士山遺跡
+    start_page: 768
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0260
+    sequence: 260
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 23　木崎内遺跡
+    start_page: 769
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0261
+    sequence: 261
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: 第六章　奈良・平安時代の那珂町
+    section: 第五節　遺跡・遺物からみた生活と文化
+    item: 24　石井戸遺跡
+    start_page: 769
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0262
+    sequence: 262
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: null
+    section: null
+    item: 表目次
+    start_page: 771
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0263
+    sequence: 263
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: null
+    section: null
+    item: 図版目次
+    start_page: 772
+    page_reference:
+      status: stated
+  - id: naka-toc-01-0264
+    sequence: 264
+    heading_level: item
+    volume: 自然環境・原始古代編
+    chapter: null
+    section: null
+    item: あとがき
+    start_page: 773
+    page_reference:
+      status: stated

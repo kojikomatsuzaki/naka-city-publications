@@ -1,0 +1,890 @@
+publication:
+  publication_number: '6'
+  title: 那珂町史の研究
+  source_pdf_url: https://www.city.naka.lg.jp/data/doc/1745047425_doc_902_0.pdf
+entries:
+  - id: naka-toc-06-0001
+    sequence: 1
+    heading_level: item
+    volume: 第4号
+    chapter: null
+    section: null
+    item: 題字
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-06-0002
+    sequence: 2
+    heading_level: item
+    volume: 第4号
+    chapter: null
+    section: null
+    item: 序文
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-06-0003
+    sequence: 3
+    heading_level: item
+    volume: 第4号
+    chapter: null
+    section: null
+    item: 那珂町の自然（二）
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0004
+    sequence: 4
+    heading_level: item
+    volume: 第4号
+    chapter: null
+    section: null
+    item: 那珂郡飯田村・島嶺・豊喰三村の新田開発
+    start_page: 14
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0005
+    sequence: 5
+    heading_level: item
+    volume: 第4号
+    chapter: null
+    section: null
+    item: 宝永の改革について―宝永三年貢の増徴について―
+    start_page: 42
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0006
+    sequence: 6
+    heading_level: item
+    volume: 第4号
+    chapter: null
+    section: null
+    item: 明治時代の額田小学校長野口熊八について
+    start_page: 51
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0007
+    sequence: 7
+    heading_level: item
+    volume: 第4号
+    chapter: null
+    section: null
+    item: 清水原事件
+    start_page: 55
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0008
+    sequence: 8
+    heading_level: item
+    volume: 第4号
+    chapter: null
+    section: null
+    item: 那珂郡役所新築をめぐる紛争―湊町・菅谷村―
+    start_page: 69
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0009
+    sequence: 9
+    heading_level: item
+    volume: 第4号
+    chapter: null
+    section: null
+    item: 随想
+    start_page: 82
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0010
+    sequence: 10
+    heading_level: item
+    volume: 第4号
+    chapter: null
+    section: null
+    item: 父祖ゆかりの地那珂町を訪ねて
+    start_page: 82
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0011
+    sequence: 11
+    heading_level: item
+    volume: 第4号
+    chapter: null
+    section: null
+    item: 町史編さん略日誌（四）
+    start_page: 86
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0012
+    sequence: 12
+    heading_level: item
+    volume: 第4号
+    chapter: null
+    section: null
+    item: 編集後記
+    start_page: 91
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0013
+    sequence: 13
+    heading_level: item
+    volume: 第5号
+    chapter: null
+    section: null
+    item: 題字
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-06-0014
+    sequence: 14
+    heading_level: item
+    volume: 第5号
+    chapter: null
+    section: null
+    item: 序文
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-06-0015
+    sequence: 15
+    heading_level: item
+    volume: 第5号
+    chapter: null
+    section: null
+    item: 那珂町の動物・植物の概要
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0016
+    sequence: 16
+    heading_level: item
+    volume: 第5号
+    chapter: null
+    section: null
+    item: 那珂町豊喰遺跡の再検討―最古の土器群をめぐる最近の研究成果に照して―
+    start_page: 7
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0017
+    sequence: 17
+    heading_level: item
+    volume: 第5号
+    chapter: null
+    section: null
+    item: 徳川光圀（義公）と菅谷・横須賀家について
+    start_page: 16
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0018
+    sequence: 18
+    heading_level: item
+    volume: 第5号
+    chapter: null
+    section: null
+    item: 中崎家文書に見る木崎地区の酒造考
+    start_page: 28
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0019
+    sequence: 19
+    heading_level: item
+    volume: 第5号
+    chapter: null
+    section: null
+    item: 那珂町の和算家―関流八伝石川貫道について―
+    start_page: 37
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0020
+    sequence: 20
+    heading_level: item
+    volume: 第5号
+    chapter: null
+    section: null
+    item: 鴨志田半七・孝順家文書について
+    start_page: 49
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0021
+    sequence: 21
+    heading_level: item
+    volume: 第5号
+    chapter: null
+    section: null
+    item: 那珂町域における動力の変遷―水車から内燃機関・そして電力へ―
+    start_page: 87
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0022
+    sequence: 22
+    heading_level: item
+    volume: 第5号
+    chapter: null
+    section: null
+    item: 町史編さん略日誌（五）
+    start_page: 106
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0023
+    sequence: 23
+    heading_level: item
+    volume: 第5号
+    chapter: null
+    section: null
+    item: 編集後記
+    start_page: 109
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0024
+    sequence: 24
+    heading_level: item
+    volume: 第6号
+    chapter: null
+    section: null
+    item: 題字
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-06-0025
+    sequence: 25
+    heading_level: item
+    volume: 第6号
+    chapter: null
+    section: null
+    item: 序文
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-06-0026
+    sequence: 26
+    heading_level: item
+    volume: 第6号
+    chapter: null
+    section: null
+    item: 白河内古墳覺書―特に壁画の意味と被葬者を中心として―
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0027
+    sequence: 27
+    heading_level: item
+    volume: 第6号
+    chapter: null
+    section: null
+    item: 「和名抄」に見える古代の郷名と那珂町
+    start_page: 11
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0028
+    sequence: 28
+    heading_level: item
+    volume: 第6号
+    chapter: null
+    section: null
+    item: 中崎村の年貢皆済目録―中崎家文書から（1）―
+    start_page: 23
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0029
+    sequence: 29
+    heading_level: item
+    volume: 第6号
+    chapter: null
+    section: null
+    item: 文化・文政期の額田村改革と村方騒動
+    start_page: 36
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0030
+    sequence: 30
+    heading_level: item
+    volume: 第6号
+    chapter: null
+    section: null
+    item: 武田耕雲齋の手紙（木内造酒夫所蔵）について
+    start_page: 55
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0031
+    sequence: 31
+    heading_level: item
+    volume: 第6号
+    chapter: null
+    section: null
+    item: 本県の製茶傳習所と第一製茶研究所
+    start_page: 62
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0032
+    sequence: 32
+    heading_level: item
+    volume: 第6号
+    chapter: null
+    section: null
+    item: 額田の建具業に関する経済地理学的研究
+    start_page: 75
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0033
+    sequence: 33
+    heading_level: item
+    volume: 第6号
+    chapter: null
+    section: null
+    item: 町史編さん略日誌（六）
+    start_page: 96
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0034
+    sequence: 34
+    heading_level: item
+    volume: 第6号
+    chapter: null
+    section: null
+    item: 編集後記
+    start_page: 99
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0035
+    sequence: 35
+    heading_level: item
+    volume: 第7号
+    chapter: null
+    section: null
+    item: 題字
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-06-0036
+    sequence: 36
+    heading_level: item
+    volume: 第7号
+    chapter: null
+    section: null
+    item: 序文
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-06-0037
+    sequence: 37
+    heading_level: item
+    volume: 第7号
+    chapter: null
+    section: null
+    item: 古代における那珂町周辺の産物について
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0038
+    sequence: 38
+    heading_level: item
+    volume: 第7号
+    chapter: null
+    section: null
+    item: 江戸氏の発展と綱衣争論
+    start_page: 14
+    page_reference:
+      status: stated
+    verification:
+      status: uncertain
+      fields:
+        - item
+      note: 表題の「綱衣」はOCR及び画像目視で判読に不確実性あり
+  - id: naka-toc-06-0039
+    sequence: 39
+    heading_level: item
+    volume: 第7号
+    chapter: null
+    section: null
+    item: 天保・安政期の藩政改革と額田村改革
+    start_page: 21
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0040
+    sequence: 40
+    heading_level: item
+    volume: 第7号
+    chapter: null
+    section: null
+    item: 藤田東湖の母の手紙（木内造酒夫氏所蔵）について
+    start_page: 41
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0041
+    sequence: 41
+    heading_level: item
+    volume: 第7号
+    chapter: null
+    section: null
+    item: 天狗・諸生の乱と那珂町
+    start_page: 49
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0042
+    sequence: 42
+    heading_level: item
+    volume: 第7号
+    chapter: null
+    section: null
+    item: 茶業組合と製茶の粗製乱造防止・品質改良―那珂郡茶業組合を中心として―
+    start_page: 63
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0043
+    sequence: 43
+    heading_level: item
+    volume: 第7号
+    chapter: null
+    section: null
+    item: 水郡線と根本正
+    start_page: 81
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0044
+    sequence: 44
+    heading_level: item
+    volume: 第7号
+    chapter: null
+    section: null
+    item: 町史編さん略日誌（七）
+    start_page: 92
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0045
+    sequence: 45
+    heading_level: item
+    volume: 第7号
+    chapter: null
+    section: null
+    item: 編集後記
+    start_page: 97
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0046
+    sequence: 46
+    heading_level: item
+    volume: 第8号
+    chapter: null
+    section: null
+    item: 題字
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-06-0047
+    sequence: 47
+    heading_level: item
+    volume: 第8号
+    chapter: null
+    section: null
+    item: 序
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-06-0048
+    sequence: 48
+    heading_level: item
+    volume: 第8号
+    chapter: null
+    section: null
+    item: 農村荒廃と農民層の動向―那珂台地の村々と若者組・同族集団―
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0049
+    sequence: 49
+    heading_level: item
+    volume: 第8号
+    chapter: null
+    section: null
+    item: 天保の飢饉と那珂町域
+    start_page: 35
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0050
+    sequence: 50
+    heading_level: item
+    volume: 第8号
+    chapter: null
+    section: null
+    item: 徳川齊昭の就藩と村方の「御用留」―中崎文書から（2）―
+    start_page: 47
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0051
+    sequence: 51
+    heading_level: item
+    volume: 第8号
+    chapter: null
+    section: null
+    item: 明治初年の那珂町の諸史料から
+    start_page: 65
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0052
+    sequence: 52
+    heading_level: item
+    volume: 第8号
+    chapter: null
+    section: null
+    item: 製茶の粗製濫造防止・品質改良
+    start_page: 86
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0053
+    sequence: 53
+    heading_level: item
+    volume: 第8号
+    chapter: null
+    section: null
+    item: 町史編さん略日誌（八）
+    start_page: 95
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0054
+    sequence: 54
+    heading_level: item
+    volume: 第8号
+    chapter: null
+    section: null
+    item: 編集後記
+    start_page: 98
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0055
+    sequence: 55
+    heading_level: item
+    volume: 第9号
+    chapter: null
+    section: null
+    item: 題字
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-06-0056
+    sequence: 56
+    heading_level: item
+    volume: 第9号
+    chapter: null
+    section: null
+    item: 序
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-06-0057
+    sequence: 57
+    heading_level: item
+    volume: 第9号
+    chapter: null
+    section: null
+    item: 那珂川舟運と河岸
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0058
+    sequence: 58
+    heading_level: item
+    volume: 第9号
+    chapter: null
+    section: null
+    item: 一、河岸開設と浜荷中継の特権
+    start_page: 6
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0059
+    sequence: 59
+    heading_level: item
+    volume: 第9号
+    chapter: null
+    section: null
+    item: 二、河岸利権の防衛
+    start_page: 12
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0060
+    sequence: 60
+    heading_level: item
+    volume: 第9号
+    chapter: null
+    section: null
+    item: 三、粕干鰯中継河岸の衰退
+    start_page: 19
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0061
+    sequence: 61
+    heading_level: item
+    volume: 第9号
+    chapter: null
+    section: null
+    item: 四、下江戸河岸の荷扱い量
+    start_page: 25
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0062
+    sequence: 62
+    heading_level: item
+    volume: 第9号
+    chapter: null
+    section: null
+    item: 五、河岸役銭と舟賃
+    start_page: 37
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0063
+    sequence: 63
+    heading_level: item
+    volume: 第9号
+    chapter: null
+    section: null
+    item: 六、文化文政の河岸改革
+    start_page: 47
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0064
+    sequence: 64
+    heading_level: item
+    volume: 第9号
+    chapter: null
+    section: null
+    item: 七、中継河岸の五十集荷口改め
+    start_page: 52
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0065
+    sequence: 65
+    heading_level: item
+    volume: 第9号
+    chapter: null
+    section: null
+    item: 八、弘化の河岸改革とその後
+    start_page: 57
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0066
+    sequence: 66
+    heading_level: item
+    volume: 第9号
+    chapter: null
+    section: null
+    item: 九、年表
+    start_page: 66
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0067
+    sequence: 67
+    heading_level: item
+    volume: 第9号
+    chapter: null
+    section: null
+    item: あとがき
+    start_page: 75
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0068
+    sequence: 68
+    heading_level: item
+    volume: 第9号
+    chapter: null
+    section: null
+    item: 町史編さん略日誌（九）
+    start_page: 76
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0069
+    sequence: 69
+    heading_level: item
+    volume: 第9号
+    chapter: null
+    section: null
+    item: 那珂町史の研究総目次
+    start_page: 79
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0070
+    sequence: 70
+    heading_level: item
+    volume: 第9号
+    chapter: null
+    section: null
+    item: 編集後記
+    start_page: 84
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0071
+    sequence: 71
+    heading_level: item
+    volume: 第10号
+    chapter: null
+    section: null
+    item: 題字
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-06-0072
+    sequence: 72
+    heading_level: item
+    volume: 第10号
+    chapter: null
+    section: null
+    item: 序
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-06-0073
+    sequence: 73
+    heading_level: item
+    volume: 第10号
+    chapter: null
+    section: null
+    item: 佐竹義宣及びその家臣団の文化―茶道・連歌・能を中心に―
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0074
+    sequence: 74
+    heading_level: item
+    volume: 第10号
+    chapter: null
+    section: null
+    item: 中世の城館と文化財保護（1）―茨城県那珂郡那珂町について―
+    start_page: 18
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0075
+    sequence: 75
+    heading_level: item
+    volume: 第10号
+    chapter: null
+    section: null
+    item: 近世史料の概要と保存について
+    start_page: 62
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0076
+    sequence: 76
+    heading_level: item
+    volume: 第10号
+    chapter: null
+    section: null
+    item: 徳川齊昭の就藩と村方の「御用留」（続）―中崎家文書から（3）―
+    start_page: 76
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0077
+    sequence: 77
+    heading_level: item
+    volume: 第10号
+    chapter: null
+    section: null
+    item: 海外引揚者を訪ねて
+    start_page: 94
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0078
+    sequence: 78
+    heading_level: item
+    volume: 第10号
+    chapter: null
+    section: null
+    item: 町史編さん略日誌（一〇）
+    start_page: 114
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0079
+    sequence: 79
+    heading_level: item
+    volume: 第10号
+    chapter: null
+    section: null
+    item: 編集後記
+    start_page: 116
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0080
+    sequence: 80
+    heading_level: item
+    volume: 第11号
+    chapter: null
+    section: null
+    item: 題字
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-06-0081
+    sequence: 81
+    heading_level: item
+    volume: 第11号
+    chapter: null
+    section: null
+    item: 序
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-06-0082
+    sequence: 82
+    heading_level: item
+    volume: 第11号
+    chapter: null
+    section: null
+    item: 古代の驛路と那珂地方―石橋驛を中心に―
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0083
+    sequence: 83
+    heading_level: item
+    volume: 第11号
+    chapter: null
+    section: null
+    item: 近世における那珂町の考古資料
+    start_page: 12
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0084
+    sequence: 84
+    heading_level: item
+    volume: 第11号
+    chapter: null
+    section: null
+    item: 水戸藩財政収納に関する新史料―寛政十一年分、文化四年分の「御収納元御披露目録」の紹介―
+    start_page: 29
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0085
+    sequence: 85
+    heading_level: item
+    volume: 第11号
+    chapter: null
+    section: null
+    item: 徳川齊昭夫人登美宮と那珂地方
+    start_page: 40
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0086
+    sequence: 86
+    heading_level: item
+    volume: 第11号
+    chapter: null
+    section: null
+    item: 地租改正と農民層の動向
+    start_page: 67
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0087
+    sequence: 87
+    heading_level: item
+    volume: 第11号
+    chapter: null
+    section: null
+    item: 町史編さん略日誌（一一）
+    start_page: 100
+    page_reference:
+      status: stated
+  - id: naka-toc-06-0088
+    sequence: 88
+    heading_level: item
+    volume: 第11号
+    chapter: null
+    section: null
+    item: 編集後記
+    start_page: 105
+    page_reference:
+      status: stated

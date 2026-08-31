@@ -1,0 +1,2975 @@
+publication:
+  publication_number: '2'
+  title: 那珂町史
+  source_pdf_url: https://www.city.naka.lg.jp/data/doc/1745047408_doc_902_0.pdf
+entries:
+  - id: naka-toc-02-0001
+    sequence: 1
+    heading_level: item
+    volume: 中世・近世編
+    chapter: null
+    section: null
+    item: 口絵
+    start_page: null
+    page_reference:
+      status: not_listed
+  - id: naka-toc-02-0002
+    sequence: 2
+    heading_level: item
+    volume: 中世・近世編
+    chapter: null
+    section: null
+    item: 発刊のことば
+    start_page: 1
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0003
+    sequence: 3
+    heading_level: item
+    volume: 中世・近世編
+    chapter: null
+    section: null
+    item: 凡例
+    start_page: 3
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0004
+    sequence: 4
+    heading_level: chapter
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: null
+    item: null
+    start_page: 17
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0005
+    sequence: 5
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第一節　古代から中世へ
+    item: null
+    start_page: 17
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0006
+    sequence: 6
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第一節　古代から中世へ
+    item: 平将門の乱
+    start_page: 17
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0007
+    sequence: 7
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第一節　古代から中世へ
+    item: 常陸平氏の発展
+    start_page: 21
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0008
+    sequence: 8
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第一節　古代から中世へ
+    item: 平忠常の乱と常陸
+    start_page: 23
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0009
+    sequence: 9
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第一節　古代から中世へ
+    item: 吉田郡の成立と那珂・久慈両郡の分割
+    start_page: 24
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0010
+    sequence: 10
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第一節　古代から中世へ
+    item: 前九年の役・後三年の役と常陸
+    start_page: 26
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0011
+    sequence: 11
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第一節　古代から中世へ
+    item: 義家伝説と那珂地方
+    start_page: 29
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0012
+    sequence: 12
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第二節　佐竹氏の台頭と那珂地方
+    item: null
+    start_page: 33
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0013
+    sequence: 13
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第二節　佐竹氏の台頭と那珂地方
+    item: 平安時代末期の那珂地方
+    start_page: 33
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0014
+    sequence: 14
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第二節　佐竹氏の台頭と那珂地方
+    item: 佐竹氏の進出
+    start_page: 34
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0015
+    sequence: 15
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第二節　佐竹氏の台頭と那珂地方
+    item: 国井保と国井氏
+    start_page: 37
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0016
+    sequence: 16
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第二節　佐竹氏の台頭と那珂地方
+    item: 武田郷と武田氏
+    start_page: 39
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0017
+    sequence: 17
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第二節　佐竹氏の台頭と那珂地方
+    item: 吉田氏の吉田郡支配
+    start_page: 40
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0018
+    sequence: 18
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第二節　佐竹氏の台頭と那珂地方
+    item: 保元・平治の乱と常陸
+    start_page: 43
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0019
+    sequence: 19
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第三節　佐竹氏と鎌倉幕府
+    item: null
+    start_page: 49
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0020
+    sequence: 20
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第三節　佐竹氏と鎌倉幕府
+    item: 源頼朝の挙兵と佐竹氏
+    start_page: 49
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0021
+    sequence: 21
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第三節　佐竹氏と鎌倉幕府
+    item: 金砂合戦後の処置と奥七郡
+    start_page: 53
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0022
+    sequence: 22
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第三節　佐竹氏と鎌倉幕府
+    item: 鎌倉幕府の成立と佐竹氏
+    start_page: 54
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0023
+    sequence: 23
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第三節　佐竹氏と鎌倉幕府
+    item: 那珂久氏の活躍と那珂地方
+    start_page: 58
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0024
+    sequence: 24
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第三節　佐竹氏と鎌倉幕府
+    item: 承久の乱と佐竹氏
+    start_page: 60
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0025
+    sequence: 25
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第三節　佐竹氏と鎌倉幕府
+    item: 承久の乱前後の奥七郡
+    start_page: 62
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0026
+    sequence: 26
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第三節　佐竹氏と鎌倉幕府
+    item: 宝治合戦と霜月騒動
+    start_page: 66
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0027
+    sequence: 27
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第一章　佐竹氏の進出と那珂地方
+    section: 第三節　佐竹氏と鎌倉幕府
+    item: 鎌倉末期の佐竹氏
+    start_page: 68
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0028
+    sequence: 28
+    heading_level: chapter
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: null
+    item: null
+    start_page: 71
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0029
+    sequence: 29
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第一節　南北朝の動乱と那珂地方
+    item: null
+    start_page: 71
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0030
+    sequence: 30
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第一節　南北朝の動乱と那珂地方
+    item: 北条氏の滅亡と常陸
+    start_page: 71
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0031
+    sequence: 31
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第一節　南北朝の動乱と那珂地方
+    item: 建武の新政と常陸
+    start_page: 73
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0032
+    sequence: 32
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第一節　南北朝の動乱と那珂地方
+    item: 中先代の乱と常陸
+    start_page: 76
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0033
+    sequence: 33
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第一節　南北朝の動乱と那珂地方
+    item: 北畠親房と瓜連の合戦
+    start_page: 79
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0034
+    sequence: 34
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第一節　南北朝の動乱と那珂地方
+    item: 瓜連城の戦い
+    start_page: 80
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0035
+    sequence: 35
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第一節　南北朝の動乱と那珂地方
+    item: 楠木氏の滅亡
+    start_page: 82
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0036
+    sequence: 36
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第一節　南北朝の動乱と那珂地方
+    item: 戸村氏の滅亡
+    start_page: 87
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0037
+    sequence: 37
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第一節　南北朝の動乱と那珂地方
+    item: 北畠親房の常陸経営
+    start_page: 89
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0038
+    sequence: 38
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第一節　南北朝の動乱と那珂地方
+    item: 観応の擾乱と佐竹氏
+    start_page: 90
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0039
+    sequence: 39
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第一節　南北朝の動乱と那珂地方
+    item: 佐竹義篤の讓状
+    start_page: 93
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0040
+    sequence: 40
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第一節　南北朝の動乱と那珂地方
+    item: 南北朝の統一と鎌倉府
+    start_page: 95
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0041
+    sequence: 41
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第二節　佐竹惣領家と山入庶子家の内紛
+    item: null
+    start_page: 99
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0042
+    sequence: 42
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第二節　佐竹惣領家と山入庶子家の内紛
+    item: 山入氏の成長と「佐竹の乱」
+    start_page: 99
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0043
+    sequence: 43
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第二節　佐竹惣領家と山入庶子家の内紛
+    item: 上杉禅秀の乱と額田氏滅亡
+    start_page: 101
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0044
+    sequence: 44
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第二節　佐竹惣領家と山入庶子家の内紛
+    item: 永享の乱・結城合戦と佐竹氏
+    start_page: 104
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0045
+    sequence: 45
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第二節　佐竹惣領家と山入庶子家の内紛
+    item: 義俊・義治の時代
+    start_page: 108
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0046
+    sequence: 46
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第二節　佐竹惣領家と山入庶子家の内紛
+    item: 江戸氏の擡頭
+    start_page: 110
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0047
+    sequence: 47
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第二節　佐竹惣領家と山入庶子家の内紛
+    item: 江戸氏の水戸城攻略と南郡進出
+    start_page: 112
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0048
+    sequence: 48
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第三節　佐竹義舜・義篤・義昭・義重の時代
+    item: null
+    start_page: 117
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0049
+    sequence: 49
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第三節　佐竹義舜・義篤・義昭・義重の時代
+    item: 佐竹中興の祖義舜
+    start_page: 117
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0050
+    sequence: 50
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第三節　佐竹義舜・義篤・義昭・義重の時代
+    item: 佐竹氏と江戸氏との盟約
+    start_page: 119
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0051
+    sequence: 51
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第三節　佐竹義舜・義篤・義昭・義重の時代
+    item: 義舜と古河公方の内紛
+    start_page: 123
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0052
+    sequence: 52
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第三節　佐竹義舜・義篤・義昭・義重の時代
+    item: 義篤と部垂の乱
+    start_page: 123
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0053
+    sequence: 53
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第三節　佐竹義舜・義篤・義昭・義重の時代
+    item: 北酒出新介・玄蕃太夫菅谷へ
+    start_page: 125
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0054
+    sequence: 54
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第三節　佐竹義舜・義篤・義昭・義重の時代
+    item: 天文十九年、戸村での戦闘
+    start_page: 126
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0055
+    sequence: 55
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第三節　佐竹義舜・義篤・義昭・義重の時代
+    item: 義昭の南奥進出と宇都宮出兵
+    start_page: 128
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0056
+    sequence: 56
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第三節　佐竹義舜・義篤・義昭・義重の時代
+    item: 那須出兵と東氏
+    start_page: 130
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0057
+    sequence: 57
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第三節　佐竹義舜・義篤・義昭・義重の時代
+    item: 石神城の合戦
+    start_page: 133
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0058
+    sequence: 58
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第三節　佐竹義舜・義篤・義昭・義重の時代
+    item: 義重の合従連衡策
+    start_page: 135
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0059
+    sequence: 59
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第四節　豊臣政権の成立と佐竹氏
+    item: null
+    start_page: 139
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0060
+    sequence: 60
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第四節　豊臣政権の成立と佐竹氏
+    item: 秀吉の関東奥両国惣無事令
+    start_page: 139
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0061
+    sequence: 61
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第四節　豊臣政権の成立と佐竹氏
+    item: 江戸氏と大掾氏の合戦
+    start_page: 140
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0062
+    sequence: 62
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第四節　豊臣政権の成立と佐竹氏
+    item: 天正十八年額田の乱
+    start_page: 143
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0063
+    sequence: 63
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第四節　豊臣政権の成立と佐竹氏
+    item: 会津黒川城の落城
+    start_page: 146
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0064
+    sequence: 64
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第四節　豊臣政権の成立と佐竹氏
+    item: 義宣の小田原参陣
+    start_page: 148
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0065
+    sequence: 65
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第四節　豊臣政権の成立と佐竹氏
+    item: 水戸城攻略と江戸氏の滅亡
+    start_page: 151
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0066
+    sequence: 66
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第四節　豊臣政権の成立と佐竹氏
+    item: 天正十九年額田城攻略
+    start_page: 153
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0067
+    sequence: 67
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第四節　豊臣政権の成立と佐竹氏
+    item: 絶え間ない軍役
+    start_page: 155
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0068
+    sequence: 68
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第四節　豊臣政権の成立と佐竹氏
+    item: 文禄三年の太閤検地
+    start_page: 157
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0069
+    sequence: 69
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第四節　豊臣政権の成立と佐竹氏
+    item: 那珂地方の知行割
+    start_page: 159
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0070
+    sequence: 70
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第二章　佐竹氏支配の進展と那珂地方
+    section: 第四節　豊臣政権の成立と佐竹氏
+    item: 慶長七年、突然の国替え
+    start_page: 162
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0071
+    sequence: 71
+    heading_level: chapter
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: null
+    item: null
+    start_page: 169
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0072
+    sequence: 72
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第一節　城跡
+    item: null
+    start_page: 169
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0073
+    sequence: 73
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第一節　城跡
+    item: 城の成立
+    start_page: 171
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0074
+    sequence: 74
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第一節　城跡
+    item: 南酒出城跡
+    start_page: 172
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0075
+    sequence: 75
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第一節　城跡
+    item: 北酒出城跡
+    start_page: 177
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0076
+    sequence: 76
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第一節　城跡
+    item: 額田城跡
+    start_page: 179
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0077
+    sequence: 77
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第一節　城跡
+    item: 戸村城跡
+    start_page: 182
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0078
+    sequence: 78
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第一節　城跡
+    item: 江戸城跡
+    start_page: 186
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0079
+    sequence: 79
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: null
+    start_page: 189
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0080
+    sequence: 80
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 館の成立
+    start_page: 189
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0081
+    sequence: 81
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 向坪館跡
+    start_page: 189
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0082
+    sequence: 82
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 東崎館跡
+    start_page: 191
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0083
+    sequence: 83
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 中坪館跡
+    start_page: 191
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0084
+    sequence: 84
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 玄番山館跡
+    start_page: 192
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0085
+    sequence: 85
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 原坪館跡
+    start_page: 193
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0086
+    sequence: 86
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 平野豊前重資館跡
+    start_page: 194
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0087
+    sequence: 87
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 藤咲丹後館跡
+    start_page: 197
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0088
+    sequence: 88
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 竹の内館跡
+    start_page: 197
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0089
+    sequence: 89
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 軍司筑後守館跡
+    start_page: 198
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0090
+    sequence: 90
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 飛田氏館跡
+    start_page: 199
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0091
+    sequence: 91
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 柏村越前守館跡
+    start_page: 200
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0092
+    sequence: 92
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 宮田掃部助館跡
+    start_page: 201
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0093
+    sequence: 93
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 加藤安房守館跡
+    start_page: 201
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0094
+    sequence: 94
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 掛札館跡
+    start_page: 202
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0095
+    sequence: 95
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 備前山館跡
+    start_page: 206
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0096
+    sequence: 96
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 内後館跡
+    start_page: 206
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0097
+    sequence: 97
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 大学原館跡
+    start_page: 207
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0098
+    sequence: 98
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 西木倉館跡
+    start_page: 207
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0099
+    sequence: 99
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 田崎館跡
+    start_page: 208
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0100
+    sequence: 100
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 要害館跡
+    start_page: 208
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0101
+    sequence: 101
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 門部館跡
+    start_page: 209
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0102
+    sequence: 102
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 中宿東館跡
+    start_page: 209
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0103
+    sequence: 103
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 堀之内館跡
+    start_page: 209
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0104
+    sequence: 104
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 高野館跡
+    start_page: 210
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0105
+    sequence: 105
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 神生館跡
+    start_page: 210
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0106
+    sequence: 106
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 堤館跡
+    start_page: 210
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0107
+    sequence: 107
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 木戸館跡
+    start_page: 211
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0108
+    sequence: 108
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 東風谷館跡
+    start_page: 211
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0109
+    sequence: 109
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 稲荷山館跡
+    start_page: 212
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0110
+    sequence: 110
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 檜山館跡
+    start_page: 212
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0111
+    sequence: 111
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 大内館跡
+    start_page: 212
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0112
+    sequence: 112
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第三章　那珂地方の城跡と館跡
+    section: 第二節　館跡
+    item: 小堤館跡
+    start_page: 212
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0113
+    sequence: 113
+    heading_level: chapter
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: null
+    item: null
+    start_page: 215
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0114
+    sequence: 114
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: null
+    start_page: 215
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0115
+    sequence: 115
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 那珂地方の神社
+    start_page: 215
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0116
+    sequence: 116
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 三嶋神社
+    start_page: 215
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0117
+    sequence: 117
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 鹿島八幡神社
+    start_page: 218
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0118
+    sequence: 118
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 鹿島神社
+    start_page: 218
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0119
+    sequence: 119
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 鹿島三島神社
+    start_page: 219
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0120
+    sequence: 120
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 鷲神社
+    start_page: 220
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0121
+    sequence: 121
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 駒形神社
+    start_page: 220
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0122
+    sequence: 122
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 曹洞宗の展開と那珂地方
+    start_page: 221
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0123
+    sequence: 123
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 鱗勝院
+    start_page: 223
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0124
+    sequence: 124
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 高泰院（蒼龍寺）
+    start_page: 223
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0125
+    sequence: 125
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 龍昌院
+    start_page: 225
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0126
+    sequence: 126
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 佐竹山方の真言宗の展開と那珂地方
+    start_page: 230
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0127
+    sequence: 127
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 文殊院
+    start_page: 231
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0128
+    sequence: 128
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 毘盧遮那寺
+    start_page: 232
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0129
+    sequence: 129
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 浄土宗の発展と那珂地方
+    start_page: 233
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0130
+    sequence: 130
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 浄土真宗の展開と那珂地方
+    start_page: 235
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0131
+    sequence: 131
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 山伏弁円と上宮寺
+    start_page: 237
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0132
+    sequence: 132
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 阿弥陀寺と正覚寺
+    start_page: 241
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0133
+    sequence: 133
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第一節　中世の神社と寺院
+    item: 門部リュウガイ遺跡出土の密教法具
+    start_page: 241
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0134
+    sequence: 134
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第二節　中世の武家文化
+    item: null
+    start_page: 245
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0135
+    sequence: 135
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第二節　中世の武家文化
+    item: 関東地方への茶道の伝播
+    start_page: 245
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0136
+    sequence: 136
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第二節　中世の武家文化
+    item: 佐竹義宣と茶道
+    start_page: 247
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0137
+    sequence: 137
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第二節　中世の武家文化
+    item: 佐竹氏家臣団と茶道
+    start_page: 253
+    page_reference:
+      status: stated
+    verification:
+      status: uncertain
+      fields:
+        - item
+      note: 表題の一部はOCR及び画像目視で判読に不確実性あり
+  - id: naka-toc-02-0138
+    sequence: 138
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第二節　中世の武家文化
+    item: 江戸真純と連歌
+    start_page: 258
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0139
+    sequence: 139
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第二節　中世の武家文化
+    item: 佐竹氏と連歌
+    start_page: 260
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0140
+    sequence: 140
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 中世／第四章　那珂地方の中世文化
+    section: 第二節　中世の武家文化
+    item: 佐竹氏と能楽
+    start_page: 261
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0141
+    sequence: 141
+    heading_level: chapter
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: null
+    item: null
+    start_page: 269
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0142
+    sequence: 142
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第一節　佐竹氏の秋田移封と水戸藩の成立
+    item: null
+    start_page: 269
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0143
+    sequence: 143
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第一節　佐竹氏の秋田移封と水戸藩の成立
+    item: 佐竹氏の秋田移封
+    start_page: 269
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0144
+    sequence: 144
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第一節　佐竹氏の秋田移封と水戸藩の成立
+    item: 佐竹氏移封後の那珂地方
+    start_page: 271
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0145
+    sequence: 145
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第一節　佐竹氏の秋田移封と水戸藩の成立
+    item: 備前検地
+    start_page: 272
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0146
+    sequence: 146
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第一節　佐竹氏の秋田移封と水戸藩の成立
+    item: 水戸藩の創始
+    start_page: 275
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0147
+    sequence: 147
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第二節　寛永の検地
+    item: null
+    start_page: 279
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0148
+    sequence: 148
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第二節　寛永の検地
+    item: 寛永検地の内容
+    start_page: 279
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0149
+    sequence: 149
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第二節　寛永の検地
+    item: 寛永検地帳と農民の階層
+    start_page: 283
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0150
+    sequence: 150
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第二節　寛永の検地
+    item: 那珂地方の正保の知行割替え
+    start_page: 286
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0151
+    sequence: 151
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第二節　寛永の検地
+    item: 頼元と頼隆の知行地等
+    start_page: 290
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0152
+    sequence: 152
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第三節　用水事業
+    item: null
+    start_page: 296
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0153
+    sequence: 153
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第三節　用水事業
+    item: 岩崎江の建設
+    start_page: 296
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0154
+    sequence: 154
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第三節　用水事業
+    item: 中岡村等における岩崎江の管理保全
+    start_page: 297
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0155
+    sequence: 155
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第三節　用水事業
+    item: 小場江の建設
+    start_page: 301
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0156
+    sequence: 156
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第三節　用水事業
+    item: 下江戸村にみる江筋の保全
+    start_page: 303
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0157
+    sequence: 157
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第三節　用水事業
+    item: 溜池の増設
+    start_page: 306
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0158
+    sequence: 158
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第三節　用水事業
+    item: 東木倉村における溜池の保全
+    start_page: 309
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0159
+    sequence: 159
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第四節　新田開発
+    item: null
+    start_page: 313
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0160
+    sequence: 160
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第四節　新田開発
+    item: 水戸藩の開発奨励と開発傾向
+    start_page: 313
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0161
+    sequence: 161
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第四節　新田開発
+    item: 那珂地方諸村の開発
+    start_page: 315
+    page_reference:
+      status: stated
+    verification:
+      status: uncertain
+      fields:
+        - start_page
+      note: 開始ページはOCR及び画像目視で判読に不確実性あり
+  - id: naka-toc-02-0162
+    sequence: 162
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第四節　新田開発
+    item: 戸崎飯田村の新田開発
+    start_page: 318
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0163
+    sequence: 163
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第四節　新田開発
+    item: 鳥喰（豊喰）村の新田開発
+    start_page: 323
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0164
+    sequence: 164
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第一章　水戸藩の成立と那珂地方
+    section: 第四節　新田開発
+    item: 飯田・鳥喰両新田村の存在
+    start_page: 327
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0165
+    sequence: 165
+    heading_level: chapter
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: null
+    item: null
+    start_page: 335
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0166
+    sequence: 166
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第一節　農村の組織と農民の負担
+    item: null
+    start_page: 335
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0167
+    sequence: 167
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第一節　農村の組織と農民の負担
+    item: 郡制と農村の支配
+    start_page: 335
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0168
+    sequence: 168
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第一節　農村の組織と農民の負担
+    item: 村の機能
+    start_page: 339
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0169
+    sequence: 169
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第一節　農村の組織と農民の負担
+    item: 村の景観
+    start_page: 343
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0170
+    sequence: 170
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第一節　農村の組織と農民の負担
+    item: 貢租制度
+    start_page: 345
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0171
+    sequence: 171
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第一節　農村の組織と農民の負担
+    item: 農民の階層と身分
+    start_page: 350
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0172
+    sequence: 172
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第一節　農村の組織と農民の負担
+    item: 農民の生活
+    start_page: 355
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0173
+    sequence: 173
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第二節　徳川光圀の社寺改革
+    item: null
+    start_page: 361
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0174
+    sequence: 174
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第二節　徳川光圀の社寺改革
+    item: 宗門改と寺請制
+    start_page: 362
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0175
+    sequence: 175
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第二節　徳川光圀の社寺改革
+    item: 那珂地方の寺院
+    start_page: 368
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0176
+    sequence: 176
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第二節　徳川光圀の社寺改革
+    item: 光圀の寺院整理
+    start_page: 377
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0177
+    sequence: 177
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第二節　徳川光圀の社寺改革
+    item: 向山浄鑑院
+    start_page: 385
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0178
+    sequence: 178
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第二節　徳川光圀の社寺改革
+    item: 神社改革
+    start_page: 387
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0179
+    sequence: 179
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第三節　宝永一揆
+    item: null
+    start_page: 395
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0180
+    sequence: 180
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第三節　宝永一揆
+    item: 藩財政難の増大
+    start_page: 395
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0181
+    sequence: 181
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第三節　宝永一揆
+    item: 松波勘十郎の登場と宝永改革
+    start_page: 399
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0182
+    sequence: 182
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第三節　宝永一揆
+    item: 農民の負担と貢租増徴政策
+    start_page: 405
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0183
+    sequence: 183
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第三節　宝永一揆
+    item: 農民の決起と強訴
+    start_page: 409
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0184
+    sequence: 184
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第二章　水戸藩政の展開と那珂地方
+    section: 第三節　宝永一揆
+    item: 一揆の勝利と藩側の対応
+    start_page: 414
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0185
+    sequence: 185
+    heading_level: chapter
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: null
+    item: null
+    start_page: 419
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0186
+    sequence: 186
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: 第一節　街道と宿場
+    item: null
+    start_page: 419
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0187
+    sequence: 187
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: 第一節　街道と宿場
+    item: 街道の整備
+    start_page: 419
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0188
+    sequence: 188
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: 第一節　街道と宿場
+    item: 棚倉街道と上町道、下町道
+    start_page: 423
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0189
+    sequence: 189
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: 第一節　街道と宿場
+    item: 南郷街道とその他の街道
+    start_page: 427
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0190
+    sequence: 190
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: 第一節　街道と宿場
+    item: 宿駅制度
+    start_page: 429
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0191
+    sequence: 191
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: 第一節　街道と宿場
+    item: 庶民の旅
+    start_page: 435
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0192
+    sequence: 192
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: 第二節　舟運と河岸
+    item: null
+    start_page: 441
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0193
+    sequence: 193
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: 第二節　舟運と河岸
+    item: 那珂川の舟運と河岸
+    start_page: 441
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0194
+    sequence: 194
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: 第二節　舟運と河岸
+    item: 河岸開設と浜荷中継の特権
+    start_page: 443
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0195
+    sequence: 195
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: 第二節　舟運と河岸
+    item: 河岸利権の防衛
+    start_page: 447
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0196
+    sequence: 196
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: 第二節　舟運と河岸
+    item: 柏手中継河岸の衰退
+    start_page: 450
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0197
+    sequence: 197
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: 第二節　舟運と河岸
+    item: 下江戸河岸の荷扱い量
+    start_page: 454
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0198
+    sequence: 198
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: 第二節　舟運と河岸
+    item: 河岸役銭と舟賃
+    start_page: 461
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0199
+    sequence: 199
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: 第二節　舟運と河岸
+    item: 文化・文政の河岸改革
+    start_page: 465
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0200
+    sequence: 200
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: 第二節　舟運と河岸
+    item: 中継河岸の五十集荷口改め
+    start_page: 467
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0201
+    sequence: 201
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: 第二節　舟運と河岸
+    item: 弘化の河岸改革とその後
+    start_page: 469
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0202
+    sequence: 202
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第三章　交通と運輸
+    section: 第二節　舟運と河岸
+    item: 久慈川の舟運と門部村の新河岸問題
+    start_page: 472
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0203
+    sequence: 203
+    heading_level: chapter
+    volume: 中世・近世編
+    chapter: 近世／第四章　庶民文化の発達
+    section: null
+    item: null
+    start_page: 479
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0204
+    sequence: 204
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第四章　庶民文化の発達
+    section: 第一節　庶民教育の普及
+    item: null
+    start_page: 479
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0205
+    sequence: 205
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第四章　庶民文化の発達
+    section: 第一節　庶民教育の普及
+    item: 那珂地方の寺子屋
+    start_page: 479
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0206
+    sequence: 206
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第四章　庶民文化の発達
+    section: 第一節　庶民教育の普及
+    item: 私塾の教育と向学
+    start_page: 486
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0207
+    sequence: 207
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第四章　庶民文化の発達
+    section: 第二節　庶民の文芸と芸能
+    item: null
+    start_page: 496
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0208
+    sequence: 208
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第四章　庶民文化の発達
+    section: 第二節　庶民の文芸と芸能
+    item: 那珂地方の俳諧
+    start_page: 496
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0209
+    sequence: 209
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第四章　庶民文化の発達
+    section: 第二節　庶民の文芸と芸能
+    item: 額田三日坊と義仲寺の時雨会
+    start_page: 503
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0210
+    sequence: 210
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第四章　庶民文化の発達
+    section: 第二節　庶民の文芸と芸能
+    item: 絵画と長唄
+    start_page: 506
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0211
+    sequence: 211
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第四章　庶民文化の発達
+    section: 第三節　民間武術の発達
+    item: null
+    start_page: 511
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0212
+    sequence: 212
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第四章　庶民文化の発達
+    section: 第三節　民間武術の発達
+    item: 郷士の武芸と杖術の普及
+    start_page: 511
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0213
+    sequence: 213
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第四章　庶民文化の発達
+    section: 第三節　民間武術の発達
+    item: 柔術の振興と平野又左衛門
+    start_page: 514
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0214
+    sequence: 214
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第四章　庶民文化の発達
+    section: 第四節　医学と民間治療
+    item: null
+    start_page: 519
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0215
+    sequence: 215
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第四章　庶民文化の発達
+    section: 第四節　医学と民間治療
+    item: 那珂地方の医師
+    start_page: 519
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0216
+    sequence: 216
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第四章　庶民文化の発達
+    section: 第四節　医学と民間治療
+    item: 本草と家伝の妙薬
+    start_page: 523
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0217
+    sequence: 217
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第四章　庶民文化の発達
+    section: 第五節　祭りと民間信仰
+    item: null
+    start_page: 528
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0218
+    sequence: 218
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第四章　庶民文化の発達
+    section: 第五節　祭りと民間信仰
+    item: 神社の祭り
+    start_page: 528
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0219
+    sequence: 219
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第四章　庶民文化の発達
+    section: 第五節　祭りと民間信仰
+    item: 民間信仰
+    start_page: 532
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0220
+    sequence: 220
+    heading_level: chapter
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: null
+    item: null
+    start_page: 537
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0221
+    sequence: 221
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第一節　農業
+    item: null
+    start_page: 537
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0222
+    sequence: 222
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第一節　農業
+    item: 水田作
+    start_page: 539
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0223
+    sequence: 223
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第一節　農業
+    item: 畑作
+    start_page: 549
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0224
+    sequence: 224
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第一節　農業
+    item: 著名農産物と商品作物
+    start_page: 551
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0225
+    sequence: 225
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第一節　農業
+    item: 農馬、秣野と農具
+    start_page: 556
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0226
+    sequence: 226
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第二節　農村の荒廃と農民騒動
+    item: null
+    start_page: 561
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0227
+    sequence: 227
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第二節　農村の荒廃と農民騒動
+    item: 年貢の変遷
+    start_page: 561
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0228
+    sequence: 228
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第二節　農村の荒廃と農民騒動
+    item: 凶作と飢饉
+    start_page: 565
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0229
+    sequence: 229
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第二節　農村の荒廃と農民騒動
+    item: 田畑の荒廃
+    start_page: 571
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0230
+    sequence: 230
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第二節　農村の荒廃と農民騒動
+    item: 農村の人口の変化
+    start_page: 576
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0231
+    sequence: 231
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第二節　農村の荒廃と農民騒動
+    item: 明和八年の太田鋳銭座打ちこわしと安永三年の太田村騒動
+    start_page: 581
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0232
+    sequence: 232
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第二節　農村の荒廃と農民騒動
+    item: 頻発する村方騒動
+    start_page: 586
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0233
+    sequence: 233
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第三節　農民層の動向と農村改革
+    item: null
+    start_page: 592
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0234
+    sequence: 234
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第三節　農民層の動向と農村改革
+    item: 同族団の組織と動揺
+    start_page: 592
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0235
+    sequence: 235
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第三節　農民層の動向と農村改革
+    item: 若者組の組織と行動
+    start_page: 595
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0236
+    sequence: 236
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第三節　農民層の動向と農村改革
+    item: 寛政期の藩政と農政論
+    start_page: 599
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0237
+    sequence: 237
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第三節　農民層の動向と農村改革
+    item: 農政改革と勧農
+    start_page: 602
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0238
+    sequence: 238
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第五章　農業と農村の変容
+    section: 第三節　農民層の動向と農村改革
+    item: 村方改革
+    start_page: 606
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0239
+    sequence: 239
+    heading_level: chapter
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: null
+    item: null
+    start_page: 613
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0240
+    sequence: 240
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第一節　天保の政情
+    item: null
+    start_page: 613
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0241
+    sequence: 241
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第一節　天保の政情
+    item: 斉脩の襲封
+    start_page: 613
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0242
+    sequence: 242
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第一節　天保の政情
+    item: 磯崎村・額田村改革と飯田村の処罰
+    start_page: 614
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0243
+    sequence: 243
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第一節　天保の政情
+    item: 郡制と那珂地方
+    start_page: 619
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0244
+    sequence: 244
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第一節　天保の政情
+    item: 斉脩の瑞龍山参拝と額田村鈴木家
+    start_page: 623
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0245
+    sequence: 245
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第一節　天保の政情
+    item: 静神社参拝
+    start_page: 626
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0246
+    sequence: 246
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第一節　天保の政情
+    item: 天保の飢饉と那珂地方
+    start_page: 628
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0247
+    sequence: 247
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第一節　天保の政情
+    item: 公儀巡見と村々の対応
+    start_page: 632
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0248
+    sequence: 248
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第二節　天保検地
+    item: null
+    start_page: 639
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0249
+    sequence: 249
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第二節　天保検地
+    item: 検地をめぐる論議
+    start_page: 639
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0250
+    sequence: 250
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第二節　天保検地
+    item: 検地の準備
+    start_page: 643
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0251
+    sequence: 251
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第二節　天保検地
+    item: 検地の実施
+    start_page: 646
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0252
+    sequence: 252
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第二節　天保検地
+    item: 検地の結果と年貢の変化
+    start_page: 660
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0253
+    sequence: 253
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第二節　天保検地
+    item: 検地による村々の変化
+    start_page: 663
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0254
+    sequence: 254
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第三節　社寺改革
+    item: null
+    start_page: 671
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0255
+    sequence: 255
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第三節　社寺改革
+    item: 改革の背景
+    start_page: 671
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0256
+    sequence: 256
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第三節　社寺改革
+    item: 葬祭刷新と飯田村の自葬祭願い
+    start_page: 673
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0257
+    sequence: 257
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第三節　社寺改革
+    item: 梵鐘・仏具類の没収
+    start_page: 676
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0258
+    sequence: 258
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第三節　社寺改革
+    item: 寺院・僧侶の整理
+    start_page: 680
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0259
+    sequence: 259
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第三節　社寺改革
+    item: 東照宮祭祀と神仏分離
+    start_page: 684
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0260
+    sequence: 260
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第三節　社寺改革
+    item: 菅谷村鹿島神社の創建
+    start_page: 686
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0261
+    sequence: 261
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第六章　天保の改革と那珂地方の村々
+    section: 第三節　社寺改革
+    item: 斉昭の失脚と本米崎村仏葬願い
+    start_page: 691
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0262
+    sequence: 262
+    heading_level: chapter
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: null
+    item: null
+    start_page: 695
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0263
+    sequence: 263
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第一節　弘化甲辰の国難
+    item: null
+    start_page: 695
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0264
+    sequence: 264
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第一節　弘化甲辰の国難
+    item: 斉昭の失脚
+    start_page: 695
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0265
+    sequence: 265
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第一節　弘化甲辰の国難
+    item: 檜山伴次・鹿島縫殿衛門らの雪冤運動
+    start_page: 696
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0266
+    sequence: 266
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第一節　弘化甲辰の国難
+    item: 阿久津藤左衛門らの復権運動
+    start_page: 700
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0267
+    sequence: 267
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第二節　安政の改革
+    item: null
+    start_page: 706
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0268
+    sequence: 268
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第二節　安政の改革
+    item: 吉田松陰の水戸遊学と小場村・下江戸村訪問
+    start_page: 706
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0269
+    sequence: 269
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第二節　安政の改革
+    item: 献金郷士復活とペリーの来航
+    start_page: 709
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0270
+    sequence: 270
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第二節　安政の改革
+    item: 安政の大地震と結城派寺門登一郎らの処分
+    start_page: 710
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0271
+    sequence: 271
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第二節　安政の改革
+    item: 追鳥狩と那珂地方の村々
+    start_page: 714
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0272
+    sequence: 272
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第二節　安政の改革
+    item: 農兵の取り立て
+    start_page: 720
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0273
+    sequence: 273
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第三節　桜田門外の変
+    item: null
+    start_page: 723
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0274
+    sequence: 274
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第三節　桜田門外の変
+    item: 通商条約の調印と斉昭の処罰
+    start_page: 723
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0275
+    sequence: 275
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第三節　桜田門外の変
+    item: 第一次小金屯集
+    start_page: 728
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0276
+    sequence: 276
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第三節　桜田門外の変
+    item: 安政の大獄と那珂地方農民の南上
+    start_page: 732
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0277
+    sequence: 277
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第三節　桜田門外の変
+    item: 井伊大老襲撃と海後磯之介
+    start_page: 733
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0278
+    sequence: 278
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第三節　桜田門外の変
+    item: 斉昭死後の政情と村々の対応
+    start_page: 739
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0279
+    sequence: 279
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第三節　桜田門外の変
+    item: 藩主慶篤の上京と小宅三左衛門
+    start_page: 741
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0280
+    sequence: 280
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第四節　元治甲子の乱
+    item: null
+    start_page: 746
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0281
+    sequence: 281
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第四節　元治甲子の乱
+    item: 筑波山挙兵
+    start_page: 746
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0282
+    sequence: 282
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第四節　元治甲子の乱
+    item: 那珂湊の戦いと那珂地方の対応
+    start_page: 748
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0283
+    sequence: 283
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第四節　元治甲子の乱
+    item: 那珂湊・神勢館の戦い
+    start_page: 749
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0284
+    sequence: 284
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第四節　元治甲子の乱
+    item: 本米崎村の焼打ち
+    start_page: 751
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0285
+    sequence: 285
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第四節　元治甲子の乱
+    item: 額田原の戦い
+    start_page: 752
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0286
+    sequence: 286
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第四節　元治甲子の乱
+    item: 榊原新左衛門の投降
+    start_page: 754
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0287
+    sequence: 287
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第四節　元治甲子の乱
+    item: 寺門登一郎の奮戦と田中愿蔵の最期
+    start_page: 758
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0288
+    sequence: 288
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第四節　元治甲子の乱
+    item: 天狗党の西上と本圀寺勢
+    start_page: 760
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0289
+    sequence: 289
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第四節　元治甲子の乱
+    item: 諸生方への加勢と打ちこわし
+    start_page: 763
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0290
+    sequence: 290
+    heading_level: section
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第五節　戊辰の内乱
+    item: null
+    start_page: 768
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0291
+    sequence: 291
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第五節　戊辰の内乱
+    item: 天狗騒動後の那珂地方
+    start_page: 768
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0292
+    sequence: 292
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第五節　戊辰の内乱
+    item: 御一新と戊辰の役
+    start_page: 770
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0293
+    sequence: 293
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第五節　戊辰の内乱
+    item: 天狗、諸生対立の終焉
+    start_page: 774
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0294
+    sequence: 294
+    heading_level: item
+    volume: 中世・近世編
+    chapter: 近世／第七章　幕末の争乱と那珂地方の村々
+    section: 第五節　戊辰の内乱
+    item: 廃藩置県
+    start_page: 777
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0295
+    sequence: 295
+    heading_level: item
+    volume: 中世・近世編
+    chapter: null
+    section: null
+    item: 那珂町史略年表
+    start_page: 779
+    page_reference:
+      status: stated
+  - id: naka-toc-02-0296
+    sequence: 296
+    heading_level: item
+    volume: 中世・近世編
+    chapter: null
+    section: null
+    item: あとがき
+    start_page: 789
+    page_reference:
+      status: stated
